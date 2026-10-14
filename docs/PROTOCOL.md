@@ -123,3 +123,5 @@ Registrados depois do commit do protocolo e antes da primeira chamada de modelo.
 6. A revisão manual excluiu 5 leituras de companhia aérea em que o Wikidata aponta outra empresa com o mesmo código; os motivos estão em src/finalize_gold.py.
 7. Leituras de DNS receberam aliases manuais, porque o rótulo da IANA é uma descrição.
 8. O pedido de pageviews passou a usar um User-Agent com URL de contato, exigido pela Wikimedia; o período e a métrica não mudaram.
+9. Respostas cortadas pelo limite de 400 tokens foram repetidas uma vez com 1.500 tokens, antes de qualquer pontuação. As que continuaram cortadas eram laços de repetição e contam como FORMAT.
+10. Uma chamada com falha de rede no Gemma e uma no Llama foram repetidas pelo modo de retomada.

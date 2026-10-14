@@ -15,10 +15,10 @@ import requests
 URL = "https://router.huggingface.co/v1/chat/completions"
 
 
-def one(model, c, token):
+def one(model, c, token, max_tokens=400):
     text = c["prompt"] + (" /no_think" if "Qwen3" in model else "")
     body = {"model": model, "messages": [{"role": "user", "content": text}], "temperature": 0, "seed": 7,
-            "max_tokens": 400, "response_format": {"type": "json_schema", "json_schema": {"name": "out", "schema": c["schema"]}}}
+            "max_tokens": max_tokens, "response_format": {"type": "json_schema", "json_schema": {"name": "out", "schema": c["schema"]}}}
     for attempt in range(6):
         t0 = time.time()
         try:
@@ -36,6 +36,20 @@ def one(model, c, token):
         time.sleep(2 ** attempt if r.status_code in (429, 500, 502, 503, 504) else 1)
     return {"call_id": c["call_id"], "model": model, "sent": text, "content": None, **last,
             "ts": dt.datetime.now(dt.timezone.utc).isoformat()}
+
+
+def redo_truncated(calls_path, model, out, max_tokens=1500):
+    """Re-run calls whose last response hit the token limit; the new record is appended and wins in scoring."""
+    token = os.environ["HF_TOKEN"]
+    calls = {c["call_id"]: c for c in map(json.loads, open(calls_path, encoding="utf-8"))}
+    last = {}
+    for l in open(out, encoding="utf-8"):
+        r = json.loads(l); last[r["call_id"]] = r
+    todo = [calls[k] for k, r in last.items() if r.get("finish") == "length"]
+    print(f"{model}: {len(todo)} truncated, re-running with max_tokens={max_tokens}", flush=True)
+    with open(out, "a", encoding="utf-8") as fh:
+        for c in todo:
+            fh.write(json.dumps(one(model, c, token, int(max_tokens)), ensure_ascii=False) + "\n"); fh.flush()
 
 
 def main(calls_path, model, out, workers=6):
@@ -56,4 +70,7 @@ def main(calls_path, model, out, workers=6):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    if sys.argv[1] == "--redo-truncated":
+        redo_truncated(*sys.argv[2:])
+    else:
+        main(*sys.argv[1:])
