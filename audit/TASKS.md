@@ -34,13 +34,13 @@ Branch: audit-v3. Cada item é marcado ao concluir, com o artefato que o verific
 - [x] 10. Concordância, matriz de confusão e principais erros; no máximo uma rodada de correção
 
 ## 5. Reavaliação
-- [ ] 11. results_v3/scored.csv com as 5.076 respostas; impacto de FORMAT/TRUNCATED à parte
-- [ ] 12. E1 a E4 com recortes P1, P2 e P1 ∩ P2, pares e literais efetivos, sensibilidade às paráfrases
-- [ ] 13. Transições v1 → v2 → v3 com regra responsável e impacto nas métricas
+- [x] 11. results_v3/scored.csv com as 5.076 respostas; impacto de FORMAT/TRUNCATED à parte
+- [x] 12. E1 a E4 com recortes P1, P2 e P1 ∩ P2, pares e literais efetivos, sensibilidade às paráfrases
+- [x] 13. Transições v1 → v2 → v3 com regra responsável e impacto nas métricas
 
 ## 6. Relatório e decisão
-- [ ] 14. docs/AUDIT_REPORT.md
-- [ ] 15. docs/DECISION.md
+- [x] 14. docs/AUDIT_REPORT.md
+- [x] 15. docs/DECISION.md
 - [ ] 16. Reconstrução do zero a partir de runs/ com hashes; arquivos com até 639 linhas
 - [ ] 17. Rascunhos de commit no chat, commits na branch, sem push; resumo executivo e pedido vs entregue
 

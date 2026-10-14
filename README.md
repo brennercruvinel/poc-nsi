@@ -25,3 +25,16 @@ uv run python -I src/score.py data/gold.csv runs/calls.jsonl results runs/*.json
 - data: candidates, pre-sample with popularity, gold file.
 - runs: every model call with its raw response, in JSONL.
 - results: scored responses and the summary.
+
+## Audit v3 (post hoc, branch audit-v3)
+Closed-scope audit of the collected data with a three-dimension evaluator (entity, namespace, behaviour). Contract and rules: docs/AUDIT_PROTOCOL.md. Report: docs/AUDIT_REPORT.md. Decision: docs/DECISION.md. Integrity manifest, inventories and the sealed review sample: audit/. Original v1 and v2 outputs are untouched.
+```
+uv run python -I src/audit_integrity.py .
+uv run python -I src/audit_inventory.py .
+uv run python -I -m unittest discover -s tests
+uv run python -I src/score_v3.py data/gold.csv runs/calls.jsonl data/namespace_canon.json results_v3 runs/*.jsonl
+uv run python -I src/analyze_v3.py data/gold.csv results_v3
+uv run python -I src/transitions_v3.py data/gold.csv results results_v2 results_v3
+uv run python -I src/review_agreement.py audit results_v3
+```
+The sealed sample (audit/review_sample.sha256) reproduces with src/sample_review.py run against the evaluator frozen at commit 3a41055, before the single correction round.

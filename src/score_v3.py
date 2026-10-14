@@ -239,10 +239,11 @@ def score_run(run_p, gold, calls, canon, G):
             reads = score_readings(d, rset, lit, canon, None, sid_of)
             row["category"], row["detail"] = derive_c1(beh, reads, role == "control", top.get(lit))
         elif c["cond"] == "P1":
-            row["category"] = "FORMAT" if d is None else "UNKNOWN" if d.get("status") == "unknown" else \
-                "PASS" if str(d.get("code", "")).strip().casefold() == gold_rows[c["item"]]["literal"].casefold() else "FAIL"
+            # pre-registered rule (v1): the returned code is the literal; the status field is kept in detail for the strict cut
+            row["category"] = "FORMAT" if d is None else "PASS" if str(d.get("code", "")).strip().casefold() == gold_rows[c["item"]]["literal"].casefold() else "FAIL"
+            row["detail"] = str((d or {}).get("status", "")); row["behaviour"] = row["failure_type"] = ""
         else:
-            row["category"] = (d or {}).get("answer", "FORMAT")
+            row["category"] = (d or {}).get("answer", "FORMAT"); row["behaviour"] = row["failure_type"] = ""
         if reads:
             row.update(n_readings=len(reads), has_correct=any(x["entity"] == "CORRECT" for x in reads),
                        has_competitor=any(x["entity"] == "COMPETITOR" for x in reads), ns_of_correct=ns_of_correct(reads),
