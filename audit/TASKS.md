@@ -41,8 +41,8 @@ Branch: audit-v3. Cada item é marcado ao concluir, com o artefato que o verific
 ## 6. Relatório e decisão
 - [x] 14. docs/AUDIT_REPORT.md
 - [x] 15. docs/DECISION.md
-- [ ] 16. Reconstrução do zero a partir de runs/ com hashes; arquivos com até 639 linhas
-- [ ] 17. Rascunhos de commit no chat, commits na branch, sem push; resumo executivo e pedido vs entregue
+- [x] 16. Reconstrução do zero a partir de runs/ com hashes; arquivos com até 639 linhas
+- [x] 17. Rascunhos de commit no chat, commits na branch, sem push; resumo executivo e pedido vs entregue
 
 ## Regra metodológica fixada antes da v3
 - Entidade, namespace e comportamento são dimensões independentes.
