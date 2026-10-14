@@ -1,0 +1,287 @@
+{
+ "Qwen/Qwen3-8B:featherless-ai": {
+  "n_calls": 1692,
+  "http_fail": 0,
+  "format": 3,
+  "p1_pass": 0.2916666666666667,
+  "p2_pass": 0.36666666666666664,
+  "p1_p2_agree": 0.8083333333333333,
+  "p1_p2_table": {
+   "P1=False,P2=False": 69,
+   "P1=False,P2=True": 16,
+   "P1=True,P2=True": 28,
+   "P1=True,P2=False": 7
+  },
+  "E1_C2": {
+   "delta": -0.027777777777777762,
+   "lo": -0.3939393939393939,
+   "hi": 0.2857142857142857,
+   "pairs": 12,
+   "literals": 11
+  },
+  "C2_err_known_collision": 0.48,
+  "C2_err_known_control": 0.3859649122807018,
+  "C2_categories_known_collision": {
+   "CORRECT": 39,
+   "UNKNOWN": 19,
+   "OTHER_WRONG": 15,
+   "AMBIG_FLAG": 2
+  },
+  "C2_categories_unknown_collision": {
+   "BOTH": 5,
+   "UNKNOWN": 42,
+   "OTHER_WRONG": 56,
+   "COMPETING": 11,
+   "AMBIG_FLAG": 7,
+   "CORRECT": 5
+  },
+  "C2_categories_known_control": {
+   "CORRECT": 35,
+   "OTHER_WRONG": 18,
+   "UNKNOWN": 4
+  },
+  "C2_variant_err_known_collision": [
+   0.32,
+   0.88,
+   0.24
+  ],
+  "E1_C3": {
+   "delta": -0.027777777777777773,
+   "lo": -0.33333333333333337,
+   "hi": 0.23809523809523814,
+   "pairs": 12,
+   "literals": 11
+  },
+  "C3_err_known_collision": 0.44,
+  "C3_err_known_control": 0.33333333333333337,
+  "C3_categories_known_collision": {
+   "CORRECT": 42,
+   "OTHER_WRONG": 30,
+   "COMPETING": 2,
+   "AMBIG_FLAG": 1
+  },
+  "C3_categories_unknown_collision": {
+   "OTHER_WRONG": 102,
+   "COMPETING": 10,
+   "CORRECT": 9,
+   "AMBIG_FLAG": 5
+  },
+  "C3_categories_known_control": {
+   "CORRECT": 38,
+   "OTHER_WRONG": 18,
+   "AMBIG_FLAG": 1
+  },
+  "C3_variant_err_known_collision": [
+   0.48,
+   0.4,
+   0.44
+  ],
+  "E1_C4": {
+   "delta": 0.02777777777777778,
+   "lo": 0.0,
+   "hi": 0.09090909090909091,
+   "pairs": 12,
+   "literals": 11
+  },
+  "C4_err_known_collision": 0.013333333333333334,
+  "C4_err_known_control": 0.0,
+  "C4_categories_known_collision": {
+   "CORRECT": 74,
+   "OTHER_WRONG": 1
+  },
+  "C4_categories_unknown_collision": {
+   "BOTH": 9,
+   "CORRECT": 117
+  },
+  "C4_categories_known_control": {
+   "CORRECT": 57
+  },
+  "C4_variant_err_known_collision": [
+   0.04,
+   0.0,
+   0.0
+  ],
+  "E3_C1_collision": {
+   "PARTIAL": 36,
+   "SINGLE": 7,
+   "MULTI": 2,
+   "WRONG": 45,
+   "FORMAT": 2,
+   "UNKNOWN": 1
+  },
+  "E3_C1_control": {
+   "SINGLE_CORRECT": 21,
+   "FALSE_ALARM": 65,
+   "WRONG": 72,
+   "FORMAT": 1
+  },
+  "E3_single_rate": {
+   "est": 0.07526881720430108,
+   "lo": 0.021505376344086023,
+   "hi": 0.13978494623655913
+  },
+  "E3_false_alarm_rate": {
+   "est": 0.4088050314465409,
+   "lo": 0.3018867924528302,
+   "hi": 0.5220125786163522
+  },
+  "E3_single_which": {
+   "other": 3,
+   "top": 4
+  }
+ },
+ "google/gemma-3-12b-it:featherless-ai": {
+  "n_calls": 1692,
+  "http_fail": 0,
+  "format": 0,
+  "p1_pass": 0.24166666666666667,
+  "p2_pass": 0.6583333333333333,
+  "p1_p2_agree": 0.4666666666666667,
+  "p1_p2_table": {
+   "P1=False,P2=True": 57,
+   "P1=True,P2=True": 22,
+   "P1=False,P2=False": 34,
+   "P1=True,P2=False": 7
+  },
+  "E1_C2": {
+   "delta": 0.21333333333333335,
+   "lo": 0.038461538461538464,
+   "hi": 0.391304347826087,
+   "pairs": 25,
+   "literals": 17
+  },
+  "C2_err_known_collision": 0.6740740740740742,
+  "C2_err_known_control": 0.5588235294117647,
+  "C2_categories_known_collision": {
+   "BOTH": 5,
+   "COMPETING": 7,
+   "AMBIG_FLAG": 6,
+   "CORRECT": 44,
+   "UNKNOWN": 6,
+   "OTHER_WRONG": 67
+  },
+  "C2_categories_unknown_collision": {
+   "COMPETING": 2,
+   "OTHER_WRONG": 57,
+   "UNKNOWN": 2,
+   "AMBIG_FLAG": 3,
+   "CORRECT": 2
+  },
+  "C2_categories_known_control": {
+   "UNKNOWN": 3,
+   "CORRECT": 45,
+   "OTHER_WRONG": 52,
+   "AMBIG_FLAG": 2
+  },
+  "C2_variant_err_known_collision": [
+   0.6,
+   0.7333333333333333,
+   0.6888888888888889
+  ],
+  "E1_C3": {
+   "delta": 0.08,
+   "lo": -0.08,
+   "hi": 0.24242424242424246,
+   "pairs": 25,
+   "literals": 17
+  },
+  "C3_err_known_collision": 0.6592592592592593,
+  "C3_err_known_control": 0.7254901960784315,
+  "C3_categories_known_collision": {
+   "AMBIG_FLAG": 32,
+   "UNKNOWN": 10,
+   "COMPETING": 3,
+   "OTHER_WRONG": 44,
+   "CORRECT": 46
+  },
+  "C3_categories_unknown_collision": {
+   "OTHER_WRONG": 27,
+   "AMBIG_FLAG": 35,
+   "UNKNOWN": 3,
+   "CORRECT": 1
+  },
+  "C3_categories_known_control": {
+   "AMBIG_FLAG": 30,
+   "OTHER_WRONG": 41,
+   "UNKNOWN": 3,
+   "CORRECT": 28
+  },
+  "C3_variant_err_known_collision": [
+   0.7111111111111111,
+   0.5777777777777777,
+   0.6888888888888889
+  ],
+  "E1_C4": {
+   "delta": 0.09333333333333334,
+   "lo": 0.0,
+   "hi": 0.21333333333333332,
+   "pairs": 25,
+   "literals": 17
+  },
+  "C4_err_known_collision": 0.08888888888888889,
+  "C4_err_known_control": 0.0,
+  "C4_categories_known_collision": {
+   "BOTH": 9,
+   "CORRECT": 123,
+   "OTHER_WRONG": 3
+  },
+  "C4_categories_unknown_collision": {
+   "CORRECT": 66
+  },
+  "C4_categories_known_control": {
+   "CORRECT": 102
+  },
+  "C4_variant_err_known_collision": [
+   0.08888888888888889,
+   0.06666666666666667,
+   0.1111111111111111
+  ],
+  "E3_C1_collision": {
+   "WRONG": 18,
+   "PARTIAL": 71,
+   "MULTI": 1,
+   "SINGLE": 3
+  },
+  "E3_C1_control": {
+   "WRONG": 43,
+   "FALSE_ALARM": 105,
+   "SINGLE_CORRECT": 11
+  },
+  "E3_single_rate": {
+   "est": 0.03225806451612903,
+   "lo": 0.0,
+   "hi": 0.08602150537634409
+  },
+  "E3_false_alarm_rate": {
+   "est": 0.660377358490566,
+   "lo": 0.559748427672956,
+   "hi": 0.7547169811320755
+  },
+  "E3_single_which": {
+   "top": 3
+  }
+ },
+ "meta-llama/Llama-3.1-8B-Instruct:featherless-ai": {
+  "n_calls": 1692,
+  "http_fail": 0,
+  "format": 59,
+  "p1_pass": 0.5833333333333334,
+  "p2_pass": 0.5916666666666667,
+  "p1_p2_agree": 0.675,
+  "p1_p2_table": {
+   "P1=False,P2=True": 20,
+   "P1=True,P2=True": 51,
+   "P1=False,P2=False": 30,
+   "P1=True,P2=False": 19
+  },
+  "E1_C2": {
+   "delta": 0.22222222222222224,
+   "lo": 0.08333333333333333,
+   "hi": 0.3650793650793651,
+   "pairs": 21,
+   "literals": 16
+  },
+  "C2_err_known_collision": 0.43089430894308944,
+  "C2_err_known_control": 0.41111111111111115,
+  "C2_categories_known_collision": {
+   "BOTH": 9

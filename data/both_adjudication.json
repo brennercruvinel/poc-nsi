@@ -1,0 +1,8 @@
+{"_note": "Manual adjudication of responses matching both the target and a competitor alias (protocol: casamento ambiguo revisado). Key: item + entities joined by ' ; '.",
+ "ARU|lng/ioc::Aruba": "CORRECT",
+ "ARU|lng/ioc::Aruba National Olympic Committee": "CORRECT",
+ "ARU|lng/ioc::American Samoa ; Aruba": "OTHER_WRONG",
+ "OMA|lng/ioc::Oman": "CORRECT",
+ "OMA|lng/ioc::Oman ; Oman": "CORRECT",
+ "OMA|lng/ioc::Olympic Games, Oman": "CORRECT",
+ "OMA|trp/ica2::Oman Air": "CORRECT"}

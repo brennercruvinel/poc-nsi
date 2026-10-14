@@ -12,6 +12,8 @@ import sys
 import unicodedata
 
 SEED, B = 20261014, 10000
+V2 = os.environ.get("SCORER") == "v2"
+ADJ = {}
 GENERIC = {"airport", "international", "airlines", "airline", "inc", "corporation", "corp", "company", "co", "ltd", "plc", "the"}
 
 
@@ -25,8 +27,9 @@ def cores(aliases, literal):
     out = []
     for a in aliases:
         t = toks(a)
-        if len(a.strip()) <= 3 or t == [literal.casefold()]:
-            continue  # a bare code is not an entity name
+        code_like = (a.strip().isupper() and len(a.strip()) <= 3) if V2 else len(a.strip()) <= 3
+        if code_like or t == [literal.casefold()]:
+            continue  # a bare code is not an entity name; v2 keeps short real names such as Lek
         c = frozenset(x for x in t if x not in GENERIC)
         if c: out.append(c)
     return out
@@ -49,13 +52,15 @@ def parse(content):
             return None
 
 
-def classify(d, target, competitors):
+def classify(d, target, competitors, item=""):
     if d is None or d.get("status") not in ("answer", "ambiguous", "unknown"): return "FORMAT"
     if d["status"] == "unknown": return "UNKNOWN"
     if d["status"] == "ambiguous": return "AMBIG_FLAG"
     text = " ; ".join(str(r.get("entity", "")) for r in d.get("readings") or [] if isinstance(r, dict))
     a, b = hit(text, target), any(hit(text, c) for c in competitors)
-    return "CORRECT" if a and not b else "COMPETING" if b and not a else "BOTH" if a and b else "OTHER_WRONG"
+    k = "CORRECT" if a and not b else "COMPETING" if b and not a else "BOTH" if a and b else "OTHER_WRONG"
+    if k == "BOTH" and V2: k = ADJ.get(f"{item}::{text}", "BOTH")
+    return k
 
 
 def c1_class(d, readings, top_id, is_control):
@@ -84,6 +89,7 @@ def mean(x): return sum(x) / len(x) if x else float("nan")
 
 def main(gold_p, calls_p, out_dir, *runs):
     rng = random.Random(SEED)
+    if V2: ADJ.update(json.load(open(os.path.join(os.path.dirname(gold_p), "both_adjudication.json"), encoding="utf-8")))
     gold = {g["id"]: g for g in csv.DictReader(open(gold_p, encoding="utf-8"))}
     calls = {c["call_id"]: c for c in map(json.loads, open(calls_p, encoding="utf-8"))}
     tgt = {i: cores(json.loads(g["aliases"]), g["literal"]) for i, g in gold.items()}
@@ -107,7 +113,7 @@ def main(gold_p, calls_p, out_dir, *runs):
         for cid, r in res.items():
             c = calls[cid]; d = parse(r.get("content"))
             if c["cond"] in ("C2", "C3", "C4"):
-                k = classify(d, tgt[c["item"]], comp[c["item"]]); extra = ""
+                k = classify(d, tgt[c["item"]], comp[c["item"]], c["item"]); extra = ""
             elif c["cond"] == "C1":
                 role, lit = c["item"].split("|", 1)
                 if role == "control":
