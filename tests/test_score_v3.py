@@ -4,7 +4,7 @@ import os
 import sys
 import unittest
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src", "audit"))
 import score_v3 as S  # noqa: E402
 
 CANON = os.path.join(os.path.dirname(__file__), "..", "data", "namespace_canon.json")

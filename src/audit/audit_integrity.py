@@ -59,7 +59,7 @@ def run_model(root, name, calls, planned_ids):
 
 
 def score_rule(res):
-    """The rule used in src/score.py (v1 and v2), copied verbatim."""
+    """The rule used in src/poc/score.py (v1 and v2), copied verbatim."""
     ok = {x["call_id"] for x in res if x.get("http") == 200}
     return {r["call_id"]: r for r in res if r.get("http") == 200 or r["call_id"] not in ok}
 
@@ -70,7 +70,7 @@ def reproduce(root):
     runs = [f"{root}/runs/{n}.jsonl" for n in MODELS]
     for tag, env in (("results", {}), ("results_v2", {"SCORER": "v2"})):
         with tempfile.TemporaryDirectory() as tmp:
-            subprocess.run([sys.executable, "-I", f"{root}/src/score.py", f"{root}/data/gold.csv", f"{root}/runs/calls.jsonl", tmp, *runs],
+            subprocess.run([sys.executable, "-I", f"{root}/src/poc/score.py", f"{root}/data/gold.csv", f"{root}/runs/calls.jsonl", tmp, *runs],
                            env={**os.environ, **env}, check=True, capture_output=True)
             out[tag] = {f: {"committed": sha(f"{root}/{tag}/{f}"), "rebuilt": sha(f"{tmp}/{f}")} for f in ("scored.csv", "summary.json")}
             for f in out[tag]: out[tag][f]["equal"] = out[tag][f]["committed"] == out[tag][f]["rebuilt"]
@@ -88,10 +88,10 @@ def main(root):
         "gold.csv": git("log", "--format=%h", "6197b9e..main", "--", "data/gold.csv").splitlines(),
         "calls.jsonl": git("log", "--format=%h", "6197b9e..main", "--", "runs/calls.jsonl").splitlines(),
         "PROTOCOL.md": git("log", "--format=%h", "02d6bb5..main", "--", "docs/PROTOCOL.md").splitlines(),
-        "score.py": git("log", "--format=%h", "6197b9e..main", "--", "src/score.py").splitlines(),
+        "score.py": git("log", "--format=%h", "6197b9e..main", "--", "src/score.py", "src/poc/score.py").splitlines(),
         "runs": git("log", "--format=%h", "3e5cbfd..main", "--", "runs/").splitlines()}
     with tempfile.TemporaryDirectory() as tmp:
-        subprocess.run([sys.executable, "-I", f"{root}/src/prompts.py", f"{root}/data/gold.csv", f"{tmp}/calls.jsonl"], check=True, capture_output=True)
+        subprocess.run([sys.executable, "-I", f"{root}/src/poc/prompts.py", f"{root}/data/gold.csv", f"{tmp}/calls.jsonl"], check=True, capture_output=True)
         rep["calls"] = {"sha256": sha(f"{root}/runs/calls.jsonl"), "rebuilt_from_gold": sha(f"{tmp}/calls.jsonl")}
     rep["calls"]["equal"] = rep["calls"]["sha256"] == rep["calls"]["rebuilt_from_gold"]
     calls = {c["call_id"]: c for c in map(json.loads, open(f"{root}/runs/calls.jsonl", encoding="utf-8"))}

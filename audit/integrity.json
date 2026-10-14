@@ -7,6 +7,10 @@
   "consistent": true
  },
  "commits": [
+  "23188da 2026-10-14 03:25:48 -0300 audit v3: task list closed",
+  "66f52b9 2026-10-14 03:25:45 -0300 audit v3: P1 pre-registered rule restored, metrics E1-E4, transitions v1/v2/v3",
+  "6f51944 2026-10-14 03:19:23 -0300 audit v3: sealed validation sample, blind review, agreement, single correction round",
+  "3a41055 2026-10-14 03:13:04 -0300 audit v3: integrity manifest, evaluator spec, scorer and tests frozen before scoring",
   "65190d2 2026-10-14 02:39:52 -0300 correct readme",
   "8776d18 2026-10-14 02:04:21 -0300 scoring v1 and v2, post hoc check, report",
   "3e5cbfd 2026-10-14 02:00:21 -0300 raw model responses for three models, deviations 9-10",

@@ -1,0 +1,28 @@
+cff-version: "1.2.0"
+message: >-
+  If you use this software in your work, please cite the version you used with the
+  metadata in this file.
+title: poc-nsi
+type: software
+version: "1.0.0"
+date-released: "2026-10-14"
+authors:
+  - name: "Brenner Viana Cruvinel"
+    given-names: Brenner
+    family-names: Viana Cruvinel
+    orcid: https://orcid.org/0009-0002-3079-8829
+    affiliation: Hoff Research
+    website: https://hoffresearch.com
+abstract: >-
+  Record of a closed exploratory study of namespace interference in language models, built on seven
+  systems of the 3char dataset: frozen protocol, raw responses of three models, the pre-registered
+  scorer, a post hoc audit with a three-dimension evaluator, a negative result and the decision to close.
+license: MIT
+repository-code: https://github.com/brennercruvinel/poc-nsi
+keywords:
+  - identifiers
+  - entity ambiguity
+  - language models
+  - evaluation
+  - negative result
+  - audit
