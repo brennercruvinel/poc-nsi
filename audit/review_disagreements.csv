@@ -1,0 +1,74 @@
+call_id,model,group,review_category,auto_category,review_entity,auto_entity,review_ns,auto_ns,confidence,justification,content
+C1|collision|VIE|2,Qwen3-8B,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Vietnam Investment Fund and Vie are neither Viet Nam nor Vienna airport,"{""status"": ""answer"", ""readings"": [{""system"": ""abbreviation"", ""entity"": ""Vietnam Investment Fund""}, {""system"": ""abbreviation"", ""entity"": ""Vie""}]}"
+C1|collision|KPW|1,Qwen3-8B,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Korean People's Army; neither won nor airport,"{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""Korean"",
+            ""entity"": ""Korean People's Revolutionary Army""
+        },
+  "
+C1|control|XAG|0,gemma-3-12b-it,changed,SINGLE_CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,Silver Lingots denotes silver; the XAG entity is silver as a commodity,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Silver Lingots""
+    }
+  ]
+}"
+C1|collision|RKT|0,gemma-3-12b-it,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Rocket Kit Technology is not Rocket Companies,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Rocketry"",
+      ""entity"": ""Rocket Kit Technology""
+    }
+  ]
+}"
+C1|collision|KPW|0,gemma-3-12b-it,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,North Korea the country is not the won nor the airport; KPW is also not an ISO 3166 code,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Korea, Democratic People's Republic of (North Korea)""
+    }"
+C2|XAG|fin/i42|1,gemma-3-12b-it,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,Silver Lingot denotes silver,"{""status"": ""answer"", ""readings"": [{""system"": ""ISO 4217"", ""entity"": ""Silver Lingot""}]}"
+C3|CUP|trp/iata|0,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Cupertino is not Carupano,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Cupertino, California (San Jose International Airport)""
+    }
+  "
+C3|COP|fin/tck|2,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Copper the commodity is neither ConocoPhillips nor Copper State Air Service,"{""status"": ""answer"", ""readings"": [{""system"": ""stock_ticker"", ""entity"": ""Copper""}]}"
+C4|SLJ|trp/iata|1,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,medium,Solomon Islands Airport is a different place from Solomon Airport in Western Australia,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Solomon Islands Airport""
+    }
+  ]
+}"
+C1|collision|KPW|0,Llama-3.1-8B-Instruct,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Korean Postal Code,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Korean Postal Code"",
+      ""entity"": ""Korean Postal Code""
+    }
+  ]
+}"
+C2|TXT|cmp/dns|1,Llama-3.1-8B-Instruct,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,TXT (Text) in DNS is the text record,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""TXT (Text)""
+    }
+  ]
+}"

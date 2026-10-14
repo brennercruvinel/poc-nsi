@@ -84,3 +84,10 @@ P1 e P2 ficam como na v1: P1 passa quando o código devolvido é o literal; P2 p
 - As 5.076 respostas com categoria ou estado `UNRESOLVED`.
 - Transições v1 → v2 → v3 rastreáveis por call_id com a regra responsável.
 - `results_v3/` reconstruível do zero com hashes idênticos.
+
+## Rodada única de correção, registrada depois da validação
+Concordância antes da correção (`audit/review_agreement_round0.md`): categoria 83,3%, entidade 83,3%, comportamento 100%. Os 24 desacordos envolviam `UNRESOLVED`; 23 eram cautela excessiva do avaliador, nenhum era inversão de sentido. Três causas sistemáticas foram corrigidas em `src/score_v3.py`, cada uma com teste próprio em `tests/test_score_v3.py`:
+1. Variantes de sufixo societário: "Exxon Mobil Corporation" contra "Exxon Mobil Corp" passa a ser igualdade exata depois de remover os sufixos de ambos os lados (lista `SUFFIX`).
+2. Palavras de tipo e de ligação não criam casamento parcial: `GENERIC` passa a incluir and, de, la, air, airways, aviation, service, services, group, city e o envoltório. `GENERIC` continua sem efeito sobre `CORRECT` e `COMPETITOR`.
+3. Eco do código com dígitos, como "VTA1207", é `no_entity`.
+Concordância depois (`audit/review_agreement.md`): categoria 92,4%, entidade 92,4%, namespace 100% nos 59 itens em que ambos acharam a entidade, comportamento 100%. Os 11 desacordos restantes são `UNRESOLVED` do avaliador em casos semânticos (Silver Lingots, Korean People's Army, Rocket Kit Technology, Cupertino, Copper, Solomon Islands Airport, TXT (Text)) e ficam como limitação. Não houve segunda rodada.

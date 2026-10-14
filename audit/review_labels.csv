@@ -1,0 +1,145 @@
+idx,model,call_id,cond,entity,namespace,behaviour,category,justification,confidence
+0,Qwen/Qwen3-8B:featherless-ai,C1|collision|VIE|2,C1,OTHER,NA,MULTI,WRONG,Vietnam Investment Fund and Vie are neither Viet Nam nor Vienna airport,high
+1,Qwen/Qwen3-8B:featherless-ai,C1|collision|TXT|1,C1,CORRECT,UNRESOLVED,MULTI,SINGLE,Text record is the DNS TXT reading; Text file readings are wrong; system domain name is not a registry name,medium
+2,Qwen/Qwen3-8B:featherless-ai,C1|control|GEQ|0,C1,NA,NA,FAILURE,FORMAT,unparsed 4912-char output; repetition loop,high
+3,Qwen/Qwen3-8B:featherless-ai,C1|control|GYY|2,C1,OTHER,NA,AMBIGUOUS,AMBIG_DECLARED,ambiguity declared with invented acronyms; control entity absent,high
+4,Qwen/Qwen3-8B:featherless-ai,C1|control|HPP|0,C1,OTHER,NA,MULTI,WRONG,Hainan Airlines three times; Hudson Pacific absent,high
+5,Qwen/Qwen3-8B:featherless-ai,C1|collision|KPW|1,C1,OTHER,NA,MULTI,WRONG,Korean People's Army; neither won nor airport,high
+6,Qwen/Qwen3-8B:featherless-ai,C1|control|JOD|1,C1,CORRECT,CORRECT,MULTI,SINGLE_CORRECT,Jordanian Dinar under ISO 4217 plus two wrong airline readings,high
+7,Qwen/Qwen3-8B:featherless-ai,C1|control|VLK|1,C1,OTHER,NA,AMBIGUOUS,AMBIG_DECLARED,Vietnam readings; Vladivostok Air absent,high
+8,Qwen/Qwen3-8B:featherless-ai,C1|control|DJF|2,C1,OTHER,NA,MULTI,WRONG,meteorology and DJ acronyms,high
+9,Qwen/Qwen3-8B:featherless-ai,C1|collision|HTG|1,C1,OTHER,NA,MULTI,WRONG,21-reading loop of Haiti airlines; Gourde and Khatanga absent,high
+10,Qwen/Qwen3-8B:featherless-ai,C1|collision|GTM|0,C1,CORRECT,INCORRECT,MULTI,SINGLE,Guatemala is the ISO 3166 reading but labelled alpha-2; GTM echoes are no entity,high
+11,Qwen/Qwen3-8B:featherless-ai,C1|control|YGP|2,C1,OTHER,NA,AMBIGUOUS,AMBIG_DECLARED,invented acronyms; Gaspe airport absent,high
+12,Qwen/Qwen3-8B:featherless-ai,C2|YHZ|trp/iata|2,C2,UNRESOLVED,NA,SINGLE,UNRESOLVED,entity is the code itself; no entity named,high
+13,Qwen/Qwen3-8B:featherless-ai,C2|NEP|lng/ioc|2,C2,CORRECT,CORRECT,SINGLE,CORRECT,Nepal in the IOC system,high
+14,Qwen/Qwen3-8B:featherless-ai,C2|SBD|trp/iata|2,C2,NA,NA,ABSTAIN,UNKNOWN,status unknown,high
+15,Qwen/Qwen3-8B:featherless-ai,C2|HJA|trp/ica2|2,C2,OTHER,OK,SINGLE,OTHER_WRONG,Hainan Airlines is not Air Haiti,high
+16,Qwen/Qwen3-8B:featherless-ai,C2|XOM|fin/tck|1,C2,CORRECT,OK,SINGLE,CORRECT,Exxon Mobil Corporation; NASDAQ is an exchange within the US ticker listings,high
+17,Qwen/Qwen3-8B:featherless-ai,C2|WMB|fin/tck|2,C2,CORRECT,OK,SINGLE,CORRECT,Williams Companies Inc with the ticker prefixed,high
+18,Qwen/Qwen3-8B:featherless-ai,C2|JOD|fin/i42|1,C2,NA,NA,ABSTAIN,UNKNOWN,status unknown with the code echoed,high
+19,Qwen/Qwen3-8B:featherless-ai,C2|COP|fin/tck|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Common Stock is not an entity,high
+20,Qwen/Qwen3-8B:featherless-ai,C2|KAT|trp/ica2|1,C2,UNRESOLVED,NA,SINGLE,UNRESOLVED,code echoed; no entity,high
+21,Qwen/Qwen3-8B:featherless-ai,C2|VIE|trp/iata|0,C2,CORRECT,OK,SINGLE,CORRECT,Vienna International Airport,high
+22,Qwen/Qwen3-8B:featherless-ai,C2|KPW|fin/i42|1,C2,NA,NA,ABSTAIN,UNKNOWN,status unknown,high
+23,Qwen/Qwen3-8B:featherless-ai,C2|GRW|trp/iata|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Glasgow is not Graciosa,high
+24,Qwen/Qwen3-8B:featherless-ai,C2|YGP|trp/iata|2,C2,UNRESOLVED,NA,SINGLE,UNRESOLVED,code echoed,high
+25,Qwen/Qwen3-8B:featherless-ai,C2|HTG|fin/i42|0,C2,CORRECT,CORRECT,SINGLE,CORRECT,Haitian Gourde,high
+26,Qwen/Qwen3-8B:featherless-ai,C3|VIE|trp/iata|2,C3,CORRECT,OK,MULTI,MIXED,Vienna International Airport plus two invented Vieille readings,high
+27,Qwen/Qwen3-8B:featherless-ai,C3|KUW|lng/ioc|2,C3,CORRECT,CORRECT,MULTI,CORRECT,Kuwait three times; IOC reading correct; alpha-2 and UN readings name other systems for the same entity,high
+28,Qwen/Qwen3-8B:featherless-ai,C3|PSD|trp/iata|0,C3,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,five wrong airports under ambiguous status,high
+29,Qwen/Qwen3-8B:featherless-ai,C3|GRW|trp/iata|1,C3,OTHER,OK,MULTI,OTHER_WRONG,Graz is not Graciosa,high
+30,Qwen/Qwen3-8B:featherless-ai,C3|VYX|fin/tck|2,C3,UNRESOLVED,NA,SINGLE,UNRESOLVED,code echoed,high
+31,Qwen/Qwen3-8B:featherless-ai,C3|YHZ|trp/iata|1,C3,CORRECT,OK,SINGLE,CORRECT,Halifax Stanfield International Airport,high
+32,Qwen/Qwen3-8B:featherless-ai,C3|YPG|trp/iata|0,C3,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,Yanbu readings under ambiguous status,high
+33,Qwen/Qwen3-8B:featherless-ai,C3|VTA|trp/ica2|1,C3,UNRESOLVED,NA,SINGLE,UNRESOLVED,VTA1207 echoes the callsign; no airline named,medium
+34,Qwen/Qwen3-8B:featherless-ai,C3|GMP|trp/iata|1,C3,UNRESOLVED,NA,MULTI,UNRESOLVED,code echoed twice,high
+35,Qwen/Qwen3-8B:featherless-ai,C3|IQD|fin/i42|0,C3,CORRECT,CORRECT,SINGLE,CORRECT,Iraqi Dinar,high
+36,Qwen/Qwen3-8B:featherless-ai,C3|DEZ|trp/iata|0,C3,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,three wrong places under ambiguous status,high
+37,Qwen/Qwen3-8B:featherless-ai,C3|GVL|trp/iata|0,C3,OTHER,OK,MULTI,OTHER_WRONG,Glasgow readings; Lee Gilmer absent,high
+38,Qwen/Qwen3-8B:featherless-ai,C3|GTM|fin/tck|0,C3,UNRESOLVED,NA,MULTI,UNRESOLVED,code echoed twice,high
+39,Qwen/Qwen3-8B:featherless-ai,C3|CUP|fin/i42|2,C3,CORRECT,UNRESOLVED,SINGLE,CORRECT,Cuban Peso; system field is the code itself,high
+40,Qwen/Qwen3-8B:featherless-ai,C4|XOM|fin/tck|2,C4,CORRECT,OK,SINGLE,CORRECT,Exxon Mobil Corporation from the record,high
+41,Qwen/Qwen3-8B:featherless-ai,C4|TFK|trp/ica2|0,C4,CORRECT,OK,SINGLE,CORRECT,Transafrik International from the record,high
+42,Qwen/Qwen3-8B:featherless-ai,C4|YGP|trp/iata|2,C4,CORRECT,OK,SINGLE,CORRECT,Michel-Pouliot Gaspe Airport from the record,high
+43,Qwen/Qwen3-8B:featherless-ai,C4|CUP|fin/i42|0,C4,CORRECT,OK,SINGLE,CORRECT,Cuban Peso from the record,high
+44,Qwen/Qwen3-8B:featherless-ai,C4|DEZ|trp/iata|2,C4,CORRECT,OK,SINGLE,CORRECT,Deir ez-Zor Airport from the record,high
+45,Qwen/Qwen3-8B:featherless-ai,C4|KUW|lng/ioc|1,C4,CORRECT,OK,SINGLE,CORRECT,Kuwait from the record,high
+46,Qwen/Qwen3-8B:featherless-ai,C4|GEQ|lng/ioc|1,C4,CORRECT,OK,SINGLE,CORRECT,Equatorial Guinea from the record,high
+47,Qwen/Qwen3-8B:featherless-ai,C4|TCX|trp/ica2|2,C4,CORRECT,OK,SINGLE,CORRECT,Thomas Cook Airlines from the record,high
+48,google/gemma-3-12b-it:featherless-ai,C1|control|XAG|0,C1,CORRECT,CORRECT,SINGLE,SINGLE_CORRECT,Silver Lingots denotes silver; the XAG entity is silver as a commodity,medium
+49,google/gemma-3-12b-it:featherless-ai,C1|control|NZD|1,C1,CORRECT,OK,SINGLE,SINGLE_CORRECT,New Zealand Dollar,high
+50,google/gemma-3-12b-it:featherless-ai,C1|control|NEP|1,C1,OTHER,NA,AMBIGUOUS,AMBIG_DECLARED,acronym readings; Nepal absent,high
+51,google/gemma-3-12b-it:featherless-ai,C1|collision|TCX|0,C1,OTHER,NA,SINGLE,WRONG,TCX file format is none of the three readings,high
+52,google/gemma-3-12b-it:featherless-ai,C1|collision|RKT|0,C1,OTHER,NA,SINGLE,WRONG,Rocket Kit Technology is not Rocket Companies,high
+53,google/gemma-3-12b-it:featherless-ai,C1|control|NZD|0,C1,CORRECT,OK,SINGLE,SINGLE_CORRECT,New Zealand Dollar,high
+54,google/gemma-3-12b-it:featherless-ai,C1|collision|HTG|2,C1,OTHER,NA,AMBIGUOUS,PARTIAL,acronym readings; no gold reading,high
+55,google/gemma-3-12b-it:featherless-ai,C1|control|RMV|2,C1,OTHER,NA,SINGLE,WRONG,Registry of Motor Vehicles,high
+56,google/gemma-3-12b-it:featherless-ai,C1|collision|KPW|0,C1,OTHER,NA,SINGLE,WRONG,North Korea the country is not the won nor the airport; KPW is also not an ISO 3166 code,high
+57,google/gemma-3-12b-it:featherless-ai,C1|control|XAG|1,C1,CORRECT,UNRESOLVED,SINGLE,SINGLE_CORRECT,Silver; system Financial names no code system,high
+58,google/gemma-3-12b-it:featherless-ai,C1|control|DEZ|1,C1,OTHER,NA,AMBIGUOUS,AMBIG_DECLARED,generic hedging; airport not named,high
+59,google/gemma-3-12b-it:featherless-ai,C1|control|NEM|2,C1,OTHER,NA,SINGLE,WRONG,NEM cryptocurrency is not Newmont,high
+60,google/gemma-3-12b-it:featherless-ai,C2|RZO|trp/ica2|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Air Zimbabwe is not SATA,high
+61,google/gemma-3-12b-it:featherless-ai,C2|GMP|trp/iata|2,C2,CORRECT,OK,SINGLE,CORRECT,Gimpo International Airport,high
+62,google/gemma-3-12b-it:featherless-ai,C2|AXX|trp/iata|2,C2,NA,NA,ABSTAIN,UNKNOWN,status unknown,high
+63,google/gemma-3-12b-it:featherless-ai,C2|RKT|trp/iata|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Rakitovo Airport invented,high
+64,google/gemma-3-12b-it:featherless-ai,C2|RZO|trp/ica2|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Razor Air invented,high
+65,google/gemma-3-12b-it:featherless-ai,C2|RKT|fin/tck|1,C2,CORRECT,OK,SINGLE,CORRECT,Rocket Companies Inc; NYSE is within the US listings,high
+66,google/gemma-3-12b-it:featherless-ai,C2|AXX|trp/iata|1,C2,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,two wrong airports under ambiguous,high
+67,google/gemma-3-12b-it:featherless-ai,C2|YPA|trp/iata|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Pampa Airport invented,high
+68,google/gemma-3-12b-it:featherless-ai,C2|XAG|fin/i42|1,C2,CORRECT,CORRECT,SINGLE,CORRECT,Silver Lingot denotes silver,medium
+69,google/gemma-3-12b-it:featherless-ai,C2|RKT|fin/tck|2,C2,CORRECT,OK,SINGLE,CORRECT,Rocket Companies Inc,high
+70,google/gemma-3-12b-it:featherless-ai,C2|HPP|fin/tck|2,C2,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,HPP Inc and HealthPost under ambiguous; Hudson Pacific absent,high
+71,google/gemma-3-12b-it:featherless-ai,C2|KAT|trp/iata|2,C2,OTHER,OK,SINGLE,OTHER_WRONG,Katoomba is not Kaitaia,high
+72,google/gemma-3-12b-it:featherless-ai,C2|HJA|trp/ica2|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Air Hamburg is not Air Haiti,high
+73,google/gemma-3-12b-it:featherless-ai,C2|RON|fin/i42|0,C2,CORRECT,CORRECT,SINGLE,CORRECT,Romanian Leu,high
+74,google/gemma-3-12b-it:featherless-ai,C3|MHK|trp/iata|2,C3,UNRESOLVED,OK,SINGLE,UNRESOLVED,Manhattan Kansas is the right place but Feilding Municipal is not the airport name,medium
+75,google/gemma-3-12b-it:featherless-ai,C3|HTG|fin/i42|1,C3,CORRECT,OK,SINGLE,CORRECT,Haitian gourde,high
+76,google/gemma-3-12b-it:featherless-ai,C3|NED|lng/ioc|2,C3,CORRECT,INCORRECT,AMBIGUOUS,AMBIG_FLAG,Netherlands present but labelled ISO 3166 alpha-3 and hedged,high
+77,google/gemma-3-12b-it:featherless-ai,C3|OGL|trp/iata|1,C3,OTHER,OK,SINGLE,OTHER_WRONG,Ogliola Malpensa invented,high
+78,google/gemma-3-12b-it:featherless-ai,C3|CUP|trp/iata|0,C3,OTHER,OK,SINGLE,OTHER_WRONG,Cupertino is not Carupano,high
+79,google/gemma-3-12b-it:featherless-ai,C3|XOM|fin/tck|1,C3,CORRECT,OK,SINGLE,CORRECT,ExxonMobil,high
+80,google/gemma-3-12b-it:featherless-ai,C3|PSD|trp/ica2|0,C3,OTHER,NA,AMBIGUOUS,AMBIG_FLAG,Position Selective Designation; no airline,high
+81,google/gemma-3-12b-it:featherless-ai,C3|CBJ|trp/iata|1,C3,OTHER,OK,SINGLE,OTHER_WRONG,Juneau is not Cabo Rojo,high
+82,google/gemma-3-12b-it:featherless-ai,C3|VTA|trp/ica2|0,C3,UNRESOLVED,NA,SINGLE,UNRESOLVED,code echoed,high
+83,google/gemma-3-12b-it:featherless-ai,C3|TXT|cmp/dns|1,C3,CORRECT,CORRECT,SINGLE,CORRECT,TXT Record,high
+84,google/gemma-3-12b-it:featherless-ai,C3|HTG|trp/iata|1,C3,OTHER,OK,AMBIGUOUS,AMBIG_FLAG,Hattiesburg and Hegang under ambiguous,high
+85,google/gemma-3-12b-it:featherless-ai,C3|CBJ|trp/iata|2,C3,OTHER,OK,SINGLE,OTHER_WRONG,Juneau again,high
+86,google/gemma-3-12b-it:featherless-ai,C3|COP|fin/tck|2,C3,OTHER,OK,SINGLE,OTHER_WRONG,Copper the commodity is neither ConocoPhillips nor Copper State Air Service,high
+87,google/gemma-3-12b-it:featherless-ai,C3|KUW|lng/ioc|2,C3,CORRECT,INCORRECT,SINGLE,CORRECT,Kuwait is right; ISO 3166-1 alpha-3 is not the IOC list,high
+88,google/gemma-3-12b-it:featherless-ai,C4|TXT|cmp/dns|2,C4,UNRESOLVED,OK,SINGLE,UNRESOLVED,Text alone is a fragment of text strings; identity not safe,medium
+89,google/gemma-3-12b-it:featherless-ai,C4|MFG|fin/tck|2,C4,CORRECT,OK,SINGLE,CORRECT,Mizuho Financial Group from the record,high
+90,google/gemma-3-12b-it:featherless-ai,C4|SLJ|trp/iata|1,C4,OTHER,OK,SINGLE,OTHER_WRONG,Solomon Islands Airport is a different place from Solomon Airport in Western Australia,medium
+91,google/gemma-3-12b-it:featherless-ai,C4|RKT|trp/iata|0,C4,CORRECT,OK,SINGLE,CORRECT,Ras Al Khaimah from the record,high
+92,google/gemma-3-12b-it:featherless-ai,C4|HTG|fin/i42|1,C4,CORRECT,OK,SINGLE,CORRECT,Haitian Gourde from the record,high
+93,google/gemma-3-12b-it:featherless-ai,C4|XGR|trp/iata|1,C4,CORRECT,OK,SINGLE,CORRECT,Kangiqsualujjuaq from the record,high
+94,google/gemma-3-12b-it:featherless-ai,C4|CBJ|trp/iata|0,C4,CORRECT,OK,SINGLE,CORRECT,Cabo Rojo from the record,high
+95,google/gemma-3-12b-it:featherless-ai,C4|YGP|trp/iata|2,C4,CORRECT,OK,SINGLE,CORRECT,Michel-Pouliot Gaspe from the record,high
+96,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|KPW|0,C1,OTHER,NA,SINGLE,WRONG,Korean Postal Code,high
+97,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NZD|1,C1,CORRECT,OK,SINGLE,SINGLE_CORRECT,New Zealand dollar,high
+98,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|AXX|1,C1,NA,NA,FAILURE,FORMAT,unparsed 4623-char loop,high
+99,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|GYY|2,C1,NA,NA,ABSTAIN,UNKNOWN,status unknown,high
+100,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|CXF|2,C1,OTHER,NA,SINGLE,WRONG,Apache CXF,high
+101,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|XOM|2,C1,CORRECT,OK,SINGLE,SINGLE_CORRECT,Exxon Mobil Corporation,high
+102,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NED|1,C1,CORRECT,INCORRECT,MULTI,SINGLE_CORRECT,Netherlands present but labelled ISO 3166 alpha-3; three other readings wrong,high
+103,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|RMV|1,C1,NA,NA,FAILURE,FORMAT,unparsed 4355-char loop,high
+104,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|DJF|0,C1,OTHER,NA,SINGLE,WRONG,Djelfa Airport is not the franc,high
+105,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|SIG|2,C1,OTHER,NA,SINGLE,WRONG,Special Interest Group,high
+106,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NEP|0,C1,CORRECT,UNRESOLVED,MULTI,SINGLE_CORRECT,Nepal present among five readings; system field is the code,high
+107,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|GMP|0,C1,NA,NA,FAILURE,FORMAT,unparsed 4278-char loop,high
+108,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TXT|cmp/dns|1,C2,CORRECT,CORRECT,SINGLE,CORRECT,TXT (Text) in DNS is the text record,medium
+109,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|VIE|lng/ioc|1,C2,CORRECT,CORRECT,SINGLE,CORRECT,Vietnam,high
+110,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|trp/ica2|1,C2,NA,NA,FAILURE,FORMAT,unparsed 6342-char loop,high
+111,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|XGR|trp/iata|0,C2,NA,NA,ABSTAIN,UNKNOWN,status unknown,high
+112,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|HOF|trp/iata|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Hof Saarland invented; not Al-Ahsa,high
+113,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RZO|trp/ica2|2,C2,OTHER,OK,SINGLE,OTHER_WRONG,Royal Air Zambia invented,high
+114,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TXT|fin/tck|0,C2,CORRECT,OK,SINGLE,CORRECT,Textron Inc,high
+115,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TCA|trp/iata|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Trabzon is not Tennant Creek,high
+116,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TCA|lng/i31|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Trinidad and Tobago is not Turks and Caicos,high
+117,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|CUP|fin/i42|2,C2,CORRECT,CORRECT,SINGLE,CORRECT,Cuban Peso,high
+118,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TPC|fin/tck|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Tidewater is not Tutor Perini,high
+119,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|KAT|trp/ica2|0,C2,OTHER,OK,SINGLE,OTHER_WRONG,Air Alsie is not Kato Air,high
+120,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|fin/i42|0,C2,CORRECT,CORRECT,SINGLE,CORRECT,Romanian leu,high
+121,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|trp/iata|1,C2,OTHER,OK,SINGLE,OTHER_WRONG,Ronan Airport invented,high
+122,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|GTM|lng/i31|1,C3,CORRECT,CORRECT,MULTI,MIXED,Guatemala listed with four other countries as answers,high
+123,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|CTU|trp/iata|0,C3,CORRECT,OK,SINGLE,CORRECT,Chengdu Shuangliu International Airport,high
+124,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|CXF|trp/iata|1,C3,NA,NA,FAILURE,FORMAT,unparsed 3682-char loop,high
+125,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|MFG|trp/iata|1,C3,OTHER,OK,SINGLE,OTHER_WRONG,Munich is not Muzaffarabad,high
+126,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|XOM|fin/tck|1,C3,CORRECT,OK,SINGLE,CORRECT,Exxon Mobil Corporation,high
+127,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NZD|fin/i42|2,C3,CORRECT,CORRECT,SINGLE,CORRECT,New Zealand dollar,high
+128,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|MFG|fin/tck|2,C3,NA,NA,FAILURE,FORMAT,unparsed 6070-char loop,high
+129,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|KAT|trp/iata|1,C3,OTHER,OK,SINGLE,OTHER_WRONG,Katowice is not Kaitaia,high
+130,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|TCA|lng/i31|1,C3,CORRECT,CORRECT,MULTI,MIXED,Turks and Caicos Islands is the twelfth of twelve readings; the other eleven are wrong,high
+131,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NEM|fin/tck|1,C3,CORRECT,OK,SINGLE,CORRECT,Newmont Corporation,high
+132,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|YPG|trp/iata|2,C3,NA,NA,FAILURE,FORMAT,unparsed 5593-char loop,high
+133,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|HPP|fin/tck|0,C3,OTHER,OK,SINGLE,OTHER_WRONG,Hormel Foods is not Hudson Pacific,high
+134,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|TXT|cmp/dns|2,C3,CORRECT,CORRECT,MULTI,MIXED,Text record under RFC 1035 plus a wrong Tuvalu reading,high
+135,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NED|lng/ioc|0,C3,CORRECT,INCORRECT,SINGLE,CORRECT,Netherlands is right; ISO 3166-1 alpha-3 is not the IOC list,high
+136,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|1,C4,UNRESOLVED,INCORRECT,SINGLE,UNRESOLVED,text alone is a fragment; ASCII is not the registry,medium
+137,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|GVL|trp/iata|2,C4,CORRECT,OK,SINGLE,CORRECT,Lee Gilmer from the record,high
+138,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|GTM|lng/i31|0,C4,NA,NA,ABSTAIN,UNKNOWN,status unknown although Guatemala is listed,high
+139,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|2,C4,OTHER,OK,SINGLE,OTHER_WRONG,ICANN expansion is not the record type,high
+140,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|RON|trp/ica2|1,C4,CORRECT,OK,SINGLE,CORRECT,Nauru Air Corporation from the record,high
+141,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|0,C4,OTHER,OK,SINGLE,OTHER_WRONG,Domain Name System is not the record type,high
+142,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TPC|trp/ica2|2,C4,CORRECT,OK,SINGLE,CORRECT,Air Cal from the record,high
+143,meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|DEZ|trp/iata|1,C4,CORRECT,OK,SINGLE,CORRECT,Deir ez-Zor from the record,high

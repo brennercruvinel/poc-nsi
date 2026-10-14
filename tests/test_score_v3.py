@@ -49,7 +49,7 @@ class Entity(unittest.TestCase):
         self.assertEqual(self.ev("Lek", ALL, "ALL", "ALL|fin/i42"), ("CORRECT", "exact"))
         self.assertEqual(self.ev("Albanian lek (ALL)", ALL, "ALL", "ALL|fin/i42"), ("CORRECT", "phrase"))
         self.assertEqual(self.ev("ALL", ALL, "ALL", "ALL|fin/i42"), ("UNRESOLVED", "no_entity"))
-        self.assertEqual(self.ev("Allstate Corporation", ALL, "ALL", "ALL|fin/i42"), ("COMPETITOR", "phrase"))
+        self.assertEqual(self.ev("Allstate Corporation", ALL, "ALL", "ALL|fin/i42")[0], "COMPETITOR")
         self.assertNotIn("van", VAN["VAN|lng/ioc"])  # lowercase ISO alias must not make 'Van' match Vanuatu
         self.assertEqual(self.ev("Van", VAN, "VAN", "VAN|lng/ioc"), ("UNRESOLVED", "no_entity"))
         self.assertEqual(self.ev("Van Airport", VAN, "VAN", "VAN|trp/iata"), ("UNRESOLVED", "partial_target"))
@@ -63,6 +63,27 @@ class Entity(unittest.TestCase):
     def test_c1_no_target(self):
         self.assertEqual(S.entity_eval("Oman Air", OMA, "OMA")[0:3], ("CORRECT", "exact", "OMA|trp/ica2"))
         self.assertEqual(S.entity_eval("Omaha", OMA, "OMA")[:2], ("UNRESOLVED", "partial"))
+
+
+class CorrectionRound(unittest.TestCase):
+    """Refinements from the single correction round, each with the validation case that motivated it."""
+    XOM = {"XOM|fin/tck": A("EXXON MOBIL CORP", "Exxon Mobil Corp.", "ExxonMobil")}
+    RZO = {"RZO|trp/ica2": A("SATA International", "Azores Air", "Azores Airlines")}
+    TCA = {"TCA|lng/i31": A("Turks and Caicos Islands", "Turks and Caicos"), "TCA|trp/iata": A("Tennant Creek Airport")}
+
+    def test_corporate_suffix_variants(self):
+        self.assertEqual(S.entity_eval("Exxon Mobil Corporation", self.XOM, "XOM", "XOM|fin/tck")[:2], ("CORRECT", "exact"))
+        self.assertEqual(S.entity_eval("Allstate Corporation", ALL, "ALL", "ALL|fin/i42")[:2], ("COMPETITOR", "exact"))
+        self.assertEqual(S.entity_eval("Exxon", self.XOM, "XOM", "XOM|fin/tck")[:2], ("UNRESOLVED", "partial_target"))
+
+    def test_type_words_and_stopwords_do_not_create_partials(self):
+        self.assertEqual(S.entity_eval("Air Zimbabwe", self.RZO, "RZO", "RZO|trp/ica2")[:2], ("OTHER", "none"))
+        self.assertEqual(S.entity_eval("Trinidad and Tobago", self.TCA, "TCA", "TCA|lng/i31")[:2], ("OTHER", "none"))
+        self.assertEqual(S.entity_eval("Azores Airlines", self.RZO, "RZO", "RZO|trp/ica2")[:2], ("CORRECT", "exact"))
+
+    def test_callsign_echo_is_no_entity(self):
+        self.assertEqual(S.entity_eval("VTA1207", {"VTA|trp/ica2": A("Air Tahiti")}, "VTA", "VTA|trp/ica2")[:2], ("UNRESOLVED", "no_entity"))
+        self.assertEqual(S.entity_eval("VTA (ICAO)", {"VTA|trp/ica2": A("Air Tahiti")}, "VTA", "VTA|trp/ica2")[:2], ("OTHER", "none"))
 
 
 class Namespace(unittest.TestCase):

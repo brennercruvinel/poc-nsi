@@ -1,0 +1,187 @@
+call_id,model,group,review_category,auto_category,review_entity,auto_entity,review_ns,auto_ns,confidence,justification,content
+C1|collision|VIE|2,Qwen3-8B,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Vietnam Investment Fund and Vie are neither Viet Nam nor Vienna airport,"{""status"": ""answer"", ""readings"": [{""system"": ""abbreviation"", ""entity"": ""Vietnam Investment Fund""}, {""system"": ""abbreviation"", ""entity"": ""Vie""}]}"
+C1|collision|KPW|1,Qwen3-8B,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Korean People's Army; neither won nor airport,"{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""Korean"",
+            ""entity"": ""Korean People's Revolutionary Army""
+        },
+  "
+C1|collision|HTG|1,Qwen3-8B,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,21-reading loop of Haiti airlines; Gourde and Khatanga absent,"{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-2"",
+      ""entity"": ""Haiti""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"
+C2|XOM|fin/tck|1,Qwen3-8B,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,OK,,high,Exxon Mobil Corporation; NASDAQ is an exchange within the US ticker listings,"{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""NASDAQ"",
+            ""entity"": ""Exxon Mobil Corporation""
+        }
+    ]
+}"
+C3|VTA|trp/ica2|1,Qwen3-8B,wrong,UNRESOLVED,OTHER_WRONG,UNRESOLVED,OTHER,NA,,medium,VTA1207 echoes the callsign; no airline named,"{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ICAO"",
+            ""entity"": ""VTA1207""
+        }
+    ]
+}"
+C4|XOM|fin/tck|2,Qwen3-8B,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,OK,,high,Exxon Mobil Corporation from the record,"{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""US stock ticker symbol"",
+            ""entity"": ""Exxon Mobil Corporation""
+        "
+C1|control|XAG|0,gemma-3-12b-it,changed,SINGLE_CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,Silver Lingots denotes silver; the XAG entity is silver as a commodity,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Silver Lingots""
+    }
+  ]
+}"
+C1|collision|RKT|0,gemma-3-12b-it,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Rocket Kit Technology is not Rocket Companies,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Rocketry"",
+      ""entity"": ""Rocket Kit Technology""
+    }
+  ]
+}"
+C1|collision|KPW|0,gemma-3-12b-it,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,North Korea the country is not the won nor the airport; KPW is also not an ISO 3166 code,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Korea, Democratic People's Republic of (North Korea)""
+    }"
+C2|RZO|trp/ica2|0,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Air Zimbabwe is not SATA,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO Airline Designator"",
+      ""entity"": ""Air Zimbabwe""
+    }
+  ]
+}"
+C2|RZO|trp/ica2|1,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Razor Air invented,"{""status"": ""answer"", ""readings"": [{""system"": ""ICAO Airline Designator"", ""entity"": ""Razor Air""}]}"
+C2|XAG|fin/i42|1,gemma-3-12b-it,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,Silver Lingot denotes silver,"{""status"": ""answer"", ""readings"": [{""system"": ""ISO 4217"", ""entity"": ""Silver Lingot""}]}"
+C2|HJA|trp/ica2|0,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Air Hamburg is not Air Haiti,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO Airline Designator"",
+      ""entity"": ""HJA - Air Hamburg""
+    }
+  ]
+}"
+C3|CUP|trp/iata|0,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Cupertino is not Carupano,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Cupertino, California (San Jose International Airport)""
+    }
+  "
+C3|COP|fin/tck|2,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Copper the commodity is neither ConocoPhillips nor Copper State Air Service,"{""status"": ""answer"", ""readings"": [{""system"": ""stock_ticker"", ""entity"": ""Copper""}]}"
+C4|SLJ|trp/iata|1,gemma-3-12b-it,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,medium,Solomon Islands Airport is a different place from Solomon Airport in Western Australia,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Solomon Islands Airport""
+    }
+  ]
+}"
+C1|collision|KPW|0,Llama-3.1-8B-Instruct,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Korean Postal Code,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Korean Postal Code"",
+      ""entity"": ""Korean Postal Code""
+    }
+  ]
+}"
+C1|control|XOM|2,Llama-3.1-8B-Instruct,changed,SINGLE_CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,OK,,high,Exxon Mobil Corporation,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""stock ticker"",
+      ""entity"": ""Exxon Mobil Corporation""
+    }
+  ]
+}"
+C1|collision|SIG|2,Llama-3.1-8B-Instruct,changed,WRONG,UNRESOLVED,OTHER,UNRESOLVED,NA,,high,Special Interest Group,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Acronym"",
+      ""entity"": ""Special Interest Group""
+    }
+  ]
+}"
+C2|TXT|cmp/dns|1,Llama-3.1-8B-Instruct,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,CORRECT,,medium,TXT (Text) in DNS is the text record,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""TXT (Text)""
+    }
+  ]
+}"
+C2|RZO|trp/ica2|2,Llama-3.1-8B-Instruct,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Royal Air Zambia invented,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Air Zambia""
+    }
+  ]
+}"
+C2|TCA|lng/i31|1,Llama-3.1-8B-Instruct,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Trinidad and Tobago is not Turks and Caicos,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Trinidad and Tobago""
+    }
+  ]
+}"
+C2|KAT|trp/ica2|0,Llama-3.1-8B-Instruct,changed,OTHER_WRONG,UNRESOLVED,OTHER,UNRESOLVED,OK,,high,Air Alsie is not Kato Air,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""KAT (Airline) - Air Alsie""
+    }
+  ]
+}"
+C3|XOM|fin/tck|1,Llama-3.1-8B-Instruct,changed,CORRECT,UNRESOLVED,CORRECT,UNRESOLVED,OK,,high,Exxon Mobil Corporation,"{
+  ""status"": ""answer"",
+  ""readings"": [
+    {""system"": ""NYSE"", ""entity"": ""Exxon Mobil Corporation""}
+  ]
+}"

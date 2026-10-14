@@ -1,0 +1,2893 @@
+model,call_id,cond,literal,gold_readings,other_readings_of_literal,prompt,content
+Qwen/Qwen3-8B:featherless-ai,C1|collision|VIE|2,C1,VIE,lng/ioc: Viet Nam; trp/iata: Vienna International Airport,trp/iata: Vienna International Airport; trp/ica2: VIP Empresarial,"What does ""VIE"" stand for?","{""status"": ""answer"", ""readings"": [{""system"": ""abbreviation"", ""entity"": ""Vietnam Investment Fund""}, {""system"": ""abbreviation"", ""entity"": ""Vie""}]}"
+Qwen/Qwen3-8B:featherless-ai,C1|collision|TXT|1,C1,TXT,fin/tck: TEXTRON INC; cmp/dns: text strings,cmp/dns: text strings; trp/ica2: Texas Air Charters,"What is ""TXT""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""file format"",
+            ""entity"": ""Text file""
+        },
+        {
+            ""system"": ""domain name"",
+            ""entity"": ""Text record""
+        },
+        {
+            ""system"": ""programming"",
+            ""entity"": ""Text file""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|GEQ|0,C1,GEQ,lng/ioc: Equatorial Guinea,,"What does the code ""GEQ"" refer to?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""Morse code"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ASCII"",
+            ""entity"": ""ASCII 71 69 81""
+        },
+        {
+            ""system"": ""International Air Transport Association"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 3166-1 alpha-3"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 639-1"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 639-2"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 639-3"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 15919"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 15924"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 1766"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2108"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 21127"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-1"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-2"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-3"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-4"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-5"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-6"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-7"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-8"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-9"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-10"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-11"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-12"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-13"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-14"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-15"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-16"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-17"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-18"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-19"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-20"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-21"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-22"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-23"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-24"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-25"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-26"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-27"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-28"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-29"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-30"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-31"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-32"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-33"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-34"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-35"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-36"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-37"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-38"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-39"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-40"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-41"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-42"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-43"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2163-44"",
+            ""entity"": ""GEQ""
+        },
+        {
+            ""system"": ""ISO 2"
+Qwen/Qwen3-8B:featherless-ai,C1|control|GYY|2,C1,GYY,trp/iata: Gary/Chicago International Airport,,"What does ""GYY"" stand for?","{
+
+
+    ""status"": ""ambiguous"",
+    ""readings"": [
+        {
+            ""system"": ""Acronym"",
+            ""entity"": ""GYY - Generalized Yield Yield""
+        },
+        {
+            ""system"": ""Acronym"",
+            ""entity"": ""GYY - Generalized Yield Yield (possibly a placeholder or code in a specific context)""
+        },
+        {
+            ""system"": ""Acronym"",
+            ""entity"": ""GYY - Generalized Yield Yield (could be a term in a specialized field like engineering or economics)""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|HPP|0,C1,HPP,"fin/tck: Hudson Pacific Properties, Inc.",,"What does the code ""HPP"" refer to?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""HPP - Hainan Airlines""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""HPP - Hainan Airlines (Hainan Provincial Airlines)""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""HPP - Hainan Airlines (Hainan Airlines Co., Ltd.)""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|collision|KPW|1,C1,KPW,fin/i42: North Korean Won; trp/iata: Keperveem Airport,trp/iata: Keperveem Airport,"What is ""KPW""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""Korean"",
+            ""entity"": ""Korean People's Revolutionary Army""
+        },
+        {
+            ""system"": ""Korean"",
+            ""entity"": ""Korean People's Army""
+        },
+        {
+            ""system"": ""Korean"",
+            ""entity"": ""Korean People's Revolutionary Army (KPA)""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|JOD|1,C1,JOD,fin/i42: Jordanian Dinar,,"What is ""JOD""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ISO 4217"",
+            ""entity"": ""Jordanian Dinar""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Jordan Air""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Jordan Airways""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|VLK|1,C1,VLK,trp/ica2: Vladivostok Air,,"What is ""VLK""?","{
+
+
+  ""status"": ""ambiguous"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Vietnam""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Vietnam Airlines""
+    },
+    {
+      ""system"": ""ICAO"",
+      ""entity"": ""Vietnam Airlines""
+    },
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Vietnamese Dong""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|DJF|2,C1,DJF,fin/i42: Djibouti Franc,,"What does ""DJF"" stand for?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Meteorology"",
+      ""entity"": ""December, January, February""
+    },
+    {
+      ""system"": ""Acronym"",
+      ""entity"": ""Disc Jockey Format""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|collision|HTG|1,C1,HTG,fin/i42: Gourde; trp/iata: Khatanga Airport,trp/iata: Khatanga Airport; trp/ica2: Grossmann Air Service,"What is ""HTG""?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-2"",
+      ""entity"": ""Haiti""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Airways""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Lines""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Services""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Transport""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Charter""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Express""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air International""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Services Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Transport Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Charter Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Express Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air International Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Services Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Transport Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Charter Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air Express Limited""
+    },
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Haiti Air International Limited""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|collision|GTM|0,C1,GTM,lng/i31: Guatemala; fin/tck: ZoomInfo Technologies Inc.,fin/tck: ZoomInfo Technologies Inc.,"What does the code ""GTM"" refer to?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""GTM""
+    },
+    {
+      ""system"": ""ICAO"",
+      ""entity"": ""GTM""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-2"",
+      ""entity"": ""Guatemala""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C1|control|YGP|2,C1,YGP,trp/iata: Michel-Pouliot Gaspé Airport,,"What does ""YGP"" stand for?","{
+
+
+    ""status"": ""ambiguous"",
+    ""readings"": [
+        {
+            ""system"": ""Acronyms"",
+            ""entity"": ""Young Generation Program""
+        },
+        {
+            ""system"": ""Acronyms"",
+            ""entity"": ""Youth Group Project""
+        },
+        {
+            ""system"": ""Acronyms"",
+            ""entity"": ""Young Professionals Network""
+        },
+        {
+            ""system"": ""Acronyms"",
+            ""entity"": ""Youth and Gender Program""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|YHZ|trp/iata|2,C2,YHZ,"trp/iata: Halifax / Stanfield International Airport | aliases [""CYHZ"", ""Halifax / Stanfield International Airport"", ""Halifax International Airport"", ""Halifax Stanfield International Airport"", ""Halifax-Stanfield"", ""Halifax/Robert L. Stanfield International Airport"", ""YHZ""]",,"Within the IATA airport code system, which entity has the code ""YHZ""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""YHZ""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|NEP|lng/ioc|2,C2,NEP,"lng/ioc: Nepal | aliases [""Bal-bo"", ""Bal-po'i yul"", ""Bal-yul"", ""Balbo"", ""Balpo"", ""Balpo-yul"", ""Federal Democratic Republic of Nepal"", ""NPL"", ""Naipala"", ""Naip\u00e1l"", ""Naip\u00e1la"", ""Ne-pel"", ""Necbal"", ""Nehpal"", ""Nei-pal"", ""Nekbal"", ""Nekpal"", ""Nepal"", ""Nepall"", ""Nepaul"", ""Nep\u00e1l"", ""Nercerri"", ""Ni-po-lo"", ""Ni-po-louo"", ""Niepal"", ""Nipal"", ""N\u00e9paal"", ""N\u00e9p\u00e1l"", ""Pa-eul-pou"", ""Pa-le-pou"", ""Pa-lo-pou"", ""Pai-pou"", ""Palpa"", ""Palpou"", ""Pa\u00ef-pou""]",,"Within the International Olympic Committee country code system, which entity has the code ""NEP""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""International Olympic Committee country code system"",
+            ""entity"": ""Nepal""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|SBD|trp/iata|2,C2,SBD,"trp/iata: San Bernardino International Airport | aliases [""KSBD"", ""SBD"", ""San Bernardino International Airport""]",fin/i42: Solomon Islands Dollar; trp/ica2: Snowbird Airlines,"Within the IATA airport code system, which entity has the code ""SBD""?","{
+
+
+    ""status"": ""unknown"",
+    ""readings"": []
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|HJA|trp/ica2|2,C2,HJA,"trp/ica2: Air Haiti | aliases [""Air Haiti"", ""Air Ha\u00efti""]",,"Within the ICAO airline designator system, which entity has the code ""HJA""?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO airline designator"", ""entity"": ""Hainan Airlines""}] }"
+Qwen/Qwen3-8B:featherless-ai,C2|XOM|fin/tck|1,C2,XOM,"fin/tck: EXXON MOBIL CORP | aliases [""EXXON MOBIL CORP"", ""Exxon Mobil Corp."", ""ExxonMobil""]",,"""XOM"" is a code in the US stock ticker symbol listings. What does it denote?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""NASDAQ"",
+            ""entity"": ""Exxon Mobil Corporation""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|WMB|fin/tck|2,C2,WMB,"fin/tck: WILLIAMS COMPANIES, INC. | aliases [""WILLIAMS COMPANIES, INC."", ""Williams"", ""Williams Companies""]",trp/iata: Warrnambool Airport,"Within the US stock ticker symbol listings, which entity has the code ""WMB""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""NASDAQ"",
+            ""entity"": ""WMB - Williams Companies, Inc.""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|JOD|fin/i42|1,C2,JOD,"fin/i42: Jordanian Dinar | aliases [""Dinar (1949-date)"", ""Jordanian Dinar"", ""Jordanian dinar""]",,"""JOD"" is a code in the ISO 4217 currency code standard. What does it denote?","{
+
+
+    ""status"": ""unknown"",
+    ""readings"": [
+        {
+            ""system"": ""ISO 4217"",
+            ""entity"": ""JOD""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|COP|fin/tck|1,C2,COP,"fin/tck: CONOCOPHILLIPS | aliases [""CONOCOPHILLIPS"", ""Conoco Phillips"", ""ConocoPhillips"", ""Continental Oil Company""]",fin/i42: Colombian Peso; trp/iata: Cooperstown-Westville Airport; trp/ica2: Copper State Air Service,"""COP"" is a code in the US stock ticker symbol listings. What does it denote?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""US stock ticker symbol"",
+            ""entity"": ""Common Stock""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|KAT|trp/ica2|1,C2,KAT,"trp/ica2: Kato Airline | aliases [""Kato Air"", ""Kato Airline""]",trp/iata: Kaitaia Airport,"""KAT"" is a code in the ICAO airline designator system. What does it denote?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO airline designator"", ""entity"": ""KAT""}]  }"
+Qwen/Qwen3-8B:featherless-ai,C2|VIE|trp/iata|0,C2,VIE,"trp/iata: Vienna International Airport | aliases [""LOWW"", ""VIE"", ""Vienna International Airport"", ""Vienna airport"", ""Vienna-Schwechat airport"", ""Wien-Schwechat Airport""]",lng/ioc: Viet Nam; trp/ica2: VIP Empresarial,"In the IATA airport code system, what does the code ""VIE"" refer to?","{""status"": ""answer"", ""readings"": [{""system"": ""IATA"", ""entity"": ""Vienna International Airport""}] }"
+Qwen/Qwen3-8B:featherless-ai,C2|KPW|fin/i42|1,C2,KPW,"fin/i42: North Korean Won | aliases [""North Korean Won"", ""North Korean won""]",trp/iata: Keperveem Airport,"""KPW"" is a code in the ISO 4217 currency code standard. What does it denote?","{""status"": ""unknown"", ""readings"": []}"
+Qwen/Qwen3-8B:featherless-ai,C2|GRW|trp/iata|1,C2,GRW,"trp/iata: Graciosa Airport | aliases [""GRW"", ""Graciosa Airport"", ""LPGR""]",,"""GRW"" is a code in the IATA airport code system. What does it denote?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Glasgow International Airport""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|YGP|trp/iata|2,C2,YGP,"trp/iata: Michel-Pouliot Gaspé Airport | aliases [""CYGP"", ""Michel-Pouliot Gaspe Airport"", ""Michel-Pouliot Gasp\u00e9 Airport"", ""YGP""]",,"Within the IATA airport code system, which entity has the code ""YGP""?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""YGP""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C2|HTG|fin/i42|0,C2,HTG,"fin/i42: Gourde | aliases [""Gourde"", ""HTG"", ""Haitian Gourde"", ""Haitian gourde"", ""gourde""]",trp/iata: Khatanga Airport; trp/ica2: Grossmann Air Service,"In the ISO 4217 currency code standard, what does the code ""HTG"" refer to?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ISO 4217"",
+            ""entity"": ""Haitian Gourde""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|VIE|trp/iata|2,C3,VIE,"trp/iata: Vienna International Airport | aliases [""LOWW"", ""VIE"", ""Vienna International Airport"", ""Vienna airport"", ""Vienna-Schwechat airport"", ""Wien-Schwechat Airport""]",lng/ioc: Viet Nam; trp/ica2: VIP Empresarial,"Baggage tag printed at check-in: VIE, connecting via CDG.
+Identify what ""VIE"" denotes in this text.","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Vienna International Airport""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Vieille""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Vieille (Vieille, France)""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|KUW|lng/ioc|2,C3,KUW,"lng/ioc: Kuwait | aliases [""KWT"", ""Kuwait"", ""State of Kuwait"", ""kw""]",,"Opening ceremony parade order: the delegation of KUW entered after the previous team.
+Identify what ""KUW"" denotes in this text.","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IOC"",
+            ""entity"": ""Kuwait""
+        },
+        {
+            ""system"": ""ISO 3166-1 alpha-2"",
+            ""entity"": ""Kuwait""
+        },
+        {
+            ""system"": ""UN Member State"",
+            ""entity"": ""Kuwait""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|PSD|trp/iata|0,C3,PSD,"trp/iata: Port Said International Airport | aliases [""HEPS"", ""PSD"", ""Port Said"", ""Port Said Airport"", ""Port Said International Airport""]",trp/ica2: President Airlines,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: PSD, Seat 14C.
+In this text, what does ""PSD"" refer to?","{
+
+
+    ""status"": ""ambiguous"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Peshawar International Airport (PSD)""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Punta Cana International Airport (PSD)""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Port Sudan International Airport (PSD)""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Plovdiv Airport (PSD)""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Papeete International Airport (PSD)""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|GRW|trp/iata|1,C3,GRW,"trp/iata: Graciosa Airport | aliases [""GRW"", ""Graciosa Airport"", ""LPGR""]",,"Itinerary: depart GRW at 07:15, arrive FRA at 09:40.
+What is ""GRW"" in the text above?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Graz, Austria""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Graz Airport""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|VYX|fin/tck|2,C3,VYX,"fin/tck: NCR Voyix Corp | aliases [""NCR Corporation"", ""NCR Corporation (Atlanta, GA)"", ""NCR Voyix"", ""NCR Voyix Corp"", ""NCR Voyix Corporation"", ""National Cash Register"", ""National Cash Register Company""]",,"Earnings preview: analysts expect VYX to report EPS of $1.12 this quarter.
+Identify what ""VYX"" denotes in this text.","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ticker symbol"",
+            ""entity"": ""VYX""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|YHZ|trp/iata|1,C3,YHZ,"trp/iata: Halifax / Stanfield International Airport | aliases [""CYHZ"", ""Halifax / Stanfield International Airport"", ""Halifax International Airport"", ""Halifax Stanfield International Airport"", ""Halifax-Stanfield"", ""Halifax/Robert L. Stanfield International Airport"", ""YHZ""]",,"Itinerary: depart YHZ at 07:15, arrive FRA at 09:40.
+What is ""YHZ"" in the text above?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Halifax Stanfield International Airport""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|YPG|trp/iata|0,C3,YPG,"trp/iata: Portage-la-Prairie / Southport Airport | aliases [""CYPG"", ""Portage la Prairie Southport Airport"", ""Portage la Prairie/Southport Airport"", ""Portage-la-Prairie / Southport Airport"", ""YPG""]",,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: YPG, Seat 14C.
+In this text, what does ""YPG"" refer to?","{
+
+
+    ""status"": ""ambiguous"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yemenia Airways""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yanbu Port Authority""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yanbu Industrial City""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yanbu International Airport""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yanbu Port""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Yanbu""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|VTA|trp/ica2|1,C3,VTA,"trp/ica2: Air Tahiti | aliases [""Air Tahiti"", ""VT""]",,"Flight plan filed: aircraft identification VTA1207, type A320, departure EGLL.
+What is ""VTA"" in the text above?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ICAO"",
+            ""entity"": ""VTA1207""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|GMP|trp/iata|1,C3,GMP,"trp/iata: Gimpo International Airport | aliases [""GMP"", ""Gimpo International Airport"", ""Kimpo Airport"", ""Kimpo International Airport"", ""RKSS""]",,"Itinerary: depart GMP at 07:15, arrive FRA at 09:40.
+What is ""GMP"" in the text above?","{""status"": ""answer"", ""readings"": [{""system"": ""IATA"", ""entity"": ""GMP""}, {""system"": ""IATA"", ""entity"": ""GMP""}]  }"
+Qwen/Qwen3-8B:featherless-ai,C3|IQD|fin/i42|0,C3,IQD,"fin/i42: Iraqi Dinar | aliases [""ID"", ""Iraqi Dinar"", ""Iraqi dinar""]",,"Invoice total: 1,250.00 IQD.
+In this text, what does ""IQD"" refer to?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""ISO 4217"",
+            ""entity"": ""Iraqi Dinar""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|DEZ|trp/iata|0,C3,DEZ,"trp/iata: Deir ez-Zor Airport | aliases [""DEZ"", ""Deir ez-Zor Airport"", ""Deir ez-Zor International Airport"", ""OSDZ""]",,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: DEZ, Seat 14C.
+In this text, what does ""DEZ"" refer to?","{
+
+
+    ""status"": ""ambiguous"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Dushanbe""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Dezful""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Djibouti""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|GVL|trp/iata|0,C3,GVL,"trp/iata: Lee Gilmer Memorial Airport | aliases [""GVL"", ""KGVL"", ""Lee Gilmer Memorial Airport""]",,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: GVL, Seat 14C.
+In this text, what does ""GVL"" refer to?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Glasgow International Airport""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Glasgow (Govan) Airport""
+        },
+        {
+            ""system"": ""IATA"",
+            ""entity"": ""Glasgow (Govan) Airport (GVL)""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C3|GTM|fin/tck|0,C3,GTM,"fin/tck: ZoomInfo Technologies Inc. | aliases [""ZoomInfo"", ""ZoomInfo Technologies Inc."", ""ZoomInfo Technologies LLC"", ""ZoomInfo Technologies, Inc."", ""Zoominfo""]",lng/i31: Guatemala,"Market close: shares of GTM fell 2.3% to $48.17.
+In this text, what does ""GTM"" refer to?","{""status"": ""answer"", ""readings"": [{""system"": ""ticker symbol"", ""entity"": ""GTM""}, {""system"": ""company abbreviation"", ""entity"": ""GTM""}]  }"
+Qwen/Qwen3-8B:featherless-ai,C3|CUP|fin/i42|2,C3,CUP,"fin/i42: Cuban Peso | aliases [""CUP"", ""Cuban Peso"", ""Cuban peso""]",trp/iata: General Francisco Bermúdez Airport,"Hotel bill: room rate 420 CUP per night, taxes included.
+Identify what ""CUP"" denotes in this text.","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""CUP"",
+            ""entity"": ""Cuban Peso""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|XOM|fin/tck|2,C4,XOM,"fin/tck: EXXON MOBIL CORP | aliases [""EXXON MOBIL CORP"", ""Exxon Mobil Corp."", ""ExxonMobil""]",,"Authoritative record: in the US stock ticker symbol listings, XOM is EXXON MOBIL CORP.
+What does ""XOM"" stand for?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""US stock ticker symbol"",
+            ""entity"": ""Exxon Mobil Corporation""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|TFK|trp/ica2|0,C4,TFK,"trp/ica2: Transafrik International | aliases [""Transafrik International""]",,"Reference record from the ICAO airline designator system: code TFK = Transafrik International.
+What does the code ""TFK"" refer to?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO airline designator"", ""entity"": ""Transafrik International""}] }"
+Qwen/Qwen3-8B:featherless-ai,C4|YGP|trp/iata|2,C4,YGP,"trp/iata: Michel-Pouliot Gaspé Airport | aliases [""CYGP"", ""Michel-Pouliot Gaspe Airport"", ""Michel-Pouliot Gasp\u00e9 Airport"", ""YGP""]",,"Authoritative record: in the IATA airport code system, YGP is Michel-Pouliot Gaspé Airport.
+What does ""YGP"" stand for?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA airport code system"",
+            ""entity"": ""Michel-Pouliot Gaspé Airport""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|CUP|fin/i42|0,C4,CUP,"fin/i42: Cuban Peso | aliases [""CUP"", ""Cuban Peso"", ""Cuban peso""]",trp/iata: General Francisco Bermúdez Airport,"Reference record from the ISO 4217 currency code standard: code CUP = Cuban Peso.
+What does the code ""CUP"" refer to?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Cuban Peso""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|DEZ|trp/iata|2,C4,DEZ,"trp/iata: Deir ez-Zor Airport | aliases [""DEZ"", ""Deir ez-Zor Airport"", ""Deir ez-Zor International Airport"", ""OSDZ""]",,"Authoritative record: in the IATA airport code system, DEZ is Deir ez-Zor Airport.
+What does ""DEZ"" stand for?","{
+
+
+    ""status"": ""answer"",
+    ""readings"": [
+        {
+            ""system"": ""IATA airport code system"",
+            ""entity"": ""Deir ez-Zor Airport""
+        }
+    ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|KUW|lng/ioc|1,C4,KUW,"lng/ioc: Kuwait | aliases [""KWT"", ""Kuwait"", ""State of Kuwait"", ""kw""]",,"Registry entry (International Olympic Committee country code system): KUW -> Kuwait.
+What is ""KUW""?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""International Olympic Committee country code system"",
+      ""entity"": ""Kuwait""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|GEQ|lng/ioc|1,C4,GEQ,"lng/ioc: Equatorial Guinea | aliases [""EQG"", ""Equatorial Guinea"", ""GEQ"", ""GNQ"", ""Republic of Equatorial Guinea"", ""gq""]",,"Registry entry (International Olympic Committee country code system): GEQ -> Equatorial Guinea.
+What is ""GEQ""?","{
+
+
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""International Olympic Committee country code system"",
+      ""entity"": ""Equatorial Guinea""
+    }
+  ]
+}"
+Qwen/Qwen3-8B:featherless-ai,C4|TCX|trp/ica2|2,C4,TCX,"trp/ica2: Thomas Cook Airlines | aliases [""Fly Thomas Cook"", ""MT"", ""Thomas Cook Airlines"", ""Thomas Cook Flights"", ""Thomas Cook Fly""]",fin/tck: TUCOWS INC /PA/; trp/iata: Tabas Airport,"Authoritative record: in the ICAO airline designator system, TCX is Thomas Cook Airlines.
+What does ""TCX"" stand for?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO airline designator"", ""entity"": ""Thomas Cook Airlines""}]}"
+google/gemma-3-12b-it:featherless-ai,C1|control|XAG|0,C1,XAG,fin/i42: Silver,,"What does the code ""XAG"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Silver Lingots""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|control|NZD|1,C1,NZD,fin/i42: New Zealand Dollar,,"What is ""NZD""?","{""status"": ""answer"", ""readings"": [{""system"": ""currency"", ""entity"": ""New Zealand Dollar""}]}"
+google/gemma-3-12b-it:featherless-ai,C1|control|NEP|1,C1,NEP,lng/ioc: Nepal,,"What is ""NEP""?","{
+  ""status"": ""ambiguous"",
+  ""readings"": [
+    {
+      ""system"": ""Education"",
+      ""entity"": ""National Education Policy (India)""
+    },
+    {
+      ""system"": ""Finance"",
+      ""entity"": ""Net Expected Proceeds""
+    },
+    {
+      ""system"": ""Technology"",
+      ""entity"": ""Network Element Protocol""
+    },
+    {
+      ""system"": ""Various"",
+      ""entity"": ""New Economic Program (Soviet Union)""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|collision|TCX|0,C1,TCX,trp/ica2: Thomas Cook Airlines; fin/tck: TUCOWS INC /PA/; trp/iata: Tabas Airport,fin/tck: TUCOWS INC /PA/; trp/iata: Tabas Airport,"What does the code ""TCX"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""TCX"",
+      ""entity"": ""TCX File Format (Garmin Training Center XML)""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|collision|RKT|0,C1,RKT,"fin/tck: Rocket Companies, Inc.; trp/iata: Ras Al Khaimah International Airport",trp/iata: Ras Al Khaimah International Airport; trp/ica2: Rotormotion,"What does the code ""RKT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Rocketry"",
+      ""entity"": ""Rocket Kit Technology""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|control|NZD|0,C1,NZD,fin/i42: New Zealand Dollar,,"What does the code ""NZD"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""currency"",
+      ""entity"": ""New Zealand Dollar""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|collision|HTG|2,C1,HTG,fin/i42: Gourde; trp/iata: Khatanga Airport,trp/iata: Khatanga Airport; trp/ica2: Grossmann Air Service,"What does ""HTG"" stand for?","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""Gaming"", ""entity"": ""Hit The Ground""},
+    {""system"": ""Healthcare"", ""entity"": ""High-Throughput Genomics""},
+    {""system"": ""Various"", ""entity"": ""Highly Trained Group""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C1|control|RMV|2,C1,RMV,trp/ica2: Romavia,,"What does ""RMV"" stand for?","{""status"": ""answer"", ""readings"": [{""system"": ""US Government"", ""entity"": ""Registry of Motor Vehicles""}]}"
+google/gemma-3-12b-it:featherless-ai,C1|collision|KPW|0,C1,KPW,fin/i42: North Korean Won; trp/iata: Keperveem Airport,trp/iata: Keperveem Airport,"What does the code ""KPW"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Korea, Democratic People's Republic of (North Korea)""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|control|XAG|1,C1,XAG,fin/i42: Silver,,"What is ""XAG""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Financial"",
+      ""entity"": ""Silver""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C1|control|DEZ|1,C1,DEZ,trp/iata: Deir ez-Zor Airport,,"What is ""DEZ""?","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""Various"", ""entity"": ""DEZ could refer to several things, including but not limited to: a shortened form of 'Deutsche Zeitung' (German Newspaper), a company name (e.g., DEZ GmbH), a location abbreviation, or a code within a specific system.""},
+    {""system"": ""Geographic"", ""entity"": ""DEZ might be an airport code, though it's not a widely recognized one. It could be a local or private airport.""},
+    {""system"": ""Acronym"", ""entity"": ""DEZ could be an acronym for a specific organization or project, but without context, it's impossible to determine the full meaning.""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C1|control|NEM|2,C1,NEM,fin/tck: NEWMONT Corp /DE/,,"What does ""NEM"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""cryptocurrency"",
+      ""entity"": ""New Economy Movement""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|RZO|trp/ica2|0,C2,RZO,"trp/ica2: SATA International | aliases [""Azores Air"", ""Azores Airlines"", ""S4"", ""SATA Internacional"", ""SATA International""]",,"In the ICAO airline designator system, what does the code ""RZO"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO Airline Designator"",
+      ""entity"": ""Air Zimbabwe""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|GMP|trp/iata|2,C2,GMP,"trp/iata: Gimpo International Airport | aliases [""GMP"", ""Gimpo International Airport"", ""Kimpo Airport"", ""Kimpo International Airport"", ""RKSS""]",,"Within the IATA airport code system, which entity has the code ""GMP""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Gimpo International Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|AXX|trp/iata|2,C2,AXX,"trp/iata: Angel Fire Airport | aliases [""Angel Fire Airport""]",trp/ica2: Avioimpex A.D.p.o.,"Within the IATA airport code system, which entity has the code ""AXX""?","{""status"": ""unknown"", ""readings"": []}"
+google/gemma-3-12b-it:featherless-ai,C2|RKT|trp/iata|0,C2,RKT,"trp/iata: Ras Al Khaimah International Airport | aliases [""OMRK"", ""RKT"", ""Ras Al Khaimah International Airport""]","fin/tck: Rocket Companies, Inc.; trp/ica2: Rotormotion","In the IATA airport code system, what does the code ""RKT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Rakitovo Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|RZO|trp/ica2|1,C2,RZO,"trp/ica2: SATA International | aliases [""Azores Air"", ""Azores Airlines"", ""S4"", ""SATA Internacional"", ""SATA International""]",,"""RZO"" is a code in the ICAO airline designator system. What does it denote?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO Airline Designator"", ""entity"": ""Razor Air""}]}"
+google/gemma-3-12b-it:featherless-ai,C2|RKT|fin/tck|1,C2,RKT,"fin/tck: Rocket Companies, Inc. | aliases [""RKT"", ""Rocket"", ""Rocket Companies"", ""Rocket Companies, Inc."", ""Rocket.com""]",trp/iata: Ras Al Khaimah International Airport; trp/ica2: Rotormotion,"""RKT"" is a code in the US stock ticker symbol listings. What does it denote?","{""status"": ""answer"", ""readings"": [{""system"": ""NYSE"", ""entity"": ""Rocket Companies, Inc.""}]}"
+google/gemma-3-12b-it:featherless-ai,C2|AXX|trp/iata|1,C2,AXX,"trp/iata: Angel Fire Airport | aliases [""Angel Fire Airport""]",trp/ica2: Avioimpex A.D.p.o.,"""AXX"" is a code in the IATA airport code system. What does it denote?","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""IATA Airport Code"", ""entity"": ""Axum Airport""},
+    {""system"": ""IATA Airport Code"", ""entity"": ""Aksaray Airport""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C2|YPA|trp/iata|0,C2,YPA,"trp/iata: Prince Albert Glass Field | aliases [""CYPA"", ""Prince Albert (Glass Field) Airport"", ""Prince Albert Glass Field"", ""YPA""]",,"In the IATA airport code system, what does the code ""YPA"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA"",
+      ""entity"": ""Pampa Airport, Pampa, Uruguay""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|XAG|fin/i42|1,C2,XAG,"fin/i42: Silver | aliases [""Silver"", ""Silver as an investment"", ""XAG"", ""silver"", ""silver as an investment"", ""silver as currency""]",,"""XAG"" is a code in the ISO 4217 currency code standard. What does it denote?","{""status"": ""answer"", ""readings"": [{""system"": ""ISO 4217"", ""entity"": ""Silver Lingot""}]}"
+google/gemma-3-12b-it:featherless-ai,C2|RKT|fin/tck|2,C2,RKT,"fin/tck: Rocket Companies, Inc. | aliases [""RKT"", ""Rocket"", ""Rocket Companies"", ""Rocket Companies, Inc."", ""Rocket.com""]",trp/iata: Ras Al Khaimah International Airport; trp/ica2: Rotormotion,"Within the US stock ticker symbol listings, which entity has the code ""RKT""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""NYSE"",
+      ""entity"": ""Rocket Companies, Inc.""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|HPP|fin/tck|2,C2,HPP,"fin/tck: Hudson Pacific Properties, Inc. | aliases [""Hudson Pacific Properties"", ""Hudson Pacific Properties, Inc.""]",,"Within the US stock ticker symbol listings, which entity has the code ""HPP""?","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""NYSE"", ""entity"": ""HPP Inc.""},
+    {""system"": ""OTC"", ""entity"": ""HealthPost Corp.""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C2|KAT|trp/iata|2,C2,KAT,"trp/iata: Kaitaia Airport | aliases [""KAT"", ""Kaitaia Airport"", ""NZKT""]",trp/ica2: Kato Airline,"Within the IATA airport code system, which entity has the code ""KAT""?","{""status"": ""answer"", ""readings"": [{""system"": ""IATA"", ""entity"": ""Katoomba, NSW, Australia""}]}"
+google/gemma-3-12b-it:featherless-ai,C2|HJA|trp/ica2|0,C2,HJA,"trp/ica2: Air Haiti | aliases [""Air Haiti"", ""Air Ha\u00efti""]",,"In the ICAO airline designator system, what does the code ""HJA"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO Airline Designator"",
+      ""entity"": ""HJA - Air Hamburg""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C2|RON|fin/i42|0,C2,RON,"fin/i42: Romanian Leu | aliases [""L"", ""RON"", ""Romanian Leu"", ""Romanian leu"", ""leu rom\u00e2nesc""]",trp/iata: Juan Jose Rondon Airport; trp/ica2: Nauru Air Corporation,"In the ISO 4217 currency code standard, what does the code ""RON"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Romanian Leu""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|MHK|trp/iata|2,C3,MHK,"trp/iata: Manhattan Regional Airport | aliases [""KMHK"", ""MHK"", ""Manhattan Regional Airport""]",fin/tck: MOHAWK INDUSTRIES INC,"Baggage tag printed at check-in: MHK, connecting via CDG.
+Identify what ""MHK"" denotes in this text.","{""status"": ""answer"", ""readings"": [{""system"": ""Airport Code"", ""entity"": ""Manhattan, Kansas, USA - Feilding Municipal Airport""}]}"
+google/gemma-3-12b-it:featherless-ai,C3|HTG|fin/i42|1,C3,HTG,"fin/i42: Gourde | aliases [""Gourde"", ""HTG"", ""Haitian Gourde"", ""Haitian gourde"", ""gourde""]",trp/iata: Khatanga Airport; trp/ica2: Grossmann Air Service,"Exchange board: 1 USD = 3.87 HTG.
+What is ""HTG"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""currency"",
+      ""entity"": ""Haitian gourde""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|NED|lng/ioc|2,C3,NED,"lng/ioc: Netherlands | aliases [""Holland"", ""NL"", ""NLD"", ""Nederland"", ""Nederlanden"", ""Netherlands"", ""de Nederlanden"", ""the Netherlands""]",,"Opening ceremony parade order: the delegation of NED entered after the previous team.
+Identify what ""NED"" denotes in this text.","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""ISO 3166-1 alpha-3"", ""entity"": ""Netherlands""},
+    {""system"": ""Unknown"", ""entity"": ""A specific organization or team abbreviation""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C3|OGL|trp/iata|1,C3,OGL,"trp/iata: Eugene F. Correia International Airport | aliases [""Eugene F. Correia International Airport"", ""OGL"", ""SYGO""]",,"Itinerary: depart OGL at 07:15, arrive FRA at 09:40.
+What is ""OGL"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Ogliola Malpensa Airport, Italy""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|CUP|trp/iata|0,C3,CUP,"trp/iata: General Francisco Bermúdez Airport | aliases [""CUP"", ""Carupano / Gen. Jose"", ""General Francisco Berm\u00fadez Airport"", ""General Jose Francisco Bermudez Airport"", ""General Jos\u00e9 Francisco Berm\u00fadez Airport"", ""SVCP""]",fin/i42: Cuban Peso,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: CUP, Seat 14C.
+In this text, what does ""CUP"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Cupertino, California (San Jose International Airport)""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|XOM|fin/tck|1,C3,XOM,"fin/tck: EXXON MOBIL CORP | aliases [""EXXON MOBIL CORP"", ""Exxon Mobil Corp."", ""ExxonMobil""]",,"Portfolio holdings: 150 shares of XOM, average cost $31.20.
+What is ""XOM"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""stock_ticker"",
+      ""entity"": ""ExxonMobil""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|PSD|trp/ica2|0,C3,PSD,"trp/ica2: President Airlines | aliases [""President Airlines"", ""TO"", ""null""]",trp/iata: Port Said International Airport,"ATC transcript: ""PSD482, climb and maintain flight level 340.""
+In this text, what does ""PSD"" refer to?","{""status"": ""ambiguous"", ""readings"": [
+    {""system"": ""Aviation"", ""entity"": ""Position Selective Designation""},
+    {""system"": ""Aviation"", ""entity"": ""Possibly a specific airport or sector identifier - requires further context""}
+]}"
+google/gemma-3-12b-it:featherless-ai,C3|CBJ|trp/iata|1,C3,CBJ,"trp/iata: Cabo Rojo Airport | aliases [""CBJ"", ""Cabo Rojo Airport"", ""MDCR""]",,"Itinerary: depart CBJ at 07:15, arrive FRA at 09:40.
+What is ""CBJ"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Juneau International Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|VTA|trp/ica2|0,C3,VTA,"trp/ica2: Air Tahiti | aliases [""Air Tahiti"", ""VT""]",,"ATC transcript: ""VTA482, climb and maintain flight level 340.""
+In this text, what does ""VTA"" refer to?","{""status"": ""answer"", ""readings"": [{""system"": ""ICAO"", ""entity"": ""VTA""}]}"
+google/gemma-3-12b-it:featherless-ai,C3|TXT|cmp/dns|1,C3,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"dig output, ANSWER SECTION: example.org. 300 IN TXT <record data>
+What is ""TXT"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""TXT Record""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|HTG|trp/iata|1,C3,HTG,"trp/iata: Khatanga Airport | aliases [""HTG"", ""Khatanga Airport"", ""UOHH""]",fin/i42: Gourde; trp/ica2: Grossmann Air Service,"Itinerary: depart HTG at 07:15, arrive FRA at 09:40.
+What is ""HTG"" in the text above?","{
+  ""status"": ""ambiguous"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Hattiesburg–Laurel Regional Airport""
+    },
+    {
+      ""system"": ""Airport Codes"",
+      ""entity"": ""Hegang Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C3|CBJ|trp/iata|2,C3,CBJ,"trp/iata: Cabo Rojo Airport | aliases [""CBJ"", ""Cabo Rojo Airport"", ""MDCR""]",,"Baggage tag printed at check-in: CBJ, connecting via CDG.
+Identify what ""CBJ"" denotes in this text.","{""status"": ""answer"", ""readings"": [{""system"": ""Airport Codes"", ""entity"": ""Juneau International Airport""}]}"
+google/gemma-3-12b-it:featherless-ai,C3|COP|fin/tck|2,C3,COP,"fin/tck: CONOCOPHILLIPS | aliases [""CONOCOPHILLIPS"", ""Conoco Phillips"", ""ConocoPhillips"", ""Continental Oil Company""]",fin/i42: Colombian Peso; trp/iata: Cooperstown-Westville Airport; trp/ica2: Copper State Air Service,"Earnings preview: analysts expect COP to report EPS of $1.12 this quarter.
+Identify what ""COP"" denotes in this text.","{""status"": ""answer"", ""readings"": [{""system"": ""stock_ticker"", ""entity"": ""Copper""}]}"
+google/gemma-3-12b-it:featherless-ai,C3|KUW|lng/ioc|2,C3,KUW,"lng/ioc: Kuwait | aliases [""KWT"", ""Kuwait"", ""State of Kuwait"", ""kw""]",,"Opening ceremony parade order: the delegation of KUW entered after the previous team.
+Identify what ""KUW"" denotes in this text.","{""status"": ""answer"", ""readings"": [{""system"": ""ISO 3166-1 alpha-3"", ""entity"": ""Kuwait""}]}"
+google/gemma-3-12b-it:featherless-ai,C4|TXT|cmp/dns|2,C4,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"Authoritative record: in the DNS resource record type registry, TXT is text strings.
+What does ""TXT"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""Text""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|MFG|fin/tck|2,C4,MFG,"fin/tck: MIZUHO FINANCIAL GROUP INC | aliases [""MIZUHO FINANCIAL GROUP INC"", ""Mizuho Financial Group"", ""Mizuho Financial Group, Inc.""]",trp/iata: Muzaffarabad Airport,"Authoritative record: in the US stock ticker symbol listings, MFG is MIZUHO FINANCIAL GROUP INC.
+What does ""MFG"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""US Stock Ticker Symbol"",
+      ""entity"": ""MIZUHO FINANCIAL GROUP INC.""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|SLJ|trp/iata|1,C4,SLJ,"trp/iata: Solomon Airport | aliases [""SLJ"", ""Solomon Airport"", ""Solomon Airport (Western Australia)"", ""YSOL""]",,"Registry entry (IATA airport code system): SLJ -> Solomon Airport.
+What is ""SLJ""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Solomon Islands Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|RKT|trp/iata|0,C4,RKT,"trp/iata: Ras Al Khaimah International Airport | aliases [""OMRK"", ""RKT"", ""Ras Al Khaimah International Airport""]","fin/tck: Rocket Companies, Inc.; trp/ica2: Rotormotion","Reference record from the IATA airport code system: code RKT = Ras Al Khaimah International Airport.
+What does the code ""RKT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Ras Al Khaimah International Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|HTG|fin/i42|1,C4,HTG,"fin/i42: Gourde | aliases [""Gourde"", ""HTG"", ""Haitian Gourde"", ""Haitian gourde"", ""gourde""]",trp/iata: Khatanga Airport; trp/ica2: Grossmann Air Service,"Registry entry (ISO 4217 currency code standard): HTG -> Gourde.
+What is ""HTG""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Haitian Gourde""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|XGR|trp/iata|1,C4,XGR,"trp/iata: Kangiqsualujjuaq (Georges River) Airport | aliases [""CYLU"", ""Georges River Airport"", ""Kangiqsualujjuaq (Georges River) Airport"", ""XGR"", ""angiqsualujjuaq Airport""]",,"Registry entry (IATA airport code system): XGR -> Kangiqsualujjuaq (Georges River) Airport.
+What is ""XGR""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Kangiqsualujjuaq (Georges River) Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|CBJ|trp/iata|0,C4,CBJ,"trp/iata: Cabo Rojo Airport | aliases [""CBJ"", ""Cabo Rojo Airport"", ""MDCR""]",,"Reference record from the IATA airport code system: code CBJ = Cabo Rojo Airport.
+What does the code ""CBJ"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Cabo Rojo Airport""
+    }
+  ]
+}"
+google/gemma-3-12b-it:featherless-ai,C4|YGP|trp/iata|2,C4,YGP,"trp/iata: Michel-Pouliot Gaspé Airport | aliases [""CYGP"", ""Michel-Pouliot Gaspe Airport"", ""Michel-Pouliot Gasp\u00e9 Airport"", ""YGP""]",,"Authoritative record: in the IATA airport code system, YGP is Michel-Pouliot Gaspé Airport.
+What does ""YGP"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Michel-Pouliot Gaspé Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|KPW|0,C1,KPW,fin/i42: North Korean Won; trp/iata: Keperveem Airport,trp/iata: Keperveem Airport,"What does the code ""KPW"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Korean Postal Code"",
+      ""entity"": ""Korean Postal Code""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NZD|1,C1,NZD,fin/i42: New Zealand Dollar,,"What is ""NZD""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Currency codes"",
+      ""entity"": ""New Zealand dollar""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|AXX|1,C1,AXX,trp/iata: Angel Fire Airport; trp/ica2: Avioimpex A.D.p.o.,trp/ica2: Avioimpex A.D.p.o.,"What is ""AXX""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Azerbaijani language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Aromanian language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Aromanian language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Avar language""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": """
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|GYY|2,C1,GYY,trp/iata: Gary/Chicago International Airport,,"What does ""GYY"" stand for?","{
+  ""status"": ""unknown"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gyy language""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|CXF|2,C1,CXF,trp/iata: Coldfoot Airport,,"What does ""CXF"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Common Usage"",
+      ""entity"": ""Apache CXF""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|XOM|2,C1,XOM,fin/tck: EXXON MOBIL CORP,,"What does ""XOM"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""stock ticker"",
+      ""entity"": ""Exxon Mobil Corporation""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NED|1,C1,NED,lng/ioc: Netherlands,,"What is ""NED""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Netherlands""
+    },
+    {
+      ""system"": ""NASA Exoplanet Archive"",
+      ""entity"": ""NED (Nuclear Spectroscopic Telescope Array) Exoplanet""
+    },
+    {
+      ""system"": ""National Geospatial-Intelligence Agency"",
+      ""entity"": ""NED (National Exploitation Database)""
+    },
+    {
+      ""system"": ""NASA/IPAC Extragalactic Database"",
+      ""entity"": ""NED (NASA/IPAC Extragalactic Database)""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|RMV|1,C1,RMV,trp/ica2: Romavia,,"What is ""RMV""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Romania""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Russian Federation""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Rwanda""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Réunion""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Rome, Vatican City""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Riyadh, Saudi Arabia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|DJF|0,C1,DJF,fin/i42: Djibouti Franc,,"What does the code ""DJF"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airport code"",
+      ""entity"": ""Djelfa Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|collision|SIG|2,C1,SIG,fin/tck: SIGNET JEWELERS LTD; trp/iata: Fernando Luis Ribas Dominicci Airport,cmp/dns: for security signature; trp/iata: Fernando Luis Ribas Dominicci Airport,"What does ""SIG"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Acronym"",
+      ""entity"": ""Special Interest Group""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|NEP|0,C1,NEP,lng/ioc: Nepal,,"What does the code ""NEP"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""NEP"",
+      ""entity"": ""National Environmental Policy""
+    },
+    {
+      ""system"": ""NEP"",
+      ""entity"": ""Nepal""
+    },
+    {
+      ""system"": ""NEP"",
+      ""entity"": ""National Education Policy""
+    },
+    {
+      ""system"": ""NEP"",
+      ""entity"": ""National Energy Plan""
+    },
+    {
+      ""system"": ""NEP"",
+      ""entity"": ""New Economic Policy""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C1|control|GMP|0,C1,GMP,trp/iata: Gimpo International Airport,,"What does the code ""GMP"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Georgian""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Georgian""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Georgian""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gaelic (Scotland)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gaelic (Scotland)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gaelic (Scotland)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gaelic (Ireland)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gaelic (Ireland)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gaelic (Ireland)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gujarati""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gujarati""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gujarati""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Greek (Modern)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Greek (Modern)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Greek (Modern)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Greenlandic""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Greenlandic""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Greenlandic""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Guarani""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Guarani""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Guarani""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Galician""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Galician""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Galician""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Ganda""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Ganda""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Ganda""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Georgian (Mingrelian)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Georgian (Mingrelian)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Georgian (Mingrelian)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Tukudh-Yat)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Tukudh-Yat)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Tukudh-Yat)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Hare)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Fort McPherson)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-3"",
+      ""entity"": ""Gwich'in (Tukudh)""
+    },
+    {
+      ""system"": ""ISO 639-1"",
+      ""entity"": ""Gwich'in (Tukudh-Yat)""
+    },
+    {
+      ""system"": ""ISO 639-2"",
+      ""entity"": ""Gwich'in (Tukudh-Yat)""
+    },
+    {
+"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TXT|cmp/dns|1,C2,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"""TXT"" is a code in the DNS resource record type registry. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""TXT (Text)""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|VIE|lng/ioc|1,C2,VIE,"lng/ioc: Viet Nam | aliases [""SRV"", ""Socialist Republic of Viet Nam"", ""Socialist Republic of Vietnam"", ""VIE"", ""VN"", ""VNM"", ""Viet Nam"", ""Vietnam"", ""Vi\u1ec7t Nam""]",trp/iata: Vienna International Airport; trp/ica2: VIP Empresarial,"""VIE"" is a code in the International Olympic Committee country code system. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""International Olympic Committee country code system"",
+      ""entity"": ""Vietnam""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|trp/ica2|1,C2,RON,"trp/ica2: Nauru Air Corporation | aliases [""Air Nauru"", ""Nauru Air Corporation"", ""Nauru Airlines"", ""ON"", ""Our Airline""]",fin/i42: Romanian Leu; trp/iata: Juan Jose Rondon Airport,"""RON"" is a code in the ICAO airline designator system. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division) or Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division) or Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (military division)""
+    },
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Norwegian Air Force (civilian division)""
+    },
+    {
+      """
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|XGR|trp/iata|0,C2,XGR,"trp/iata: Kangiqsualujjuaq (Georges River) Airport | aliases [""CYLU"", ""Georges River Airport"", ""Kangiqsualujjuaq (Georges River) Airport"", ""XGR"", ""angiqsualujjuaq Airport""]",,"In the IATA airport code system, what does the code ""XGR"" refer to?","{
+  ""status"": ""unknown"",
+  ""readings"": []
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|HOF|trp/iata|0,C2,HOF,"trp/iata: Al-Ahsa International Airport | aliases [""Al-Ahsa"", ""Al-Ahsa Domestic Airport"", ""Al-Ahsa International Airport"", ""HOF"", ""OEAH""]",,"In the IATA airport code system, what does the code ""HOF"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Hof (Saarland) Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RZO|trp/ica2|2,C2,RZO,"trp/ica2: SATA International | aliases [""Azores Air"", ""Azores Airlines"", ""S4"", ""SATA Internacional"", ""SATA International""]",,"Within the ICAO airline designator system, which entity has the code ""RZO""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""Royal Air Zambia""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TXT|fin/tck|0,C2,TXT,"fin/tck: TEXTRON INC | aliases [""TEXTRON INC"", ""Textron"", ""Textron Incorporated""]",cmp/dns: text strings; trp/ica2: Texas Air Charters,"In the US stock ticker symbol listings, what does the code ""TXT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""NYSE"",
+      ""entity"": ""Textron Inc.""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TCA|trp/iata|1,C2,TCA,"trp/iata: Tennant Creek Airport | aliases [""TCA"", ""Tennant Creek Aerodrome"", ""Tennant Creek Airport"", ""YTNK""]",lng/i31: Turks and Caicos Islands; trp/ica2: Tropican Air Services,"""TCA"" is a code in the IATA airport code system. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code system"",
+      ""entity"": ""Trabzon Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TCA|lng/i31|1,C2,TCA,"lng/i31: Turks and Caicos Islands | aliases [""TC"", ""TCI"", ""Turks & Caicos"", ""Turks and Caicos"", ""Turks and Caicos Islands"", ""tc""]",trp/iata: Tennant Creek Airport; trp/ica2: Tropican Air Services,"""TCA"" is a code in the ISO 3166-1 alpha-3 country code standard. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Trinidad and Tobago""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|CUP|fin/i42|2,C2,CUP,"fin/i42: Cuban Peso | aliases [""CUP"", ""Cuban Peso"", ""Cuban peso""]",trp/iata: General Francisco Bermúdez Airport,"Within the ISO 4217 currency code standard, which entity has the code ""CUP""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Cuban Peso""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|TPC|fin/tck|0,C2,TPC,"fin/tck: TUTOR PERINI CORP | aliases [""TUTOR PERINI CORP"", ""Tutor Perini""]",trp/iata: Tarapoa Airport; trp/ica2: Air Cal,"In the US stock ticker symbol listings, what does the code ""TPC"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""NYSE"",
+      ""entity"": ""Tidewater Inc.""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|KAT|trp/ica2|0,C2,KAT,"trp/ica2: Kato Airline | aliases [""Kato Air"", ""Kato Airline""]",trp/iata: Kaitaia Airport,"In the ICAO airline designator system, what does the code ""KAT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator"",
+      ""entity"": ""KAT (Airline) - Air Alsie""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|fin/i42|0,C2,RON,"fin/i42: Romanian Leu | aliases [""L"", ""RON"", ""Romanian Leu"", ""Romanian leu"", ""leu rom\u00e2nesc""]",trp/iata: Juan Jose Rondon Airport; trp/ica2: Nauru Air Corporation,"In the ISO 4217 currency code standard, what does the code ""RON"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""Romanian leu""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C2|RON|trp/iata|1,C2,RON,"trp/iata: Juan Jose Rondon Airport | aliases [""Juan Jose Rondon Airport"", ""Juan Jos\u00e9 Rond\u00f3n Airport"", ""PAIPA JUAN JOSE RONDON"", ""RON"", ""SKPA""]",fin/i42: Romanian Leu; trp/ica2: Nauru Air Corporation,"""RON"" is a code in the IATA airport code system. What does it denote?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Ronan Airport, Ireland""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|GTM|lng/i31|1,C3,GTM,"lng/i31: Guatemala | aliases [""GT"", ""GTM"", ""Guatemala"", ""Republic of Guatemala"", ""gt""]",fin/tck: ZoomInfo Technologies Inc.,"Visa application form. Nationality: GTM. Date of birth: 1988-04-12.
+What is ""GTM"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Georgia (the country)""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Guatemala""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Grenada""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Guinea-Bissau""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Guyana""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|CTU|trp/iata|0,C3,CTU,"trp/iata: Chengdu Shuangliu International Airport | aliases [""CTU"", ""Chengdu Shuangliu International Airport"", ""Shuangguisi Airport"", ""Shuangliu Airport"", ""ZUUU""]",,"Boarding pass: Flight 2417, Gate 12, From: LHR, To: CTU, Seat 14C.
+In this text, what does ""CTU"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Chengdu Shuangliu International Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|CXF|trp/iata|1,C3,CXF,"trp/iata: Coldfoot Airport | aliases [""CXF"", ""Coldfoot Airport"", ""PACX""]",,"Itinerary: depart CXF at 07:15, arrive FRA at 09:40.
+What is ""CXF"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Carcassonne Airport""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Châlons Vatry Airport""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Cape Town International Airport""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Cagliari Elmas Airport""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI)""
+    },
+    {
+      ""system"": ""Airport Code"",
+      ""entity"": ""Caxias do Sul Airport (also known as Hugo Cantergiani Airport) (IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID: CXI, IATA: CXI, ICAO: SBCX, FAA LID:"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|MFG|trp/iata|1,C3,MFG,"trp/iata: Muzaffarabad Airport | aliases [""MFG"", ""Muzaffarabad Airport"", ""OPMF""]",fin/tck: MIZUHO FINANCIAL GROUP INC,"Itinerary: depart MFG at 07:15, arrive FRA at 09:40.
+What is ""MFG"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Munich Franz Josef Strauss Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|XOM|fin/tck|1,C3,XOM,"fin/tck: EXXON MOBIL CORP | aliases [""EXXON MOBIL CORP"", ""Exxon Mobil Corp."", ""ExxonMobil""]",,"Portfolio holdings: 150 shares of XOM, average cost $31.20.
+What is ""XOM"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {""system"": ""NYSE"", ""entity"": ""Exxon Mobil Corporation""}
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NZD|fin/i42|2,C3,NZD,"fin/i42: New Zealand Dollar | aliases [""NZ$"", ""NZD"", ""New Zealand Dollar"", ""New Zealand dollar"", ""dollar"", ""dollars""]",,"Hotel bill: room rate 420 NZD per night, taxes included.
+Identify what ""NZD"" denotes in this text.","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 4217"",
+      ""entity"": ""New Zealand dollar""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|MFG|fin/tck|2,C3,MFG,"fin/tck: MIZUHO FINANCIAL GROUP INC | aliases [""MIZUHO FINANCIAL GROUP INC"", ""Mizuho Financial Group"", ""Mizuho Financial Group, Inc.""]",trp/iata: Muzaffarabad Airport,"Earnings preview: analysts expect MFG to report EPS of $1.12 this quarter.
+Identify what ""MFG"" denotes in this text.","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""NYSE"",
+      ""entity"": ""Morgan Stanley's parent company, Morgan Group, is not the only company with the ticker symbol MFG, but one of the companies with the ticker symbol MFG is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but the company that is most likely to be referred to in this text is  MFG (MFG) is a company that is a subsidiary of Morgan Stanley, but"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|KAT|trp/iata|1,C3,KAT,"trp/iata: Kaitaia Airport | aliases [""KAT"", ""Kaitaia Airport"", ""NZKT""]",trp/ica2: Kato Airline,"Itinerary: depart KAT at 07:15, arrive FRA at 09:40.
+What is ""KAT"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Katowice International Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|TCA|lng/i31|1,C3,TCA,"lng/i31: Turks and Caicos Islands | aliases [""TC"", ""TCI"", ""Turks & Caicos"", ""Turks and Caicos"", ""Turks and Caicos Islands"", ""tc""]",trp/iata: Tennant Creek Airport; trp/ica2: Tropican Air Services,"Visa application form. Nationality: TCA. Date of birth: 1988-04-12.
+What is ""TCA"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Turkish Republic of Northern Cyprus""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Turkmenistan, China, Afghanistan""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Taiwan, China, Australia""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Trinidad and Tobago, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Timor-Leste, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Togo, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Tokelau, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Tuvalu, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Tajikistan, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Turkmenistan, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Tunisia, China, Anguilla""
+    },
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Turks and Caicos Islands""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NEM|fin/tck|1,C3,NEM,"fin/tck: NEWMONT Corp /DE/ | aliases [""NEWMONT Corp /DE/"", ""Newmont"", ""Newmont Corporation"", ""Newmont Mining Corporation""]",,"Portfolio holdings: 150 shares of NEM, average cost $31.20.
+What is ""NEM"" in the text above?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {""system"": ""stock ticker"", ""entity"": ""Newmont Corporation""}
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|YPG|trp/iata|2,C3,YPG,"trp/iata: Portage-la-Prairie / Southport Airport | aliases [""CYPG"", ""Portage la Prairie Southport Airport"", ""Portage la Prairie/Southport Airport"", ""Portage-la-Prairie / Southport Airport"", ""YPG""]",,"Baggage tag printed at check-in: YPG, connecting via CDG.
+Identify what ""YPG"" denotes in this text.","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Gare du Nord railway station""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Gare de Lyon railway station""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Gare de l'Est railway station""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Gare Montparnasse railway station""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Le Bourget Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Beauvais Tillé Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Charles de Gaulle Airport""
+    },
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Paris Orly Airport""
+   "
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|HPP|fin/tck|0,C3,HPP,"fin/tck: Hudson Pacific Properties, Inc. | aliases [""Hudson Pacific Properties"", ""Hudson Pacific Properties, Inc.""]",,"Market close: shares of HPP fell 2.3% to $48.17.
+In this text, what does ""HPP"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""stock ticker"",
+      ""entity"": ""Hormel Foods Corporation""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|TXT|cmp/dns|2,C3,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"The zone administrator added a new TXT entry for example.net.
+Identify what ""TXT"" denotes in this text.","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-2"",
+      ""entity"": ""TXT, Tuvalu""
+    },
+    {
+      ""system"": ""RFC 1035"",
+      ""entity"": ""TXT, Text record""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C3|NED|lng/ioc|0,C3,NED,"lng/ioc: Netherlands | aliases [""Holland"", ""NL"", ""NLD"", ""Nederland"", ""Nederlanden"", ""Netherlands"", ""de Nederlanden"", ""the Netherlands""]",,"Olympic medal table: 4. NED - 7 gold, 9 silver, 5 bronze.
+In this text, what does ""NED"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ISO 3166-1 alpha-3"",
+      ""entity"": ""Netherlands""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|1,C4,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"Registry entry (DNS resource record type registry): TXT -> text strings.
+What is ""TXT""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ASCII"",
+      ""entity"": ""text""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|GVL|trp/iata|2,C4,GVL,"trp/iata: Lee Gilmer Memorial Airport | aliases [""GVL"", ""KGVL"", ""Lee Gilmer Memorial Airport""]",,"Authoritative record: in the IATA airport code system, GVL is Lee Gilmer Memorial Airport.
+What does ""GVL"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code"",
+      ""entity"": ""Lee Gilmer Memorial Airport""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|GTM|lng/i31|0,C4,GTM,"lng/i31: Guatemala | aliases [""GT"", ""GTM"", ""Guatemala"", ""Republic of Guatemala"", ""gt""]",fin/tck: ZoomInfo Technologies Inc.,"Reference record from the ISO 3166-1 alpha-3 country code standard: code GTM = Guatemala.
+What does the code ""GTM"" refer to?","{
+  ""status"": ""unknown"",
+  ""readings"": [
+    {""system"": ""ISO 3166-1 alpha-3"", ""entity"": ""Guatemala""},
+    {""system"": ""Internet TLD"", ""entity"": ""Guam""},
+    {""system"": ""ISO 4217 currency code"", ""entity"": ""Guatemalan quetzal""}
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|2,C4,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"Authoritative record: in the DNS resource record type registry, TXT is text strings.
+What does ""TXT"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICANN"",
+      ""entity"": ""Internet Corporation for Assigned Names and Numbers""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|RON|trp/ica2|1,C4,RON,"trp/ica2: Nauru Air Corporation | aliases [""Air Nauru"", ""Nauru Air Corporation"", ""Nauru Airlines"", ""ON"", ""Our Airline""]",fin/i42: Romanian Leu; trp/iata: Juan Jose Rondon Airport,"Registry entry (ICAO airline designator system): RON -> Nauru Air Corporation.
+What is ""RON""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator system"",
+      ""entity"": ""Nauru Air Corporation""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TXT|cmp/dns|0,C4,TXT,"cmp/dns: text strings | aliases [""TXT record"", ""text record"", ""text strings"", ""text strings record""]",fin/tck: TEXTRON INC; trp/ica2: Texas Air Charters,"Reference record from the DNS resource record type registry: code TXT = text strings.
+What does the code ""TXT"" refer to?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""DNS"",
+      ""entity"": ""Domain Name System""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|TPC|trp/ica2|2,C4,TPC,"trp/ica2: Air Cal | aliases [""Air Cal"", ""Air Caledonie"", ""Air Cal\u00e9donie"", ""TY"", ""Transpac Airlines""]",fin/tck: TUTOR PERINI CORP; trp/iata: Tarapoa Airport,"Authoritative record: in the ICAO airline designator system, TPC is Air Cal.
+What does ""TPC"" stand for?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""ICAO airline designator system"",
+      ""entity"": ""Air Cal""
+    }
+  ]
+}"
+meta-llama/Llama-3.1-8B-Instruct:featherless-ai,C4|DEZ|trp/iata|1,C4,DEZ,"trp/iata: Deir ez-Zor Airport | aliases [""DEZ"", ""Deir ez-Zor Airport"", ""Deir ez-Zor International Airport"", ""OSDZ""]",,"Registry entry (IATA airport code system): DEZ -> Deir ez-Zor Airport.
+What is ""DEZ""?","{
+  ""status"": ""answer"",
+  ""readings"": [
+    {
+      ""system"": ""IATA airport code system"",
+      ""entity"": ""Deir ez-Zor Airport""
+    }
+  ]
+}"

@@ -10,10 +10,12 @@ import re
 import sys
 import unicodedata
 
-GENERIC = {"airport", "international", "airlines", "airline", "inc", "corporation", "corp", "company", "co", "ltd", "plc", "the",
-           "of", "record", "dns", "currency", "code", "dollar", "peso"}
+SUFFIX = {"inc", "incorporated", "corp", "corporation", "co", "company", "ltd", "limited", "plc", "llc", "the"}
 WRAPPER = {"the", "of", "a", "an", "republic", "state", "sultanate", "kingdom", "nation", "country", "island", "islands",
-           "currency", "code", "record", "type", "dns", "inc", "incorporated", "corp", "corporation", "co", "company", "ltd", "limited", "plc", "llc"}
+           "currency", "code", "record", "type", "dns"} | SUFFIX
+# GENERIC only decides OTHER against UNRESOLVED (partial overlap); it never contributes to a CORRECT or COMPETITOR match.
+GENERIC = WRAPPER | {"airport", "international", "airlines", "airline", "air", "airways", "aviation", "airfield", "field", "memorial",
+                     "regional", "national", "service", "services", "group", "city", "dollar", "peso", "and", "de", "la", "du", "del", "e", "y"}
 EXCLUDED_ALIASES = {"null", "peso", "dollar", "dollars"}
 STATUS = ("answer", "ambiguous", "unknown")
 
@@ -58,12 +60,18 @@ def export_alias_policy(gold_p, out_p):
 
 
 # ---------------------------------------------------------------- entity
+def core(tokens):
+    """Tokens without corporate suffixes; falls back to the full list when nothing else is left."""
+    c = [t for t in tokens if t not in SUFFIX]
+    return c or list(tokens)
+
+
 def match_level(e_norm, alias_norms, literal_norm):
     """'exact', 'phrase', 'partial' or '' for one entity string against one alias set."""
-    et = e_norm.split(); eset = set(et); level = ""
+    et = e_norm.split(); eset = set(et); level = ""; ecore = core(et)
     for a in alias_norms:
         at = a.split()
-        if e_norm == a or eset == set(at): return "exact"
+        if e_norm == a or eset == set(at) or (len(at) >= 2 and set(core(at)) == set(ecore)): return "exact"
         if len(at) >= 2 and f" {a} " in f" {e_norm} ": level = "phrase"
         elif len(at) == 1 and at[0] in eset and all(t in WRAPPER or t == at[0] or t == literal_norm for t in et): level = "phrase"
         elif not level and (eset - GENERIC) & (set(at) - GENERIC): level = "partial"
@@ -73,7 +81,8 @@ def match_level(e_norm, alias_norms, literal_norm):
 def entity_eval(entity_raw, readings, literal, target_sid=None):
     """readings: {sid: alias_norms}. Returns (entity, evidence, matched_sid)."""
     e = norm(entity_raw); ln = norm(literal)
-    if alias_policy(str(entity_raw if entity_raw is not None else ""), literal): return "UNRESOLVED", "no_entity", ""
+    raw = str(entity_raw if entity_raw is not None else "")
+    if alias_policy(raw, literal) or re.sub(r"[^a-z]", "", e) == ln: return "UNRESOLVED", "no_entity", ""
     levels = {sid: match_level(e, al, ln) for sid, al in readings.items()}
     strong = [sid for sid, l in levels.items() if l in ("exact", "phrase")]
     partial = [sid for sid, l in levels.items() if l == "partial"]

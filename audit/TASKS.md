@@ -26,12 +26,12 @@ Branch: audit-v3. Cada item é marcado ao concluir, com o artefato que o verific
 ## 3. Implementação e testes
 - [x] 5. src/score_v3.py
 - [x] 6. tests/test_score_v3.py com casos positivos e negativos, rodando
-- [ ] 7. Avaliador congelado em commit antes da pontuação
+- [x] 7. Avaliador congelado em commit antes da pontuação
 
 ## 4. Validação do instrumento
-- [ ] 8. Amostra estratificada de 120 a 150 respostas, semente fixa, registrada antes da revisão
-- [ ] 9. Revisão assistida cega, com identificador, interpretação, justificativa e confiança
-- [ ] 10. Concordância, matriz de confusão e principais erros; no máximo uma rodada de correção
+- [x] 8. Amostra estratificada de 120 a 150 respostas, semente fixa, registrada antes da revisão
+- [x] 9. Revisão assistida cega, com identificador, interpretação, justificativa e confiança
+- [x] 10. Concordância, matriz de confusão e principais erros; no máximo uma rodada de correção
 
 ## 5. Reavaliação
 - [ ] 11. results_v3/scored.csv com as 5.076 respostas; impacto de FORMAT/TRUNCATED à parte
