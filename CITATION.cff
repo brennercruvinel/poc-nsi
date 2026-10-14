@@ -15,8 +15,9 @@ authors:
     website: https://hoffresearch.com
 abstract: >-
   Record of a closed exploratory study of namespace interference in language models, built on seven
-  systems of the 3char dataset: frozen protocol, raw responses of three models, the pre-registered
-  scorer, a post hoc audit with a three-dimension evaluator, a negative result and the decision to close.
+  systems of the 3char dataset. It contains the frozen protocol, the raw responses of three models, the
+  pre-registered scorer, a post hoc audit with a three-dimension evaluator, and the decision to close the
+  study after finding no robust evidence of the effect.
 license: MIT
 repository-code: https://github.com/brennercruvinel/poc-nsi
 keywords:
@@ -24,5 +25,5 @@ keywords:
   - entity ambiguity
   - language models
   - evaluation
-  - negative result
+  - inconclusive result
   - audit
