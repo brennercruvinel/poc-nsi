@@ -1,0 +1,272 @@
+{
+ "_note": "Canonisation of the free-text `system` field. Rules are regexes applied in order to the normalised string (casefold, accents and punctuation removed, single spaces); the first match wins; no match means UNRESOLVED. Related systems are never merged: ISO 3166-1 alpha-3 is not the IOC list, IATA is not ICAO, alpha-2 is not alpha-3. A bare organisation name (iata, icao) is a distinct canon `org/*` that only counts as equivalent for the single 3-letter system that organisation owns in this study. Confidence is the confidence that the string denotes the canonical system.",
+ "asked": {
+  "trp/iata": {
+   "canon": "trp/iata",
+   "prompt_name": "IATA airport code system"
+  },
+  "trp/ica2": {
+   "canon": "trp/ica2",
+   "prompt_name": "ICAO airline designator system"
+  },
+  "lng/i31": {
+   "canon": "lng/i31",
+   "prompt_name": "ISO 3166-1 alpha-3 country code standard"
+  },
+  "lng/ioc": {
+   "canon": "lng/ioc",
+   "prompt_name": "International Olympic Committee country code system"
+  },
+  "fin/i42": {
+   "canon": "fin/i42",
+   "prompt_name": "ISO 4217 currency code standard"
+  },
+  "fin/tck": {
+   "canon": "fin/tck",
+   "prompt_name": "US stock ticker symbol listings"
+  },
+  "cmp/dns": {
+   "canon": "cmp/dns",
+   "prompt_name": "DNS resource record type registry"
+  }
+ },
+ "org_equivalent_for": {
+  "org/iata": "trp/iata",
+  "org/icao": "trp/ica2",
+  "org/iso": null
+ },
+ "canons": {
+  "trp/iata": "IATA 3-letter airport location identifiers",
+  "trp/ica2": "ICAO 3-letter airline designators (the 3-letter part of the 3char trp/ica2 namespace)",
+  "lng/i31": "ISO 3166-1 alpha-3 country codes",
+  "lng/ioc": "IOC country codes",
+  "fin/i42": "ISO 4217 currency codes",
+  "fin/tck": "US stock tickers as listed by the SEC (NYSE, Nasdaq, OTC)",
+  "cmp/dns": "IANA DNS resource record types",
+  "x/iso3166-a2": "ISO 3166-1 alpha-2",
+  "x/iso3166-2": "ISO 3166-2 subdivisions",
+  "x/iso3166-num": "ISO 3166-1 numeric",
+  "x/iata-airline": "IATA 2-letter airline designators",
+  "x/icao-airport": "ICAO 4-letter location indicators",
+  "x/icao-type": "ICAO aircraft type designators",
+  "x/registration": "aircraft registration prefixes",
+  "x/fifa": "FIFA country codes",
+  "x/athletics": "World Athletics / IAAF country codes",
+  "x/fips": "FIPS 10-4",
+  "x/undp": "UNDP / UN country codes",
+  "x/iso639": "ISO 639 language codes",
+  "x/nato": "NATO phonetic alphabet",
+  "x/cusip": "CUSIP / ISIN security identifiers",
+  "x/crypto": "cryptocurrency tickers",
+  "x/ascii": "ASCII",
+  "x/tld": "Internet top-level domains",
+  "org/iata": "the organisation IATA, system not stated",
+  "org/icao": "the organisation ICAO, system not stated",
+  "org/iso": "the organisation ISO, standard not stated",
+  "x/faa": "FAA location identifiers"
+ },
+ "rules": [
+  {
+   "pattern": "^iata$",
+   "canon": "org/iata",
+   "rule": "organisation_name",
+   "confidence": "medium"
+  },
+  {
+   "pattern": "^icao$",
+   "canon": "org/icao",
+   "rule": "organisation_name",
+   "confidence": "medium"
+  },
+  {
+   "pattern": "^iso$",
+   "canon": "org/iso",
+   "rule": "organisation_name",
+   "confidence": "low"
+  },
+  {
+   "pattern": "iso 3166 ?1? ?alpha ?3|iso 3166 ?1? ?a3\\b|alpha 3 country",
+   "canon": "lng/i31",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iso 3166 ?1? ?alpha ?2|iso 3166 ?1? ?a2\\b|alpha 2 country",
+   "canon": "x/iso3166-a2",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iso 3166 2\\b",
+   "canon": "x/iso3166-2",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iso 3166 ?1? ?numeric",
+   "canon": "x/iso3166-num",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iso 3166",
+   "canon": "lng/i31",
+   "rule": "standard_family_code_length",
+   "confidence": "medium",
+   "note": "ISO 3166-1 without a part; a 3-letter code can only be alpha-3"
+  },
+  {
+   "pattern": "iso 4217|iso currency",
+   "canon": "fin/i42",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "cryptocurrenc|crypto ?currenc|crypto ticker",
+   "canon": "x/crypto",
+   "rule": "domain_name",
+   "confidence": "medium"
+  },
+  {
+   "pattern": "^currency( codes?| code standard| symbol)?$",
+   "canon": "fin/i42",
+   "rule": "domain_of_single_standard",
+   "confidence": "medium",
+   "note": "ISO 4217 is the only 3-letter currency code standard"
+  },
+  {
+   "pattern": "iso 639",
+   "canon": "x/iso639",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "nato phonetic",
+   "canon": "x/nato",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "fips",
+   "canon": "x/fips",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "\\bundp\\b|\\bun country|^un$|un member",
+   "canon": "x/undp",
+   "rule": "standard_name",
+   "confidence": "medium"
+  },
+  {
+   "pattern": "fifa",
+   "canon": "x/fifa",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iaaf|world athletics|^athletics",
+   "canon": "x/athletics",
+   "rule": "standard_name",
+   "confidence": "medium",
+   "note": "World Athletics keeps its own code list; contexts named 'athletics' are mapped to it"
+  },
+  {
+   "pattern": "international olympic committee|\\bioc\\b",
+   "canon": "lng/ioc",
+   "rule": "standard_name",
+   "confidence": "high",
+   "note": "formal name or acronym of the IOC list"
+  },
+  {
+   "pattern": "olympic",
+   "canon": "lng/ioc",
+   "rule": "context_of_system",
+   "confidence": "medium",
+   "note": "Olympic contexts (medal tables, parades) use IOC codes by definition"
+  },
+  {
+   "pattern": "dns|resource record|rfc 1035|\\biana\\b|icann",
+   "canon": "cmp/dns",
+   "rule": "registry_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "ascii",
+   "canon": "x/ascii",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "top level domain|\\btld\\b",
+   "canon": "x/tld",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "cusip|\\bisin\\b",
+   "canon": "x/cusip",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "ticker|stock symbol|stock market|stock exchange|nyse|nasdaq|\\botc\\b|otcbb|otc markets|\\bsec\\b|sec edgar|edgar",
+   "canon": "fin/tck",
+   "rule": "ticker_or_us_exchange",
+   "confidence": "medium",
+   "note": "the SEC ticker list covers NYSE, Nasdaq and OTC; an exchange name is the namespace the ticker belongs to, not a different code system"
+  },
+  {
+   "pattern": "icao (4 letter )?(airport|location)|icao airport",
+   "canon": "x/icao-airport",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "icao aircraft type|type designator",
+   "canon": "x/icao-type",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "registration|tail code",
+   "canon": "x/registration",
+   "rule": "standard_name",
+   "confidence": "medium"
+  },
+  {
+   "pattern": "iata (airline|carrier)",
+   "canon": "x/iata-airline",
+   "rule": "standard_name",
+   "confidence": "medium",
+   "note": "IATA 2-letter airline designators, a named system different from the 3-letter ICAO list"
+  },
+  {
+   "pattern": "ica[po]o? ?(airline|operator|aircraft identification|aircraft identifier|three letter|3 letter|designator|company)|icao code|^airline (codes?|designators?)\\b|airline designator|flight (plan|identifier|id|designator)|call ?sign",
+   "canon": "trp/ica2",
+   "rule": "standard_name_or_code_length_or_flight_plan_field",
+   "confidence": "medium",
+   "note": "a 3-letter airline code can only be the ICAO designator (IATA airline codes are 2 characters); flight-plan aircraft identification and callsigns are the ICAO designator plus a number (ICAO Doc 4444, item 7); 'icapo' is a model typo"
+  },
+  {
+   "pattern": "\\bfaa\\b",
+   "canon": "x/faa",
+   "rule": "standard_name",
+   "confidence": "high"
+  },
+  {
+   "pattern": "iata (airport|location|code|city)|airport ?codes?( iata)?|^airport_codes$|iata$|^iata\\b.*airport",
+   "canon": "trp/iata",
+   "rule": "standard_name_or_code_length",
+   "confidence": "high",
+   "note": "'airport code' with a 3-letter code can only be the IATA list (ICAO location indicators are 4 letters)"
+  },
+  {
+   "pattern": "mrz|machine readable|mrtd|9303|7501",
+   "canon": "lng/i31",
+   "rule": "document_standard_using_system",
+   "confidence": "low",
+   "note": "ICAO Doc 9303 nationality codes are ISO 3166-1 alpha-3 with listed exceptions"
+  }
+ ]
+}

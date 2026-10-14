@@ -1,0 +1,566 @@
+asked,system_norm,n,canon,rule,confidence
+C1 (none asked),acronym,176,,none,
+C1 (none asked),iata,169,org/iata,organisation_name,medium
+C1 (none asked),military,116,,none,
+C1 (none asked),iso 3166 1 alpha 2,79,x/iso3166-a2,standard_name,high
+C1 (none asked),acronyms,67,,none,
+C1 (none asked),iso 639 1,60,x/iso639,standard_name,high
+C1 (none asked),various,59,,none,
+C1 (none asked),icao,49,org/icao,organisation_name,medium
+C1 (none asked),medical,49,,none,
+C1 (none asked),aviation,48,,none,
+C1 (none asked),finance,42,,none,
+C1 (none asked),computing,34,,none,
+C1 (none asked),iso 4217,34,fin/i42,standard_name,high
+C1 (none asked),iso 3166 1 alpha 3,33,lng/i31,standard_name,high
+C1 (none asked),abbreviation,26,,none,
+C1 (none asked),technology,23,,none,
+C1 (none asked),sports,22,,none,
+C1 (none asked),telecommunications,21,,none,
+C1 (none asked),gaming,20,,none,
+C1 (none asked),nato phonetic alphabet,17,x/nato,standard_name,high
+C1 (none asked),academic,16,,none,
+C1 (none asked),business,16,,none,
+C1 (none asked),currency,15,fin/i42,domain_of_single_standard,medium
+C1 (none asked),education,13,,none,
+C1 (none asked),general,12,,none,
+C1 (none asked),automotive,12,,none,
+C1 (none asked),healthcare,11,,none,
+C1 (none asked),music,10,,none,
+C1 (none asked),it,10,,none,
+C1 (none asked),sig,9,,none,
+C1 (none asked),internet slang,9,,none,
+C1 (none asked),tca,9,,none,
+C1 (none asked),other,8,,none,
+C1 (none asked),cve,8,,none,
+C1 (none asked),unknown,8,,none,
+C1 (none asked),cryptocurrency,7,x/crypto,domain_name,medium
+C1 (none asked),iso 639 2,7,x/iso639,standard_name,high
+C1 (none asked),iso,6,org/iso,organisation_name,low
+C1 (none asked),cup,6,,none,
+C1 (none asked),vta,6,,none,
+C1 (none asked),icao aircraft type designator,6,x/icao-type,standard_name,high
+C1 (none asked),iata airline code,5,x/iata-airline,standard_name,medium
+C1 (none asked),iso 639 3,5,x/iso639,standard_name,high
+C1 (none asked),military political,5,,none,
+C1 (none asked),programming,5,,none,
+C1 (none asked),physics,5,,none,
+C1 (none asked),nwi,5,,none,
+C1 (none asked),meteorology,5,,none,
+C1 (none asked),ygp,5,,none,
+C1 (none asked),various proprietary codes,5,,none,
+C1 (none asked),transportation,5,,none,
+C1 (none asked),us government,5,,none,
+C1 (none asked),nep,5,,none,
+C1 (none asked),icao airline code,4,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+C1 (none asked),marketing,4,,none,
+C1 (none asked),german,4,,none,
+C1 (none asked),ned,4,,none,
+C1 (none asked),chemistry,4,,none,
+C1 (none asked),gmp,4,,none,
+C1 (none asked),stock market,4,fin/tck,ticker_or_us_exchange,medium
+C1 (none asked),cop,4,,none,
+C1 (none asked),stock ticker,4,fin/tck,ticker_or_us_exchange,medium
+C1 (none asked),qar,4,,none,
+C1 (none asked),korean,4,,none,
+C1 (none asked),gvl,4,,none,
+C1 (none asked),file format,4,,none,
+C1 (none asked),ascii,4,x/ascii,standard_name,high
+C1 (none asked),geographic,4,,none,
+C1 (none asked),various acronyms,4,,none,
+C1 (none asked),sql,4,,none,
+C1 (none asked),military aviation,3,,none,
+C1 (none asked),kuw,3,,none,
+C1 (none asked),tfk,3,,none,
+C1 (none asked),nato,3,,none,
+C1 (none asked),midi,3,,none,
+C1 (none asked),un,3,x/undp,standard_name,medium
+C1 (none asked),norwegian,3,,none,
+C1 (none asked),genetics,3,,none,
+C1 (none asked),mhk,3,,none,
+C1 (none asked),tcx,3,,none,
+C1 (none asked),xgr,3,,none,
+C1 (none asked),cbj,3,,none,
+C1 (none asked),kat,3,,none,
+C1 (none asked),unclear,3,,none,
+C1 (none asked),iso 3166 2,3,x/iso3166-2,standard_name,high
+C1 (none asked),neuroscience,3,,none,
+C1 (none asked),various potentially proprietary,3,,none,
+C1 (none asked),networking,3,,none,
+C1 (none asked),law enforcement,3,,none,
+C1 (none asked),japanese,3,,none,
+C1 (none asked),lgbtq,3,,none,
+C1 (none asked),psychology,3,,none,
+C1 (none asked),file extension,3,,none,
+C1 (none asked),airport code,3,trp/iata,standard_name_or_code_length,high
+C1 (none asked),iata airport code,3,trp/iata,standard_name_or_code_length,high
+C1 (none asked),htg,3,,none,
+C1 (none asked),toefl,3,,none,
+C1 (none asked),toeic,3,,none,
+C1 (none asked),unicode,2,,none,
+C1 (none asked),political,2,,none,
+C1 (none asked),nhs,2,,none,
+C1 (none asked),alcohol,2,,none,
+C1 (none asked),chemical,2,,none,
+C1 (none asked),united nations security council,2,,none,
+C1 (none asked),united nations general assembly,2,,none,
+C1 (none asked),currency codes,2,fin/i42,domain_of_single_standard,medium
+C1 (none asked),currency code,2,fin/i42,domain_of_single_standard,medium
+C1 (none asked),genbank,2,,none,
+C1 (none asked),gid,2,,none,
+C1 (none asked),engineering,2,,none,
+C1 (none asked),apache,2,,none,
+C1 (none asked),usps,2,,none,
+C1 (none asked),various acronym,2,,none,
+C1 (none asked),airport codes,2,trp/iata,standard_name_or_code_length,high
+C1 (none asked),icao airport code,2,x/icao-airport,standard_name,high
+C1 (none asked),google tag manager,2,,none,
+C1 (none asked),military phonetic alphabet,2,,none,
+C1 (none asked),geography,2,,none,
+C1 (none asked),television,2,,none,
+C1 (none asked),business finance,2,,none,
+C1 (none asked),government,2,,none,
+C1 (none asked),database,2,,none,
+C1 (none asked),vehicle identification number vin,2,,none,
+C1 (none asked),general electric,2,,none,
+C1 (none asked),pharmaceutical,2,,none,
+C1 (none asked),mathematics,2,,none,
+C1 (none asked),financial markets,2,,none,
+C1 (none asked),legal,2,,none,
+C1 (none asked),shipping,2,,none,
+C1 (none asked),energy,2,,none,
+C1 (none asked),unix linux,2,,none,
+C1 (none asked),geology,2,,none,
+C1 (none asked),slang internet,2,,none,
+C1 (none asked),manufacturing,2,,none,
+C1 (none asked),mining hardware,2,,none,
+C1 (none asked),tpc,2,,none,
+C1 (none asked),golf,2,,none,
+C1 (none asked),jec,2,,none,
+C1 (none asked),signal integrity,2,,none,
+C1 (none asked),politics,2,,none,
+C1 (none asked),korean unified writing system,2,,none,
+C1 (none asked),nem,2,,none,
+C1 (none asked),iso 14644 1,2,,none,
+C1 (none asked),iso 13485,2,,none,
+C1 (none asked),iso 9001,2,,none,
+C1 (none asked),grw,2,,none,
+C1 (none asked),dte data terminal equipment,2,,none,
+C1 (none asked),eia,2,,none,
+C1 (none asked),nhl,2,,none,
+C1 (none asked),toe,2,,none,
+C1 (none asked),signal,2,,none,
+C1 (none asked),itu country code,1,,none,
+C1 (none asked),military code,1,,none,
+C1 (none asked),aviation code,1,,none,
+C1 (none asked),common business acronyms,1,,none,
+C1 (none asked),technology and product development,1,,none,
+C1 (none asked),finance and investment,1,,none,
+C1 (none asked),name,1,,none,
+C1 (none asked),operating system,1,,none,
+C1 (none asked),iata airline codes,1,x/iata-airline,standard_name,medium
+C1 (none asked),nepal s national code in various contexts,1,,none,
+C1 (none asked),historical,1,,none,
+C1 (none asked),spanish,1,,none,
+C1 (none asked),french,1,,none,
+C1 (none asked),italian,1,,none,
+C1 (none asked),portuguese,1,,none,
+C1 (none asked),military aircraft designation,1,,none,
+C1 (none asked),us department of defense,1,,none,
+C1 (none asked),medical imaging,1,,none,
+C1 (none asked),cosmetics,1,,none,
+C1 (none asked),alcohol beverage classification,1,,none,
+C1 (none asked),un locode,1,,none,
+C1 (none asked),stock market ticker,1,fin/tck,ticker_or_us_exchange,medium
+C1 (none asked),metal,1,,none,
+C1 (none asked),iso 3166 1 alpha 2 country code,1,x/iso3166-a2,standard_name,high
+C1 (none asked),gbw as an acronym in various contexts,1,,none,
+C1 (none asked),nautical,1,,none,
+C1 (none asked),climate,1,,none,
+C1 (none asked),computer science,1,,none,
+C1 (none asked),gid generalized instructional design,1,,none,
+C1 (none asked),gid global identifier,1,,none,
+C1 (none asked),gid group identifier,1,,none,
+C1 (none asked),linux,1,,none,
+C1 (none asked),general computing,1,,none,
+C1 (none asked),nws,1,,none,
+C1 (none asked),gene ontology,1,,none,
+C1 (none asked),plant gene,1,,none,
+C1 (none asked),dungeons dragons,1,,none,
+C1 (none asked),other contexts,1,,none,
+C1 (none asked),genetic,1,,none,
+C1 (none asked),environmental protection agency,1,,none,
+C1 (none asked),international organization for standardization,1,,none,
+C1 (none asked),u s department of commerce,1,,none,
+C1 (none asked),financial services,1,,none,
+C1 (none asked),environmental,1,,none,
+C1 (none asked),railway,1,,none,
+C1 (none asked),software,1,,none,
+C1 (none asked),alphabet,1,,none,
+C1 (none asked),icd 10,1,,none,
+C1 (none asked),ieee,1,,none,
+C1 (none asked),iupac,1,,none,
+C1 (none asked),domain name,1,,none,
+C1 (none asked),domain,1,,none,
+C1 (none asked),law enforcement philippines,1,,none,
+C1 (none asked),shipping label journal,1,,none,
+C1 (none asked),south london jazz,1,,none,
+C1 (none asked),common acronyms,1,,none,
+C1 (none asked),university,1,,none,
+C1 (none asked),airport codes iata,1,trp/iata,standard_name_or_code_length,high
+C1 (none asked),airport code iata,1,trp/iata,standard_name_or_code_length,high
+C1 (none asked),russian railways,1,,none,
+C1 (none asked),neuroimaging,1,,none,
+C1 (none asked),nepal earthquake protocol,1,,none,
+C1 (none asked),national emergency plan,1,,none,
+C1 (none asked),new england patriots,1,,none,
+C1 (none asked),org,1,,none,
+C1 (none asked),nato reporting code,1,,none,
+C1 (none asked),national electrical code nec,1,,none,
+C1 (none asked),various proprietary systems,1,,none,
+C1 (none asked),various potentially custom,1,,none,
+C1 (none asked),biochemistry,1,,none,
+C1 (none asked),shipping logistics,1,,none,
+C1 (none asked),supply chain,1,,none,
+C1 (none asked),ieee 754,1,,none,
+C1 (none asked),assembly language various,1,,none,
+C1 (none asked),database query language sql,1,,none,
+C1 (none asked),programming databases,1,,none,
+C1 (none asked),programming sql,1,,none,
+C1 (none asked),programming various,1,,none,
+C1 (none asked),data analysis,1,,none,
+C1 (none asked),configuration files,1,,none,
+C1 (none asked),python,1,,none,
+C1 (none asked),general programming,1,,none,
+C1 (none asked),programming general,1,,none,
+C1 (none asked),cryptography encoding,1,,none,
+C1 (none asked),project internal code,1,,none,
+C1 (none asked),iso 3166 1 numeric,1,x/iso3166-num,standard_name,high
+C1 (none asked),nyse,1,fin/tck,ticker_or_us_exchange,medium
+C1 (none asked),financial,1,,none,
+C1 (none asked),company,1,,none,
+C1 (none asked),location,1,,none,
+C1 (none asked),it security,1,,none,
+C1 (none asked),possible airport code unverified,1,trp/iata,standard_name_or_code_length,high
+C1 (none asked),acronym abbreviation context dependent,1,,none,
+C1 (none asked),faa airport codes,1,x/faa,standard_name,high
+C1 (none asked),geographic base weights,1,,none,
+C1 (none asked),german bundeswehr,1,,none,
+C1 (none asked),generic business workflow,1,,none,
+C1 (none asked),korean hangul,1,,none,
+C1 (none asked),japanese katakana,1,,none,
+C1 (none asked),possible abbreviation code,1,,none,
+C1 (none asked),nigerian pidgin english,1,,none,
+C1 (none asked),veterinary terminology,1,,none,
+C1 (none asked),quantum mechanics,1,,none,
+C1 (none asked),fitness,1,,none,
+C1 (none asked),national weather index,1,,none,
+C1 (none asked),northwest indiana,1,,none,
+C1 (none asked),network working interface,1,,none,
+C1 (none asked),usgs,1,,none,
+C1 (none asked),electrical engineering,1,,none,
+C1 (none asked),utilities,1,,none,
+C1 (none asked),geographic information system gis,1,,none,
+C1 (none asked),geographic information systems,1,,none,
+C1 (none asked),lgbtq terminology,1,,none,
+C1 (none asked),youtube gaming pro,1,,none,
+C1 (none asked),medical field,1,,none,
+C1 (none asked),common,1,,none,
+C1 (none asked),military us navy,1,,none,
+C1 (none asked),food industry,1,,none,
+C1 (none asked),opengl,1,,none,
+C1 (none asked),rocketry,1,,none,
+C1 (none asked),rocket companies,1,,none,
+C1 (none asked),data,1,,none,
+C1 (none asked),sports gps,1,,none,
+C1 (none asked),iso 3166 2 us,1,x/iso3166-2,standard_name,high
+C1 (none asked),icd 10 cm,1,,none,
+C1 (none asked),social media,1,,none,
+C1 (none asked),vehicle location key,1,,none,
+C1 (none asked),military us,1,,none,
+C1 (none asked),us navy aircraft designations,1,,none,
+C1 (none asked),custom code identifier,1,,none,
+C1 (none asked),test of english,1,,none,
+C1 (none asked),slang,1,,none,
+C1 (none asked),k pop,1,,none,
+C1 (none asked),geographic variation list usgs,1,,none,
+C1 (none asked),football,1,,none,
+C1 (none asked),image file format,1,,none,
+C1 (none asked),graphics,1,,none,
+C1 (none asked),adobe,1,,none,
+C1 (none asked),political science,1,,none,
+C1 (none asked),real estate,1,,none,
+C1 (none asked),blood type,1,,none,
+C1 (none asked),various programming languages,1,,none,
+C1 (none asked),grade,1,,none,
+C1 (none asked),sigma sig,1,,none,
+C1 (none asked),sig sauer,1,,none,
+C1 (none asked),siggraph,1,,none,
+C1 (none asked),sigma,1,,none,
+C1 (none asked),iso 8601,1,,none,
+C1 (none asked),dns,1,cmp/dns,registry_name,high
+C1 (none asked),kpop group,1,,none,
+C1 (none asked),iso 639 5,1,x/iso639,standard_name,high
+C1 (none asked),iso 639 6,1,x/iso639,standard_name,high
+C1 (none asked),australian rules of umpiring,1,,none,
+C1 (none asked),australian rugby union,1,,none,
+C1 (none asked),australian research universities,1,,none,
+C1 (none asked),slj,1,,none,
+C1 (none asked),library of congress classification,1,,none,
+C1 (none asked),library of congress,1,,none,
+C1 (none asked),rzo railway zone office,1,,none,
+C1 (none asked),nema,1,,none,
+C1 (none asked),mya era,1,,none,
+C1 (none asked),mya chronology,1,,none,
+C1 (none asked),astronomy,1,,none,
+C1 (none asked),oma,1,,none,
+C1 (none asked),nasa exoplanet archive,1,,none,
+C1 (none asked),national geospatial intelligence agency,1,,none,
+C1 (none asked),nasa ipac extragalactic database,1,,none,
+C1 (none asked),ctu,1,,none,
+C1 (none asked),tcas,1,,none,
+C1 (none asked),gin,1,,none,
+C1 (none asked),iso 3166 1,1,lng/i31,standard_family_code_length,medium
+C1 (none asked),transport,1,,none,
+C1 (none asked),audio,1,,none,
+C1 (none asked),acoustics,1,,none,
+C1 (none asked),us fda,1,,none,
+C1 (none asked),pharmaceutical industry,1,,none,
+C1 (none asked),c,1,,none,
+C1 (none asked),oracle sql,1,,none,
+C1 (none asked),pl sql,1,,none,
+C1 (none asked),business journalism bureau,1,,none,
+C1 (none asked),hja,1,,none,
+C1 (none asked),gbw geschwindigkeitsbegrenzungswert,1,,none,
+C1 (none asked),korean postal code,1,,none,
+C1 (none asked),vta vta transit agency,1,,none,
+C1 (none asked),vta vta gene,1,,none,
+C1 (none asked),vta vta album,1,,none,
+C1 (none asked),vta vta band,1,,none,
+C1 (none asked),vta vta video game,1,,none,
+C1 (none asked),us navy aircraft designation,1,,none,
+C1 (none asked),nwi newspaper,1,,none,
+C1 (none asked),dte delivery terms and equipment,1,,none,
+C1 (none asked),dte digital transmission equipment,1,,none,
+C1 (none asked),dte data transfer equipment,1,,none,
+C1 (none asked),dte delivery time estimate,1,,none,
+C1 (none asked),dte dollars to euros,1,,none,
+C1 (none asked),dte days to earnings,1,,none,
+C1 (none asked),dte days to expiration,1,,none,
+C1 (none asked),dte dte energy,1,,none,
+C1 (none asked),dte dte systems,1,,none,
+C1 (none asked),stock exchange,1,fin/tck,ticker_or_us_exchange,medium
+C1 (none asked),hpp high pressure processing,1,,none,
+C1 (none asked),hazard analysis and critical control points,1,,none,
+C1 (none asked),high pressure processing,1,,none,
+C1 (none asked),hyperspace pilot program,1,,none,
+C1 (none asked),ogl,1,,none,
+C1 (none asked),open game license,1,,none,
+C1 (none asked),rkt,1,,none,
+C1 (none asked),tcx training center xml,1,,none,
+C1 (none asked),tcx triathlon computer exchange,1,,none,
+C1 (none asked),wmb,1,,none,
+C1 (none asked),wmb wireless mesh bridge,1,,none,
+C1 (none asked),apache cxf,1,,none,
+C1 (none asked),common usage,1,,none,
+C1 (none asked),nhl team codes,1,,none,
+C1 (none asked),us,1,,none,
+C1 (none asked),us state abbreviations,1,,none,
+C1 (none asked),ghana vehicle license,1,,none,
+C1 (none asked),psv eindhoven,1,,none,
+C1 (none asked),programming language,1,,none,
+C1 (none asked),ypa,1,,none,
+C1 (none asked),morse code,1,,none,
+C1 (none asked),braille,1,,none,
+C1 (none asked),binary,1,,none,
+cmp/dns,dns,32,cmp/dns,registry_name,high
+cmp/dns,dns resource record type registry,7,cmp/dns,registry_name,high
+cmp/dns,dns resource record types,6,cmp/dns,registry_name,high
+cmp/dns,iso 3166 1 alpha 2,2,x/iso3166-a2,standard_name,high
+cmp/dns,ascii,2,x/ascii,standard_name,high
+cmp/dns,icann,2,cmp/dns,registry_name,high
+cmp/dns,iana,2,cmp/dns,registry_name,high
+cmp/dns,rfc 1035,2,cmp/dns,registry_name,high
+cmp/dns,dns resource record type,1,cmp/dns,registry_name,high
+fin/i42,iso 4217,354,fin/i42,standard_name,high
+fin/i42,currency,57,fin/i42,domain_of_single_standard,medium
+fin/i42,htg,5,,none,
+fin/i42,cve,4,,none,
+fin/i42,currency code,3,fin/i42,domain_of_single_standard,medium
+fin/i42,iso currency code,2,fin/i42,standard_name,high
+fin/i42,qar,2,,none,
+fin/i42,other,2,,none,
+fin/i42,cryptocurrency,2,x/crypto,domain_name,medium
+fin/i42,cop,1,,none,
+fin/i42,cup,1,,none,
+fin/i42,cve code,1,,none,
+fin/i42,fjd,1,,none,
+fin/i42,krw,1,,none,
+fin/i42,hotel,1,,none,
+fin/i42,cybersecurity,1,,none,
+fin/i42,kpw,1,,none,
+fin/tck,us stock ticker symbol,128,fin/tck,ticker_or_us_exchange,medium
+fin/tck,nyse,126,fin/tck,ticker_or_us_exchange,medium
+fin/tck,nasdaq,57,fin/tck,ticker_or_us_exchange,medium
+fin/tck,stock ticker,55,fin/tck,ticker_or_us_exchange,medium
+fin/tck,ticker symbol,41,fin/tck,ticker_or_us_exchange,medium
+fin/tck,us stock ticker symbol listings,26,fin/tck,ticker_or_us_exchange,medium
+fin/tck,us stock ticker,21,fin/tck,ticker_or_us_exchange,medium
+fin/tck,ticker,17,fin/tck,ticker_or_us_exchange,medium
+fin/tck,company abbreviation,9,,none,
+fin/tck,company,7,,none,
+fin/tck,nyse arca,7,fin/tck,ticker_or_us_exchange,medium
+fin/tck,finance,7,,none,
+fin/tck,stock ticker symbol,7,fin/tck,ticker_or_us_exchange,medium
+fin/tck,gtm,4,,none,
+fin/tck,stock ticker symbols,3,fin/tck,ticker_or_us_exchange,medium
+fin/tck,unknown,3,,none,
+fin/tck,other,3,,none,
+fin/tck,otc markets,2,fin/tck,ticker_or_us_exchange,medium
+fin/tck,sec,2,fin/tck,ticker_or_us_exchange,medium
+fin/tck,various,2,,none,
+fin/tck,company ticker,2,fin/tck,ticker_or_us_exchange,medium
+fin/tck,cryptocurrency ticker,1,x/crypto,domain_name,medium
+fin/tck,custom or regional listings,1,,none,
+fin/tck,portfolio holdings,1,,none,
+fin/tck,symbol,1,,none,
+fin/tck,nyse arca options,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,otc,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,cusip,1,x/cusip,standard_name,high
+fin/tck,stock ticker suffix,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,nyse nasdaq ticker symbols,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,sec edgar filings,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,portfolio,1,,none,
+fin/tck,acronym,1,,none,
+fin/tck,generic,1,,none,
+fin/tck,otcbb,1,fin/tck,ticker_or_us_exchange,medium
+fin/tck,iex cloud,1,,none,
+fin/tck,yahoo finance,1,,none,
+fin/tck,google finance,1,,none,
+lng/i31,iso 3166 1 alpha 3,101,lng/i31,standard_name,high
+lng/i31,iso 3166 1 alpha 2,6,x/iso3166-a2,standard_name,high
+lng/i31,iso 3166 1 alpha 3 country code standard,4,lng/i31,standard_name,high
+lng/i31,iso 3166 1 alpha 3 country code,3,lng/i31,standard_name,high
+lng/i31,machine readable travel documents mrtd,3,lng/i31,document_standard_using_system,low
+lng/i31,iso iec 7501 1 2005,2,lng/i31,document_standard_using_system,low
+lng/i31,icao mrz,2,lng/i31,document_standard_using_system,low
+lng/i31,mrz,2,lng/i31,document_standard_using_system,low
+lng/i31,unknown,2,,none,
+lng/i31,iso 57037 2018,1,,none,
+lng/i31,iso 5228 1985,1,,none,
+lng/i31,tca,1,,none,
+lng/i31,iso 57037 2013,1,,none,
+lng/i31,uncertain,1,,none,
+lng/i31,customs code,1,,none,
+lng/i31,icao,1,org/icao,organisation_name,medium
+lng/i31,customs codes various,1,,none,
+lng/i31,fictional error,1,,none,
+lng/i31,internet tld,1,x/tld,standard_name,high
+lng/i31,iso 4217 currency code,1,fin/i42,standard_name,high
+lng/i31,iso 3166 1 alpha 3 country codes,1,lng/i31,standard_name,high
+lng/ioc,international olympic committee country code system,160,lng/ioc,standard_name,high
+lng/ioc,ioc,47,lng/ioc,standard_name,high
+lng/ioc,iso 3166 1 alpha 3,38,lng/i31,standard_name,high
+lng/ioc,acronym,17,,none,
+lng/ioc,iso 3166 1 alpha 2,13,x/iso3166-a2,standard_name,high
+lng/ioc,ioc country code,13,lng/ioc,standard_name,high
+lng/ioc,athletics,9,x/athletics,standard_name,medium
+lng/ioc,iaaf,7,x/athletics,standard_name,medium
+lng/ioc,olympic medal table,5,lng/ioc,context_of_system,medium
+lng/ioc,unknown,4,,none,
+lng/ioc,athletics results,3,x/athletics,standard_name,medium
+lng/ioc,international olympic committee,3,lng/ioc,standard_name,high
+lng/ioc,ioc country codes,3,lng/ioc,standard_name,high
+lng/ioc,fifa country code,3,x/fifa,standard_name,high
+lng/ioc,iso,2,org/iso,organisation_name,low
+lng/ioc,other,2,,none,
+lng/ioc,sporting abbreviations,2,,none,
+lng/ioc,academic ranking,1,,none,
+lng/ioc,fifa code,1,x/fifa,standard_name,high
+lng/ioc,ioc code,1,lng/ioc,standard_name,high
+lng/ioc,un member state,1,x/undp,standard_name,medium
+lng/ioc,un,1,x/undp,standard_name,medium
+lng/ioc,nato phonetic alphabet,1,x/nato,standard_name,high
+lng/ioc,athletics results code,1,x/athletics,standard_name,medium
+lng/ioc,fifa,1,x/fifa,standard_name,high
+lng/ioc,team code,1,,none,
+lng/ioc,international olympic committee country code,1,lng/ioc,standard_name,high
+lng/ioc,geopolitical,1,,none,
+lng/ioc,city,1,,none,
+lng/ioc,sports,1,,none,
+lng/ioc,olympic country code,1,lng/ioc,context_of_system,medium
+lng/ioc,undp country code,1,x/undp,standard_name,medium
+lng/ioc,fips 10 4,1,x/fips,standard_name,high
+trp/iata,iata,564,org/iata,organisation_name,medium
+trp/iata,iata airport code,428,trp/iata,standard_name_or_code_length,high
+trp/iata,iata airport code system,255,trp/iata,standard_name_or_code_length,high
+trp/iata,airport codes,99,trp/iata,standard_name_or_code_length,high
+trp/iata,airport code,49,trp/iata,standard_name_or_code_length,high
+trp/iata,iata airline code,11,x/iata-airline,standard_name,medium
+trp/iata,icao,5,org/icao,organisation_name,medium
+trp/iata,unknown,5,,none,
+trp/iata,airline code,5,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/iata,airport codes iata,5,trp/iata,standard_name_or_code_length,high
+trp/iata,other,4,,none,
+trp/iata,airport code iata,4,trp/iata,standard_name_or_code_length,high
+trp/iata,iata code,3,trp/iata,standard_name_or_code_length,high
+trp/iata,iata airline designator code,2,x/iata-airline,standard_name,medium
+trp/iata,currency code,1,fin/i42,domain_of_single_standard,medium
+trp/iata,custom code,1,,none,
+trp/iata,other codes,1,,none,
+trp/iata,other code,1,,none,
+trp/iata,baggage tag code,1,,none,
+trp/iata,baggage tag identifier,1,,none,
+trp/iata,postal codes,1,,none,
+trp/iata,airline codes,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/iata,airline baggage tag code potentially,1,,none,
+trp/iata,iso 3166 1 alpha 3,1,lng/i31,standard_name,high
+trp/iata,us state abbreviation,1,,none,
+trp/iata,iata airline designator,1,x/iata-airline,standard_name,medium
+trp/ica2,icao airline designator,237,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao,99,org/icao,organisation_name,medium
+trp/ica2,icao airline designator system,90,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao aircraft identification code,48,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,iata,32,org/iata,organisation_name,medium
+trp/ica2,icao aircraft identification,18,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,airline code,13,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icapo airline designator system,11,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,flight identifier,11,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao airport code,6,x/icao-airport,standard_name,high
+trp/ica2,icao aircraft identifier,5,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,aviation,5,,none,
+trp/ica2,callsign,4,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,airport code,3,trp/iata,standard_name_or_code_length,high
+trp/ica2,flight id,3,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao aircraft registration,3,x/registration,standard_name,medium
+trp/ica2,icapo,2,,none,
+trp/ica2,airline code potentially,2,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,callsign prefix,2,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao aircraft registration prefix,2,x/registration,standard_name,medium
+trp/ica2,nato,1,,none,
+trp/ica2,other,1,,none,
+trp/ica2,custom,1,,none,
+trp/ica2,aircraft registration,1,x/registration,standard_name,medium
+trp/ica2,airline designator,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,airline code less likely,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,flight rule 121 operator prefix,1,,none,
+trp/ica2,cve,1,,none,
+trp/ica2,icao aircraft type designator,1,x/icao-type,standard_name,high
+trp/ica2,call sign,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,military designation,1,,none,
+trp/ica2,aircraft tail code,1,x/registration,standard_name,medium
+trp/ica2,telecommunications,1,,none,
+trp/ica2,company fleet code,1,,none,
+trp/ica2,transponder code,1,,none,
+trp/ica2,traffic pattern control,1,,none,
+trp/ica2,flight designator,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,aircraft call sign,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,ryanair flight designator,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,airline,1,,none,
+trp/ica2,airline code iata,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao flight identifier,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,atc,1,,none,
+trp/ica2,airline code uncommon,1,trp/ica2,standard_name_or_code_length_or_flight_plan_field,medium
+trp/ica2,icao aircraft registration prefixes,1,x/registration,standard_name,medium
+trp/ica2,iata airline designator code,1,x/iata-airline,standard_name,medium
+trp/ica2,icao aircraft code,1,,none,

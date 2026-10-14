@@ -1,0 +1,177 @@
+{
+ "gold": {
+  "sha256": "9048f3d7be1268bb05fd8e112b642c4507c3721aca81152184663e3ee7033cdd",
+  "recorded": "9048f3d7be1268bb05fd8e112b642c4507c3721aca81152184663e3ee7033cdd",
+  "blob_at_6197b9e": "9048f3d7be1268bb05fd8e112b642c4507c3721aca81152184663e3ee7033cdd",
+  "rows": 120,
+  "consistent": true
+ },
+ "commits": [
+  "65190d2 2026-10-14 02:39:52 -0300 correct readme",
+  "8776d18 2026-10-14 02:04:21 -0300 scoring v1 and v2, post hoc check, report",
+  "3e5cbfd 2026-10-14 02:00:21 -0300 raw model responses for three models, deviations 9-10",
+  "6197b9e 2026-10-14 01:04:23 -0300 gold frozen (sha256 9048f3d7), calls built, deviations recorded",
+  "02d6bb5 2026-10-14 00:22:43 -0300 protocol and originality review, frozen before sampling"
+ ],
+ "files_changed_after_freeze": {
+  "gold.csv": [],
+  "calls.jsonl": [],
+  "PROTOCOL.md": [
+   "3e5cbfd",
+   "6197b9e"
+  ],
+  "score.py": [
+   "8776d18"
+  ],
+  "runs": []
+ },
+ "calls": {
+  "sha256": "8f986f3c8fb19204150df6a5edcd58fba2c2f180645e91de04daf4a76ef8d157",
+  "rebuilt_from_gold": "8f986f3c8fb19204150df6a5edcd58fba2c2f180645e91de04daf4a76ef8d157",
+  "equal": true,
+  "planned": 1692,
+  "by_cond": {
+   "C1": 252,
+   "C2": 360,
+   "C3": 360,
+   "C4": 360,
+   "P1": 120,
+   "P2T": 120,
+   "P2F": 120
+  }
+ },
+ "runs": {
+  "qwen3-8b": {
+   "file": "runs/qwen3-8b.jsonl",
+   "sha256": "6ea4508469607c7515a9a01a30850d6f87856d494a2219085f14574e7a7f9666",
+   "model": {
+    "Qwen/Qwen3-8B:featherless-ai": 1700
+   },
+   "resp_model": {
+    "Qwen/Qwen3-8B": 1700
+   },
+   "records": 1700,
+   "distinct_call_ids": 1692,
+   "planned": 1692,
+   "missing": [],
+   "extra": [],
+   "records_http_not_200": 0,
+   "definitive_http_not_200": 0,
+   "definitive_content_none": 0,
+   "records_finish_length": 12,
+   "definitive_finish_length": 4,
+   "definitive_finish_length_by_cond": {
+    "C1": 3,
+    "P1": 1
+   },
+   "call_ids_with_multiple_records": 8,
+   "redo_truncated": 8,
+   "redo_still_truncated": 4,
+   "recovered_after_failure": 0,
+   "recovered_ids": [],
+   "sent_differs_from_planned": [],
+   "ts_first": "2026-10-14T04:04:39.632674+00:00",
+   "ts_last": "2026-10-14T04:30:38.245374+00:00",
+   "scorer_rule_equivalent": true
+  },
+  "gemma-3-12b": {
+   "file": "runs/gemma-3-12b.jsonl",
+   "sha256": "409165e0a15c6e397b6d97445a82c51a767cabe0b3df6678c7aea42f8aeaaa9c",
+   "model": {
+    "google/gemma-3-12b-it:featherless-ai": 1727
+   },
+   "resp_model": {
+    "google/gemma-3-12b-it": 1726,
+    "null": 1
+   },
+   "records": 1727,
+   "distinct_call_ids": 1692,
+   "planned": 1692,
+   "missing": [],
+   "extra": [],
+   "records_http_not_200": 1,
+   "definitive_http_not_200": 0,
+   "definitive_content_none": 0,
+   "records_finish_length": 65,
+   "definitive_finish_length": 31,
+   "definitive_finish_length_by_cond": {
+    "P1": 31
+   },
+   "call_ids_with_multiple_records": 35,
+   "redo_truncated": 34,
+   "redo_still_truncated": 31,
+   "recovered_after_failure": 1,
+   "recovered_ids": [
+    "C4|NEM|fin/tck|2"
+   ],
+   "sent_differs_from_planned": [],
+   "ts_first": "2026-10-14T04:06:23.627253+00:00",
+   "ts_last": "2026-10-14T05:00:01.625616+00:00",
+   "scorer_rule_equivalent": true
+  },
+  "llama-3.1-8b": {
+   "file": "runs/llama-3.1-8b.jsonl",
+   "sha256": "bb23cb538f04cac0f1806816272035a1ace229af8eaad7c39d178d6fd9b4a780",
+   "model": {
+    "meta-llama/Llama-3.1-8B-Instruct:featherless-ai": 1765
+   },
+   "resp_model": {
+    "meta-llama/Llama-3.1-8B-Instruct": 1764,
+    "null": 1
+   },
+   "records": 1765,
+   "distinct_call_ids": 1692,
+   "planned": 1692,
+   "missing": [],
+   "extra": [],
+   "records_http_not_200": 1,
+   "definitive_http_not_200": 0,
+   "definitive_content_none": 0,
+   "records_finish_length": 131,
+   "definitive_finish_length": 59,
+   "definitive_finish_length_by_cond": {
+    "C1": 52,
+    "C3": 6,
+    "C2": 1
+   },
+   "call_ids_with_multiple_records": 73,
+   "redo_truncated": 72,
+   "redo_still_truncated": 59,
+   "recovered_after_failure": 1,
+   "recovered_ids": [
+    "P2F|CVE|trp/ica2|0"
+   ],
+   "sent_differs_from_planned": [],
+   "ts_first": "2026-10-14T04:06:23.399511+00:00",
+   "ts_last": "2026-10-14T05:00:08.408768+00:00",
+   "scorer_rule_equivalent": true
+  }
+ },
+ "reproduce_scoring": {
+  "results": {
+   "scored.csv": {
+    "committed": "655976de88211d4981615c9428513a2b61f2c420df3d964797915fb31b3a6562",
+    "rebuilt": "655976de88211d4981615c9428513a2b61f2c420df3d964797915fb31b3a6562",
+    "equal": true
+   },
+   "summary.json": {
+    "committed": "315ed8a89df22fc5e7266cc679df63e928649cb4882ee61e5f391b136cb2d672",
+    "rebuilt": "315ed8a89df22fc5e7266cc679df63e928649cb4882ee61e5f391b136cb2d672",
+    "equal": true
+   }
+  },
+  "results_v2": {
+   "scored.csv": {
+    "committed": "29fbb1f887740431e0bb5029a5eb84b497c67204b191993c43254aaa835cc159",
+    "rebuilt": "29fbb1f887740431e0bb5029a5eb84b497c67204b191993c43254aaa835cc159",
+    "equal": true
+   },
+   "summary.json": {
+    "committed": "a5a9ca1efd33606e2c203ea90cac108dd75514499e3e77086c6ee53a626a2368",
+    "rebuilt": "a5a9ca1efd33606e2c203ea90cac108dd75514499e3e77086c6ee53a626a2368",
+    "equal": true
+   }
+  }
+ },
+ "working_tree_clean_for_frozen_paths": true
+}

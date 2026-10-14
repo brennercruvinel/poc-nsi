@@ -1,0 +1,1152 @@
+id,alias,normalised,status
+ARU|lng/ioc,Aruba,aruba,active
+ARU|lng/ioc,ABW,abw,code_like_short
+ARU|lng/ioc,Aruba,aruba,active
+ARU|lng/ioc,Country of Aruba,country of aruba,active
+ARU|lng/ioc,Island of Aruba,island of aruba,active
+ARU|lng/ioc,aw,aw,code_like_short
+ARU|trp/iata (competitor of ARU|lng/ioc),Araçatuba Airport,aracatuba airport,active
+ARU|trp/iata (competitor of ARU|lng/ioc),ARU,aru,equals_literal
+ARU|trp/iata (competitor of ARU|lng/ioc),Araçatuba Airport,aracatuba airport,active
+ARU|trp/iata (competitor of ARU|lng/ioc),SBAU,sbau,code_like_upper
+ARU|trp/ica2 (competitor of ARU|lng/ioc),Aruba Airlines,aruba airlines,active
+ARU|trp/ica2 (competitor of ARU|lng/ioc),Aruba Airlines,aruba airlines,active
+FIJ|lng/ioc,Fiji,fiji,active
+FIJ|lng/ioc,FJI,fji,code_like_short
+FIJ|lng/ioc,Fiji,fiji,active
+FIJ|lng/ioc,Fijī,fiji,active
+FIJ|lng/ioc,Fijī Gaṇarājya,fiji ganarajya,active
+FIJ|lng/ioc,Matanitu Tugalala o Viti,matanitu tugalala o viti,active
+FIJ|lng/ioc,Republic of Fiji,republic of fiji,active
+FIJ|lng/ioc,Republic of the Fiji Islands,republic of the fiji islands,active
+FIJ|lng/ioc,Viti,viti,active
+FIJ|lng/ioc,fj,fj,code_like_short
+ARU|trp/iata,Araçatuba Airport,aracatuba airport,active
+ARU|trp/iata,ARU,aru,equals_literal
+ARU|trp/iata,Araçatuba Airport,aracatuba airport,active
+ARU|trp/iata,SBAU,sbau,code_like_upper
+ARU|lng/ioc (competitor of ARU|trp/iata),Aruba,aruba,active
+ARU|lng/ioc (competitor of ARU|trp/iata),ABW,abw,code_like_short
+ARU|lng/ioc (competitor of ARU|trp/iata),Aruba,aruba,active
+ARU|lng/ioc (competitor of ARU|trp/iata),Country of Aruba,country of aruba,active
+ARU|lng/ioc (competitor of ARU|trp/iata),Island of Aruba,island of aruba,active
+ARU|lng/ioc (competitor of ARU|trp/iata),aw,aw,code_like_short
+ARU|trp/ica2 (competitor of ARU|trp/iata),Aruba Airlines,aruba airlines,active
+ARU|trp/ica2 (competitor of ARU|trp/iata),Aruba Airlines,aruba airlines,active
+SLJ|trp/iata,Solomon Airport,solomon airport,active
+SLJ|trp/iata,SLJ,slj,equals_literal
+SLJ|trp/iata,Solomon Airport,solomon airport,active
+SLJ|trp/iata,Solomon Airport (Western Australia),solomon airport western australia,active
+SLJ|trp/iata,YSOL,ysol,code_like_upper
+BRU|lng/ioc,Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc,BRN,brn,code_like_short
+BRU|lng/ioc,Brunei,brunei,active
+BRU|lng/ioc,Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc,"Nation of Brunei, the Abode of Peace",nation of brunei the abode of peace,active
+BRU|lng/ioc,Negara Brunei Darussalam,negara brunei darussalam,active
+BRU|lng/ioc,bn,bn,code_like_short
+BRU|trp/iata (competitor of BRU|lng/ioc),Brussels Airport,brussels airport,active
+BRU|trp/iata (competitor of BRU|lng/ioc),Brussel-Zaventem,brussel zaventem,active
+BRU|trp/iata (competitor of BRU|lng/ioc),Brussels Airport,brussels airport,active
+BRU|trp/iata (competitor of BRU|lng/ioc),Brussels National,brussels national,active
+BRU|trp/iata (competitor of BRU|lng/ioc),Fliegerhorst Melsbroek,fliegerhorst melsbroek,active
+BRU|trp/iata (competitor of BRU|lng/ioc),Zaventem Airport,zaventem airport,active
+BRU|trp/ica2 (competitor of BRU|lng/ioc),Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|lng/ioc),B2,b2,code_like_short
+BRU|trp/ica2 (competitor of BRU|lng/ioc),BRU,bru,equals_literal
+BRU|trp/ica2 (competitor of BRU|lng/ioc),Belavia,belavia,active
+BRU|trp/ica2 (competitor of BRU|lng/ioc),Belavia - Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|lng/ioc),Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|lng/ioc),"Joint Stock Company ""Belavia Belarusian Airlines""",joint stock company belavia belarusian airlines,active
+KUW|lng/ioc,Kuwait,kuwait,active
+KUW|lng/ioc,KWT,kwt,code_like_short
+KUW|lng/ioc,Kuwait,kuwait,active
+KUW|lng/ioc,State of Kuwait,state of kuwait,active
+KUW|lng/ioc,kw,kw,code_like_short
+BRU|trp/iata,Brussels Airport,brussels airport,active
+BRU|trp/iata,Brussel-Zaventem,brussel zaventem,active
+BRU|trp/iata,Brussels Airport,brussels airport,active
+BRU|trp/iata,Brussels National,brussels national,active
+BRU|trp/iata,Fliegerhorst Melsbroek,fliegerhorst melsbroek,active
+BRU|trp/iata,Zaventem Airport,zaventem airport,active
+BRU|lng/ioc (competitor of BRU|trp/iata),Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/iata),BRN,brn,code_like_short
+BRU|lng/ioc (competitor of BRU|trp/iata),Brunei,brunei,active
+BRU|lng/ioc (competitor of BRU|trp/iata),Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/iata),"Nation of Brunei, the Abode of Peace",nation of brunei the abode of peace,active
+BRU|lng/ioc (competitor of BRU|trp/iata),Negara Brunei Darussalam,negara brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/iata),bn,bn,code_like_short
+BRU|trp/ica2 (competitor of BRU|trp/iata),Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|trp/iata),B2,b2,code_like_short
+BRU|trp/ica2 (competitor of BRU|trp/iata),BRU,bru,equals_literal
+BRU|trp/ica2 (competitor of BRU|trp/iata),Belavia,belavia,active
+BRU|trp/ica2 (competitor of BRU|trp/iata),Belavia - Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|trp/iata),Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2 (competitor of BRU|trp/iata),"Joint Stock Company ""Belavia Belarusian Airlines""",joint stock company belavia belarusian airlines,active
+YHZ|trp/iata,Halifax / Stanfield International Airport,halifax stanfield international airport,active
+YHZ|trp/iata,CYHZ,cyhz,code_like_upper
+YHZ|trp/iata,Halifax / Stanfield International Airport,halifax stanfield international airport,active
+YHZ|trp/iata,Halifax International Airport,halifax international airport,active
+YHZ|trp/iata,Halifax Stanfield International Airport,halifax stanfield international airport,active
+YHZ|trp/iata,Halifax-Stanfield,halifax stanfield,active
+YHZ|trp/iata,Halifax/Robert L. Stanfield International Airport,halifax robert l stanfield international airport,active
+YHZ|trp/iata,YHZ,yhz,equals_literal
+BRU|trp/ica2,Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2,B2,b2,code_like_short
+BRU|trp/ica2,BRU,bru,equals_literal
+BRU|trp/ica2,Belavia,belavia,active
+BRU|trp/ica2,Belavia - Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2,Belavia Belarusian Airlines,belavia belarusian airlines,active
+BRU|trp/ica2,"Joint Stock Company ""Belavia Belarusian Airlines""",joint stock company belavia belarusian airlines,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),BRN,brn,code_like_short
+BRU|lng/ioc (competitor of BRU|trp/ica2),Brunei,brunei,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),Brunei Darussalam,brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),"Nation of Brunei, the Abode of Peace",nation of brunei the abode of peace,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),Negara Brunei Darussalam,negara brunei darussalam,active
+BRU|lng/ioc (competitor of BRU|trp/ica2),bn,bn,code_like_short
+BRU|trp/iata (competitor of BRU|trp/ica2),Brussels Airport,brussels airport,active
+BRU|trp/iata (competitor of BRU|trp/ica2),Brussel-Zaventem,brussel zaventem,active
+BRU|trp/iata (competitor of BRU|trp/ica2),Brussels Airport,brussels airport,active
+BRU|trp/iata (competitor of BRU|trp/ica2),Brussels National,brussels national,active
+BRU|trp/iata (competitor of BRU|trp/ica2),Fliegerhorst Melsbroek,fliegerhorst melsbroek,active
+BRU|trp/iata (competitor of BRU|trp/ica2),Zaventem Airport,zaventem airport,active
+RZO|trp/ica2,SATA International,sata international,active
+RZO|trp/ica2,Azores Air,azores air,active
+RZO|trp/ica2,Azores Airlines,azores airlines,active
+RZO|trp/ica2,S4,s4,code_like_short
+RZO|trp/ica2,SATA Internacional,sata internacional,active
+RZO|trp/ica2,SATA International,sata international,active
+GTM|lng/i31,Guatemala,guatemala,active
+GTM|lng/i31,GT,gt,code_like_short
+GTM|lng/i31,GTM,gtm,equals_literal
+GTM|lng/i31,Guatemala,guatemala,active
+GTM|lng/i31,Republic of Guatemala,republic of guatemala,active
+GTM|lng/i31,gt,gt,code_like_short
+GTM|fin/tck (competitor of GTM|lng/i31),ZoomInfo Technologies Inc.,zoominfo technologies inc,active
+GTM|fin/tck (competitor of GTM|lng/i31),ZoomInfo,zoominfo,active
+GTM|fin/tck (competitor of GTM|lng/i31),ZoomInfo Technologies Inc.,zoominfo technologies inc,active
+GTM|fin/tck (competitor of GTM|lng/i31),ZoomInfo Technologies LLC,zoominfo technologies llc,active
+GTM|fin/tck (competitor of GTM|lng/i31),"ZoomInfo Technologies, Inc.",zoominfo technologies inc,active
+GTM|fin/tck (competitor of GTM|lng/i31),Zoominfo,zoominfo,active
+JEY|lng/i31,Jersey,jersey,active
+JEY|lng/i31,Bailliage de Jerri,bailliage de jerri,active
+JEY|lng/i31,Bailliage de Jersey,bailliage de jersey,active
+JEY|lng/i31,Bailliage de Jèrri,bailliage de jerri,active
+JEY|lng/i31,Balliwick of Jersey,balliwick of jersey,active
+JEY|lng/i31,I. Iersey,i iersey,active
+JEY|lng/i31,I. Jersey,i jersey,active
+JEY|lng/i31,Iersey,iersey,active
+JEY|lng/i31,Iersey I.,iersey i,active
+JEY|lng/i31,Isle of Jersey,isle of jersey,active
+JEY|lng/i31,JE,je,code_like_short
+JEY|lng/i31,Jerri,jerri,active
+JEY|lng/i31,Jersey,jersey,active
+JEY|lng/i31,Jersey I.,jersey i,active
+JEY|lng/i31,Jersey Island,jersey island,active
+JEY|lng/i31,Jèrri,jerri,active
+JEY|lng/i31,je,je,code_like_short
+GTM|fin/tck,ZoomInfo Technologies Inc.,zoominfo technologies inc,active
+GTM|fin/tck,ZoomInfo,zoominfo,active
+GTM|fin/tck,ZoomInfo Technologies Inc.,zoominfo technologies inc,active
+GTM|fin/tck,ZoomInfo Technologies LLC,zoominfo technologies llc,active
+GTM|fin/tck,"ZoomInfo Technologies, Inc.",zoominfo technologies inc,active
+GTM|fin/tck,Zoominfo,zoominfo,active
+GTM|lng/i31 (competitor of GTM|fin/tck),Guatemala,guatemala,active
+GTM|lng/i31 (competitor of GTM|fin/tck),GT,gt,code_like_short
+GTM|lng/i31 (competitor of GTM|fin/tck),GTM,gtm,equals_literal
+GTM|lng/i31 (competitor of GTM|fin/tck),Guatemala,guatemala,active
+GTM|lng/i31 (competitor of GTM|fin/tck),Republic of Guatemala,republic of guatemala,active
+GTM|lng/i31 (competitor of GTM|fin/tck),gt,gt,code_like_short
+NEM|fin/tck,NEWMONT Corp /DE/,newmont corp de,active
+NEM|fin/tck,NEWMONT Corp /DE/,newmont corp de,active
+NEM|fin/tck,Newmont,newmont,active
+NEM|fin/tck,Newmont Corporation,newmont corporation,active
+NEM|fin/tck,Newmont Mining Corporation,newmont mining corporation,active
+MYA|lng/ioc,Myanmar,myanmar,active
+MYA|lng/ioc,MMR,mmr,code_like_short
+MYA|lng/ioc,Myanmar,myanmar,active
+MYA|lng/ioc,Republic of the Union of Myanmar,republic of the union of myanmar,active
+MYA|lng/ioc,Union of Burma,union of burma,active
+MYA|trp/iata (competitor of MYA|lng/ioc),Moruya Airport,moruya airport,active
+MYA|trp/iata (competitor of MYA|lng/ioc),MORUYA,moruya,active
+MYA|trp/iata (competitor of MYA|lng/ioc),MYA,mya,equals_literal
+MYA|trp/iata (competitor of MYA|lng/ioc),Moruya Aerodrome,moruya aerodrome,active
+MYA|trp/iata (competitor of MYA|lng/ioc),Moruya Airport,moruya airport,active
+MYA|trp/iata (competitor of MYA|lng/ioc),YMRY,ymry,code_like_upper
+MYA|trp/ica2 (competitor of MYA|lng/ioc),Myflug,myflug,active
+MYA|trp/ica2 (competitor of MYA|lng/ioc),Myflug,myflug,active
+MYA|trp/ica2 (competitor of MYA|lng/ioc),Mýflug,myflug,active
+NEP|lng/ioc,Nepal,nepal,active
+NEP|lng/ioc,Bal-bo,bal bo,active
+NEP|lng/ioc,Bal-po'i yul,bal po i yul,active
+NEP|lng/ioc,Bal-yul,bal yul,active
+NEP|lng/ioc,Balbo,balbo,active
+NEP|lng/ioc,Balpo,balpo,active
+NEP|lng/ioc,Balpo-yul,balpo yul,active
+NEP|lng/ioc,Federal Democratic Republic of Nepal,federal democratic republic of nepal,active
+NEP|lng/ioc,NPL,npl,code_like_short
+NEP|lng/ioc,Naipala,naipala,active
+NEP|lng/ioc,Naipál,naipal,active
+NEP|lng/ioc,Naipála,naipala,active
+NEP|lng/ioc,Ne-pel,ne pel,active
+NEP|lng/ioc,Necbal,necbal,active
+NEP|lng/ioc,Nehpal,nehpal,active
+NEP|lng/ioc,Nei-pal,nei pal,active
+NEP|lng/ioc,Nekbal,nekbal,active
+NEP|lng/ioc,Nekpal,nekpal,active
+NEP|lng/ioc,Nepal,nepal,active
+NEP|lng/ioc,Nepall,nepall,active
+NEP|lng/ioc,Nepaul,nepaul,active
+NEP|lng/ioc,Nepál,nepal,active
+NEP|lng/ioc,Nercerri,nercerri,active
+NEP|lng/ioc,Ni-po-lo,ni po lo,active
+NEP|lng/ioc,Ni-po-louo,ni po louo,active
+NEP|lng/ioc,Niepal,niepal,active
+NEP|lng/ioc,Nipal,nipal,active
+NEP|lng/ioc,Népaal,nepaal,active
+NEP|lng/ioc,Népál,nepal,active
+NEP|lng/ioc,Pa-eul-pou,pa eul pou,active
+NEP|lng/ioc,Pa-le-pou,pa le pou,active
+NEP|lng/ioc,Pa-lo-pou,pa lo pou,active
+NEP|lng/ioc,Pai-pou,pai pou,active
+NEP|lng/ioc,Palpa,palpa,active
+NEP|lng/ioc,Palpou,palpou,active
+NEP|lng/ioc,Paï-pou,pai pou,active
+MYA|trp/iata,Moruya Airport,moruya airport,active
+MYA|trp/iata,MORUYA,moruya,active
+MYA|trp/iata,MYA,mya,equals_literal
+MYA|trp/iata,Moruya Aerodrome,moruya aerodrome,active
+MYA|trp/iata,Moruya Airport,moruya airport,active
+MYA|trp/iata,YMRY,ymry,code_like_upper
+MYA|lng/ioc (competitor of MYA|trp/iata),Myanmar,myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/iata),MMR,mmr,code_like_short
+MYA|lng/ioc (competitor of MYA|trp/iata),Myanmar,myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/iata),Republic of the Union of Myanmar,republic of the union of myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/iata),Union of Burma,union of burma,active
+MYA|trp/ica2 (competitor of MYA|trp/iata),Myflug,myflug,active
+MYA|trp/ica2 (competitor of MYA|trp/iata),Myflug,myflug,active
+MYA|trp/ica2 (competitor of MYA|trp/iata),Mýflug,myflug,active
+DEZ|trp/iata,Deir ez-Zor Airport,deir ez zor airport,active
+DEZ|trp/iata,DEZ,dez,equals_literal
+DEZ|trp/iata,Deir ez-Zor Airport,deir ez zor airport,active
+DEZ|trp/iata,Deir ez-Zor International Airport,deir ez zor international airport,active
+DEZ|trp/iata,OSDZ,osdz,code_like_upper
+MYA|trp/ica2,Myflug,myflug,active
+MYA|trp/ica2,Myflug,myflug,active
+MYA|trp/ica2,Mýflug,myflug,active
+MYA|lng/ioc (competitor of MYA|trp/ica2),Myanmar,myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/ica2),MMR,mmr,code_like_short
+MYA|lng/ioc (competitor of MYA|trp/ica2),Myanmar,myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/ica2),Republic of the Union of Myanmar,republic of the union of myanmar,active
+MYA|lng/ioc (competitor of MYA|trp/ica2),Union of Burma,union of burma,active
+MYA|trp/iata (competitor of MYA|trp/ica2),Moruya Airport,moruya airport,active
+MYA|trp/iata (competitor of MYA|trp/ica2),MORUYA,moruya,active
+MYA|trp/iata (competitor of MYA|trp/ica2),MYA,mya,equals_literal
+MYA|trp/iata (competitor of MYA|trp/ica2),Moruya Aerodrome,moruya aerodrome,active
+MYA|trp/iata (competitor of MYA|trp/ica2),Moruya Airport,moruya airport,active
+MYA|trp/iata (competitor of MYA|trp/ica2),YMRY,ymry,code_like_upper
+TFK|trp/ica2,Transafrik International,transafrik international,active
+TFK|trp/ica2,Transafrik International,transafrik international,active
+OMA|lng/ioc,Oman,oman,active
+OMA|lng/ioc,OMN,omn,code_like_short
+OMA|lng/ioc,Oman,oman,active
+OMA|lng/ioc,Sultanate of Oman,sultanate of oman,active
+OMA|lng/ioc,Uman,uman,active
+OMA|lng/ioc,om,om,code_like_short
+OMA|lng/ioc,omn,omn,code_like_short
+OMA|trp/iata (competitor of OMA|lng/ioc),Eppley Airfield,eppley airfield,active
+OMA|trp/iata (competitor of OMA|lng/ioc),Eppley Airfield,eppley airfield,active
+OMA|trp/iata (competitor of OMA|lng/ioc),KOMA,koma,code_like_upper
+OMA|trp/iata (competitor of OMA|lng/ioc),OMA,oma,equals_literal
+OMA|trp/iata (competitor of OMA|lng/ioc),Omaha Eppley Airfield,omaha eppley airfield,active
+OMA|trp/ica2 (competitor of OMA|lng/ioc),Oman Air,oman air,active
+OMA|trp/ica2 (competitor of OMA|lng/ioc),Oman Air,oman air,active
+OMA|trp/ica2 (competitor of OMA|lng/ioc),Oman Airline,oman airline,active
+OMA|trp/ica2 (competitor of OMA|lng/ioc),WY,wy,code_like_short
+NED|lng/ioc,Netherlands,netherlands,active
+NED|lng/ioc,Holland,holland,active
+NED|lng/ioc,NL,nl,code_like_short
+NED|lng/ioc,NLD,nld,code_like_short
+NED|lng/ioc,Nederland,nederland,active
+NED|lng/ioc,Nederlanden,nederlanden,active
+NED|lng/ioc,Netherlands,netherlands,active
+NED|lng/ioc,de Nederlanden,de nederlanden,active
+NED|lng/ioc,the Netherlands,the netherlands,active
+OMA|trp/ica2,Oman Air,oman air,active
+OMA|trp/ica2,Oman Air,oman air,active
+OMA|trp/ica2,Oman Airline,oman airline,active
+OMA|trp/ica2,WY,wy,code_like_short
+OMA|lng/ioc (competitor of OMA|trp/ica2),Oman,oman,active
+OMA|lng/ioc (competitor of OMA|trp/ica2),OMN,omn,code_like_short
+OMA|lng/ioc (competitor of OMA|trp/ica2),Oman,oman,active
+OMA|lng/ioc (competitor of OMA|trp/ica2),Sultanate of Oman,sultanate of oman,active
+OMA|lng/ioc (competitor of OMA|trp/ica2),Uman,uman,active
+OMA|lng/ioc (competitor of OMA|trp/ica2),om,om,code_like_short
+OMA|lng/ioc (competitor of OMA|trp/ica2),omn,omn,code_like_short
+OMA|trp/iata (competitor of OMA|trp/ica2),Eppley Airfield,eppley airfield,active
+OMA|trp/iata (competitor of OMA|trp/ica2),Eppley Airfield,eppley airfield,active
+OMA|trp/iata (competitor of OMA|trp/ica2),KOMA,koma,code_like_upper
+OMA|trp/iata (competitor of OMA|trp/ica2),OMA,oma,equals_literal
+OMA|trp/iata (competitor of OMA|trp/ica2),Omaha Eppley Airfield,omaha eppley airfield,active
+XAX|trp/ica2,AirAsia X,airasia x,active
+XAX|trp/ica2,AIRASIA X BERHAD,airasia x berhad,active
+XAX|trp/ica2,AirAsia X,airasia x,active
+XAX|trp/ica2,AirAsia X Berhad,airasia x berhad,active
+XAX|trp/ica2,AirAsia X Bhd.,airasia x bhd,active
+XAX|trp/ica2,D7,d7,code_like_short
+XAX|trp/ica2,FlyAsianXpress,flyasianxpress,active
+OMA|trp/iata,Eppley Airfield,eppley airfield,active
+OMA|trp/iata,Eppley Airfield,eppley airfield,active
+OMA|trp/iata,KOMA,koma,code_like_upper
+OMA|trp/iata,OMA,oma,equals_literal
+OMA|trp/iata,Omaha Eppley Airfield,omaha eppley airfield,active
+OMA|lng/ioc (competitor of OMA|trp/iata),Oman,oman,active
+OMA|lng/ioc (competitor of OMA|trp/iata),OMN,omn,code_like_short
+OMA|lng/ioc (competitor of OMA|trp/iata),Oman,oman,active
+OMA|lng/ioc (competitor of OMA|trp/iata),Sultanate of Oman,sultanate of oman,active
+OMA|lng/ioc (competitor of OMA|trp/iata),Uman,uman,active
+OMA|lng/ioc (competitor of OMA|trp/iata),om,om,code_like_short
+OMA|lng/ioc (competitor of OMA|trp/iata),omn,omn,code_like_short
+OMA|trp/ica2 (competitor of OMA|trp/iata),Oman Air,oman air,active
+OMA|trp/ica2 (competitor of OMA|trp/iata),Oman Air,oman air,active
+OMA|trp/ica2 (competitor of OMA|trp/iata),Oman Airline,oman airline,active
+OMA|trp/ica2 (competitor of OMA|trp/iata),WY,wy,code_like_short
+CTU|trp/iata,Chengdu Shuangliu International Airport,chengdu shuangliu international airport,active
+CTU|trp/iata,CTU,ctu,equals_literal
+CTU|trp/iata,Chengdu Shuangliu International Airport,chengdu shuangliu international airport,active
+CTU|trp/iata,Shuangguisi Airport,shuangguisi airport,active
+CTU|trp/iata,Shuangliu Airport,shuangliu airport,active
+CTU|trp/iata,ZUUU,zuuu,code_like_upper
+TCA|lng/i31,Turks and Caicos Islands,turks and caicos islands,active
+TCA|lng/i31,TC,tc,code_like_short
+TCA|lng/i31,TCI,tci,code_like_short
+TCA|lng/i31,Turks & Caicos,turks caicos,active
+TCA|lng/i31,Turks and Caicos,turks and caicos,active
+TCA|lng/i31,Turks and Caicos Islands,turks and caicos islands,active
+TCA|lng/i31,tc,tc,code_like_short
+TCA|trp/iata (competitor of TCA|lng/i31),Tennant Creek Airport,tennant creek airport,active
+TCA|trp/iata (competitor of TCA|lng/i31),TCA,tca,equals_literal
+TCA|trp/iata (competitor of TCA|lng/i31),Tennant Creek Aerodrome,tennant creek aerodrome,active
+TCA|trp/iata (competitor of TCA|lng/i31),Tennant Creek Airport,tennant creek airport,active
+TCA|trp/iata (competitor of TCA|lng/i31),YTNK,ytnk,code_like_upper
+TCA|trp/ica2 (competitor of TCA|lng/i31),Tropican Air Services,tropican air services,active
+TCA|trp/ica2 (competitor of TCA|lng/i31),Tropican Air Services,tropican air services,active
+GIN|lng/i31,Guinea,guinea,active
+GIN|lng/i31,GN,gn,code_like_short
+GIN|lng/i31,GUI,gui,code_like_short
+GIN|lng/i31,Guinea,guinea,active
+GIN|lng/i31,Guinea-Conakry,guinea conakry,active
+GIN|lng/i31,Republic of Guinea,republic of guinea,active
+GIN|lng/i31,gn,gn,code_like_short
+TCA|trp/iata,Tennant Creek Airport,tennant creek airport,active
+TCA|trp/iata,TCA,tca,equals_literal
+TCA|trp/iata,Tennant Creek Aerodrome,tennant creek aerodrome,active
+TCA|trp/iata,Tennant Creek Airport,tennant creek airport,active
+TCA|trp/iata,YTNK,ytnk,code_like_upper
+TCA|lng/i31 (competitor of TCA|trp/iata),Turks and Caicos Islands,turks and caicos islands,active
+TCA|lng/i31 (competitor of TCA|trp/iata),TC,tc,code_like_short
+TCA|lng/i31 (competitor of TCA|trp/iata),TCI,tci,code_like_short
+TCA|lng/i31 (competitor of TCA|trp/iata),Turks & Caicos,turks caicos,active
+TCA|lng/i31 (competitor of TCA|trp/iata),Turks and Caicos,turks and caicos,active
+TCA|lng/i31 (competitor of TCA|trp/iata),Turks and Caicos Islands,turks and caicos islands,active
+TCA|lng/i31 (competitor of TCA|trp/iata),tc,tc,code_like_short
+TCA|trp/ica2 (competitor of TCA|trp/iata),Tropican Air Services,tropican air services,active
+TCA|trp/ica2 (competitor of TCA|trp/iata),Tropican Air Services,tropican air services,active
+YPG|trp/iata,Portage-la-Prairie / Southport Airport,portage la prairie southport airport,active
+YPG|trp/iata,CYPG,cypg,code_like_upper
+YPG|trp/iata,Portage la Prairie Southport Airport,portage la prairie southport airport,active
+YPG|trp/iata,Portage la Prairie/Southport Airport,portage la prairie southport airport,active
+YPG|trp/iata,Portage-la-Prairie / Southport Airport,portage la prairie southport airport,active
+YPG|trp/iata,YPG,ypg,equals_literal
+VAN|lng/ioc,Vanuatu,vanuatu,active
+VAN|lng/ioc,Republic of Vanuatu,republic of vanuatu,active
+VAN|lng/ioc,VAN,van,equals_literal
+VAN|lng/ioc,VUT,vut,code_like_short
+VAN|lng/ioc,Vanuatu,vanuatu,active
+VAN|lng/ioc,van,van,equals_literal
+VAN|lng/ioc,vu,vu,code_like_short
+VAN|lng/ioc,vut,vut,code_like_short
+VAN|trp/iata (competitor of VAN|lng/ioc),Van Ferit Melen Airport,van ferit melen airport,active
+VAN|trp/iata (competitor of VAN|lng/ioc),Ferit Melen Airport,ferit melen airport,active
+VAN|trp/iata (competitor of VAN|lng/ioc),LTCI,ltci,code_like_upper
+VAN|trp/iata (competitor of VAN|lng/ioc),VAN,van,equals_literal
+VAN|trp/iata (competitor of VAN|lng/ioc),Van Ferit Melen,van ferit melen,active
+VAN|trp/iata (competitor of VAN|lng/ioc),Van Ferit Melen Airport,van ferit melen airport,active
+VAN|trp/ica2 (competitor of VAN|lng/ioc),Caravan Air,caravan air,active
+VAN|trp/ica2 (competitor of VAN|lng/ioc),Caravan Air,caravan air,active
+GEQ|lng/ioc,Equatorial Guinea,equatorial guinea,active
+GEQ|lng/ioc,EQG,eqg,code_like_short
+GEQ|lng/ioc,Equatorial Guinea,equatorial guinea,active
+GEQ|lng/ioc,GEQ,geq,equals_literal
+GEQ|lng/ioc,GNQ,gnq,code_like_short
+GEQ|lng/ioc,Republic of Equatorial Guinea,republic of equatorial guinea,active
+GEQ|lng/ioc,gq,gq,code_like_short
+VAN|trp/iata,Van Ferit Melen Airport,van ferit melen airport,active
+VAN|trp/iata,Ferit Melen Airport,ferit melen airport,active
+VAN|trp/iata,LTCI,ltci,code_like_upper
+VAN|trp/iata,VAN,van,equals_literal
+VAN|trp/iata,Van Ferit Melen,van ferit melen,active
+VAN|trp/iata,Van Ferit Melen Airport,van ferit melen airport,active
+VAN|lng/ioc (competitor of VAN|trp/iata),Vanuatu,vanuatu,active
+VAN|lng/ioc (competitor of VAN|trp/iata),Republic of Vanuatu,republic of vanuatu,active
+VAN|lng/ioc (competitor of VAN|trp/iata),VAN,van,equals_literal
+VAN|lng/ioc (competitor of VAN|trp/iata),VUT,vut,code_like_short
+VAN|lng/ioc (competitor of VAN|trp/iata),Vanuatu,vanuatu,active
+VAN|lng/ioc (competitor of VAN|trp/iata),van,van,equals_literal
+VAN|lng/ioc (competitor of VAN|trp/iata),vu,vu,code_like_short
+VAN|lng/ioc (competitor of VAN|trp/iata),vut,vut,code_like_short
+VAN|trp/ica2 (competitor of VAN|trp/iata),Caravan Air,caravan air,active
+VAN|trp/ica2 (competitor of VAN|trp/iata),Caravan Air,caravan air,active
+HOF|trp/iata,Al-Ahsa International Airport,al ahsa international airport,active
+HOF|trp/iata,Al-Ahsa,al ahsa,active
+HOF|trp/iata,Al-Ahsa Domestic Airport,al ahsa domestic airport,active
+HOF|trp/iata,Al-Ahsa International Airport,al ahsa international airport,active
+HOF|trp/iata,HOF,hof,equals_literal
+HOF|trp/iata,OEAH,oeah,code_like_upper
+VIE|lng/ioc,Viet Nam,viet nam,active
+VIE|lng/ioc,SRV,srv,code_like_short
+VIE|lng/ioc,Socialist Republic of Viet Nam,socialist republic of viet nam,active
+VIE|lng/ioc,Socialist Republic of Vietnam,socialist republic of vietnam,active
+VIE|lng/ioc,VIE,vie,equals_literal
+VIE|lng/ioc,VN,vn,code_like_short
+VIE|lng/ioc,VNM,vnm,code_like_short
+VIE|lng/ioc,Viet Nam,viet nam,active
+VIE|lng/ioc,Vietnam,vietnam,active
+VIE|lng/ioc,Việt Nam,viet nam,active
+VIE|trp/iata (competitor of VIE|lng/ioc),Vienna International Airport,vienna international airport,active
+VIE|trp/iata (competitor of VIE|lng/ioc),LOWW,loww,code_like_upper
+VIE|trp/iata (competitor of VIE|lng/ioc),VIE,vie,equals_literal
+VIE|trp/iata (competitor of VIE|lng/ioc),Vienna International Airport,vienna international airport,active
+VIE|trp/iata (competitor of VIE|lng/ioc),Vienna airport,vienna airport,active
+VIE|trp/iata (competitor of VIE|lng/ioc),Vienna-Schwechat airport,vienna schwechat airport,active
+VIE|trp/iata (competitor of VIE|lng/ioc),Wien-Schwechat Airport,wien schwechat airport,active
+VIE|trp/ica2 (competitor of VIE|lng/ioc),VIP Empresarial,vip empresarial,active
+VIE|trp/ica2 (competitor of VIE|lng/ioc),VIP Empresarial,vip empresarial,active
+VIE|trp/iata,Vienna International Airport,vienna international airport,active
+VIE|trp/iata,LOWW,loww,code_like_upper
+VIE|trp/iata,VIE,vie,equals_literal
+VIE|trp/iata,Vienna International Airport,vienna international airport,active
+VIE|trp/iata,Vienna airport,vienna airport,active
+VIE|trp/iata,Vienna-Schwechat airport,vienna schwechat airport,active
+VIE|trp/iata,Wien-Schwechat Airport,wien schwechat airport,active
+VIE|lng/ioc (competitor of VIE|trp/iata),Viet Nam,viet nam,active
+VIE|lng/ioc (competitor of VIE|trp/iata),SRV,srv,code_like_short
+VIE|lng/ioc (competitor of VIE|trp/iata),Socialist Republic of Viet Nam,socialist republic of viet nam,active
+VIE|lng/ioc (competitor of VIE|trp/iata),Socialist Republic of Vietnam,socialist republic of vietnam,active
+VIE|lng/ioc (competitor of VIE|trp/iata),VIE,vie,equals_literal
+VIE|lng/ioc (competitor of VIE|trp/iata),VN,vn,code_like_short
+VIE|lng/ioc (competitor of VIE|trp/iata),VNM,vnm,code_like_short
+VIE|lng/ioc (competitor of VIE|trp/iata),Viet Nam,viet nam,active
+VIE|lng/ioc (competitor of VIE|trp/iata),Vietnam,vietnam,active
+VIE|lng/ioc (competitor of VIE|trp/iata),Việt Nam,viet nam,active
+VIE|trp/ica2 (competitor of VIE|trp/iata),VIP Empresarial,vip empresarial,active
+VIE|trp/ica2 (competitor of VIE|trp/iata),VIP Empresarial,vip empresarial,active
+GMP|trp/iata,Gimpo International Airport,gimpo international airport,active
+GMP|trp/iata,GMP,gmp,equals_literal
+GMP|trp/iata,Gimpo International Airport,gimpo international airport,active
+GMP|trp/iata,Kimpo Airport,kimpo airport,active
+GMP|trp/iata,Kimpo International Airport,kimpo international airport,active
+GMP|trp/iata,RKSS,rkss,code_like_upper
+ALL|fin/tck,ALLSTATE CORP,allstate corp,active
+ALL|fin/tck,ALLSTATE CORP,allstate corp,active
+ALL|fin/tck,Allstate,allstate,active
+ALL|fin/tck,Allstate Insurance,allstate insurance,active
+ALL|fin/tck,The Allstate Corporation,the allstate corporation,active
+ALL|fin/i42 (competitor of ALL|fin/tck),Lek,lek,active
+ALL|fin/i42 (competitor of ALL|fin/tck),ALL,all,equals_literal
+ALL|fin/i42 (competitor of ALL|fin/tck),Albanian lek,albanian lek,active
+ALL|fin/i42 (competitor of ALL|fin/tck),Lek,lek,active
+ALL|trp/ica2 (competitor of ALL|fin/tck),Aerovallarta,aerovallarta,active
+ALL|trp/ica2 (competitor of ALL|fin/tck),Aerovallarta,aerovallarta,active
+VYX|fin/tck,NCR Voyix Corp,ncr voyix corp,active
+VYX|fin/tck,NCR Corporation,ncr corporation,active
+VYX|fin/tck,"NCR Corporation (Atlanta, GA)",ncr corporation atlanta ga,active
+VYX|fin/tck,NCR Voyix,ncr voyix,active
+VYX|fin/tck,NCR Voyix Corp,ncr voyix corp,active
+VYX|fin/tck,NCR Voyix Corporation,ncr voyix corporation,active
+VYX|fin/tck,National Cash Register,national cash register,active
+VYX|fin/tck,National Cash Register Company,national cash register company,active
+ALL|fin/i42,Lek,lek,active
+ALL|fin/i42,ALL,all,equals_literal
+ALL|fin/i42,Albanian lek,albanian lek,active
+ALL|fin/i42,Lek,lek,active
+ALL|fin/tck (competitor of ALL|fin/i42),ALLSTATE CORP,allstate corp,active
+ALL|fin/tck (competitor of ALL|fin/i42),ALLSTATE CORP,allstate corp,active
+ALL|fin/tck (competitor of ALL|fin/i42),Allstate,allstate,active
+ALL|fin/tck (competitor of ALL|fin/i42),Allstate Insurance,allstate insurance,active
+ALL|fin/tck (competitor of ALL|fin/i42),The Allstate Corporation,the allstate corporation,active
+ALL|trp/ica2 (competitor of ALL|fin/i42),Aerovallarta,aerovallarta,active
+ALL|trp/ica2 (competitor of ALL|fin/i42),Aerovallarta,aerovallarta,active
+JOD|fin/i42,Jordanian Dinar,jordanian dinar,active
+JOD|fin/i42,Dinar (1949-date),dinar 1949 date,active
+JOD|fin/i42,Jordanian Dinar,jordanian dinar,active
+JOD|fin/i42,Jordanian dinar,jordanian dinar,active
+COP|fin/tck,CONOCOPHILLIPS,conocophillips,active
+COP|fin/tck,CONOCOPHILLIPS,conocophillips,active
+COP|fin/tck,Conoco Phillips,conoco phillips,active
+COP|fin/tck,ConocoPhillips,conocophillips,active
+COP|fin/tck,Continental Oil Company,continental oil company,active
+COP|fin/i42 (competitor of COP|fin/tck),Colombian Peso,colombian peso,active
+COP|fin/i42 (competitor of COP|fin/tck),$,,empty_after_normalisation
+COP|fin/i42 (competitor of COP|fin/tck),CO $,co,code_like_short
+COP|fin/i42 (competitor of COP|fin/tck),CO$,co,code_like_short
+COP|fin/i42 (competitor of COP|fin/tck),COL$,col,code_like_short
+COP|fin/i42 (competitor of COP|fin/tck),Colomb peso,colomb peso,active
+COP|fin/i42 (competitor of COP|fin/tck),Colombian Peso,colombian peso,active
+COP|fin/i42 (competitor of COP|fin/tck),Colombian peso,colombian peso,active
+COP|fin/i42 (competitor of COP|fin/tck),peso,peso,generic_or_null
+COP|trp/iata (competitor of COP|fin/tck),Cooperstown-Westville Airport,cooperstown westville airport,active
+COP|trp/iata (competitor of COP|fin/tck),COP,cop,equals_literal
+COP|trp/iata (competitor of COP|fin/tck),Cooperstown-Westville Airport,cooperstown westville airport,active
+COP|trp/ica2 (competitor of COP|fin/tck),Copper State Air Service,copper state air service,active
+COP|trp/ica2 (competitor of COP|fin/tck),Copper State Air Service,copper state air service,active
+XOM|fin/tck,EXXON MOBIL CORP,exxon mobil corp,active
+XOM|fin/tck,EXXON MOBIL CORP,exxon mobil corp,active
+XOM|fin/tck,Exxon Mobil Corp.,exxon mobil corp,active
+XOM|fin/tck,ExxonMobil,exxonmobil,active
+COP|fin/i42,Colombian Peso,colombian peso,active
+COP|fin/i42,$,,empty_after_normalisation
+COP|fin/i42,CO $,co,code_like_short
+COP|fin/i42,CO$,co,code_like_short
+COP|fin/i42,COL$,col,code_like_short
+COP|fin/i42,Colomb peso,colomb peso,active
+COP|fin/i42,Colombian Peso,colombian peso,active
+COP|fin/i42,Colombian peso,colombian peso,active
+COP|fin/i42,peso,peso,generic_or_null
+COP|fin/tck (competitor of COP|fin/i42),CONOCOPHILLIPS,conocophillips,active
+COP|fin/tck (competitor of COP|fin/i42),CONOCOPHILLIPS,conocophillips,active
+COP|fin/tck (competitor of COP|fin/i42),Conoco Phillips,conoco phillips,active
+COP|fin/tck (competitor of COP|fin/i42),ConocoPhillips,conocophillips,active
+COP|fin/tck (competitor of COP|fin/i42),Continental Oil Company,continental oil company,active
+COP|trp/iata (competitor of COP|fin/i42),Cooperstown-Westville Airport,cooperstown westville airport,active
+COP|trp/iata (competitor of COP|fin/i42),COP,cop,equals_literal
+COP|trp/iata (competitor of COP|fin/i42),Cooperstown-Westville Airport,cooperstown westville airport,active
+COP|trp/ica2 (competitor of COP|fin/i42),Copper State Air Service,copper state air service,active
+COP|trp/ica2 (competitor of COP|fin/i42),Copper State Air Service,copper state air service,active
+QAR|fin/i42,Qatari Rial,qatari rial,active
+QAR|fin/i42,Qatar riyal,qatar riyal,active
+QAR|fin/i42,Qatari Rial,qatari rial,active
+QAR|fin/i42,Qatari riyal,qatari riyal,active
+CUP|fin/i42,Cuban Peso,cuban peso,active
+CUP|fin/i42,CUP,cup,equals_literal
+CUP|fin/i42,Cuban Peso,cuban peso,active
+CUP|fin/i42,Cuban peso,cuban peso,active
+CUP|trp/iata (competitor of CUP|fin/i42),General Francisco Bermúdez Airport,general francisco bermudez airport,active
+CUP|trp/iata (competitor of CUP|fin/i42),CUP,cup,equals_literal
+CUP|trp/iata (competitor of CUP|fin/i42),Carupano / Gen. Jose,carupano gen jose,active
+CUP|trp/iata (competitor of CUP|fin/i42),General Francisco Bermúdez Airport,general francisco bermudez airport,active
+CUP|trp/iata (competitor of CUP|fin/i42),General Jose Francisco Bermudez Airport,general jose francisco bermudez airport,active
+CUP|trp/iata (competitor of CUP|fin/i42),General José Francisco Bermúdez Airport,general jose francisco bermudez airport,active
+CUP|trp/iata (competitor of CUP|fin/i42),SVCP,svcp,code_like_upper
+XAG|fin/i42,Silver,silver,active
+XAG|fin/i42,Silver,silver,active
+XAG|fin/i42,Silver as an investment,silver as an investment,active
+XAG|fin/i42,XAG,xag,equals_literal
+XAG|fin/i42,silver,silver,active
+XAG|fin/i42,silver as an investment,silver as an investment,active
+XAG|fin/i42,silver as currency,silver as currency,active
+CUP|trp/iata,General Francisco Bermúdez Airport,general francisco bermudez airport,active
+CUP|trp/iata,CUP,cup,equals_literal
+CUP|trp/iata,Carupano / Gen. Jose,carupano gen jose,active
+CUP|trp/iata,General Francisco Bermúdez Airport,general francisco bermudez airport,active
+CUP|trp/iata,General Jose Francisco Bermudez Airport,general jose francisco bermudez airport,active
+CUP|trp/iata,General José Francisco Bermúdez Airport,general jose francisco bermudez airport,active
+CUP|trp/iata,SVCP,svcp,code_like_upper
+CUP|fin/i42 (competitor of CUP|trp/iata),Cuban Peso,cuban peso,active
+CUP|fin/i42 (competitor of CUP|trp/iata),CUP,cup,equals_literal
+CUP|fin/i42 (competitor of CUP|trp/iata),Cuban Peso,cuban peso,active
+CUP|fin/i42 (competitor of CUP|trp/iata),Cuban peso,cuban peso,active
+BJB|trp/iata,Bojnord Airport,bojnord airport,active
+BJB|trp/iata,BJB,bjb,equals_literal
+BJB|trp/iata,Bojnord Airport,bojnord airport,active
+BJB|trp/iata,OIMN,oimn,code_like_upper
+CVE|fin/i42,Cabo Verde Escudo,cabo verde escudo,active
+CVE|fin/i42,Cabo Verde Escudo,cabo verde escudo,active
+CVE|fin/i42,Cape Verde escudo,cape verde escudo,active
+CVE|fin/i42,Cape Verdean escudo,cape verdean escudo,active
+CVE|fin/tck (competitor of CVE|fin/i42),CENOVUS ENERGY INC.,cenovus energy inc,active
+CVE|fin/tck (competitor of CVE|fin/i42),CENOVUS ENERGY INC.,cenovus energy inc,active
+CVE|trp/iata (competitor of CVE|fin/i42),Coveñas Airport,covenas airport,active
+CVE|trp/iata (competitor of CVE|fin/i42),CVE,cve,equals_literal
+CVE|trp/iata (competitor of CVE|fin/i42),Coveñas Airport,covenas airport,active
+CVE|trp/iata (competitor of CVE|fin/i42),SKCV,skcv,code_like_upper
+CVE|trp/ica2 (competitor of CVE|fin/i42),Cabo Verde Express,cabo verde express,active
+CVE|trp/ica2 (competitor of CVE|fin/i42),Cabo Verde Express,cabo verde express,active
+JMD|fin/i42,Jamaican Dollar,jamaican dollar,active
+JMD|fin/i42,$,,empty_after_normalisation
+JMD|fin/i42,J$,j,code_like_short
+JMD|fin/i42,JMD,jmd,equals_literal
+JMD|fin/i42,Jamaican Dollar,jamaican dollar,active
+JMD|fin/i42,Jamaican dollar,jamaican dollar,active
+JMD|fin/i42,Jay,jay,active
+CVE|trp/ica2,Cabo Verde Express,cabo verde express,active
+CVE|trp/ica2,Cabo Verde Express,cabo verde express,active
+CVE|fin/i42 (competitor of CVE|trp/ica2),Cabo Verde Escudo,cabo verde escudo,active
+CVE|fin/i42 (competitor of CVE|trp/ica2),Cabo Verde Escudo,cabo verde escudo,active
+CVE|fin/i42 (competitor of CVE|trp/ica2),Cape Verde escudo,cape verde escudo,active
+CVE|fin/i42 (competitor of CVE|trp/ica2),Cape Verdean escudo,cape verdean escudo,active
+CVE|fin/tck (competitor of CVE|trp/ica2),CENOVUS ENERGY INC.,cenovus energy inc,active
+CVE|fin/tck (competitor of CVE|trp/ica2),CENOVUS ENERGY INC.,cenovus energy inc,active
+CVE|trp/iata (competitor of CVE|trp/ica2),Coveñas Airport,covenas airport,active
+CVE|trp/iata (competitor of CVE|trp/ica2),CVE,cve,equals_literal
+CVE|trp/iata (competitor of CVE|trp/ica2),Coveñas Airport,covenas airport,active
+CVE|trp/iata (competitor of CVE|trp/ica2),SKCV,skcv,code_like_upper
+HJA|trp/ica2,Air Haiti,air haiti,active
+HJA|trp/ica2,Air Haiti,air haiti,active
+HJA|trp/ica2,Air Haïti,air haiti,active
+HTG|fin/i42,Gourde,gourde,active
+HTG|fin/i42,Gourde,gourde,active
+HTG|fin/i42,HTG,htg,equals_literal
+HTG|fin/i42,Haitian Gourde,haitian gourde,active
+HTG|fin/i42,Haitian gourde,haitian gourde,active
+HTG|fin/i42,gourde,gourde,active
+HTG|trp/iata (competitor of HTG|fin/i42),Khatanga Airport,khatanga airport,active
+HTG|trp/iata (competitor of HTG|fin/i42),HTG,htg,equals_literal
+HTG|trp/iata (competitor of HTG|fin/i42),Khatanga Airport,khatanga airport,active
+HTG|trp/iata (competitor of HTG|fin/i42),UOHH,uohh,code_like_upper
+HTG|trp/ica2 (competitor of HTG|fin/i42),Grossmann Air Service,grossmann air service,active
+HTG|trp/ica2 (competitor of HTG|fin/i42),Grossmann Air Service,grossmann air service,active
+FJD|fin/i42,Fiji Dollar,fiji dollar,active
+FJD|fin/i42,Fijan dollar,fijan dollar,active
+FJD|fin/i42,Fiji Dollar,fiji dollar,active
+FJD|fin/i42,Fijian dollar,fijian dollar,active
+HTG|trp/iata,Khatanga Airport,khatanga airport,active
+HTG|trp/iata,HTG,htg,equals_literal
+HTG|trp/iata,Khatanga Airport,khatanga airport,active
+HTG|trp/iata,UOHH,uohh,code_like_upper
+HTG|fin/i42 (competitor of HTG|trp/iata),Gourde,gourde,active
+HTG|fin/i42 (competitor of HTG|trp/iata),Gourde,gourde,active
+HTG|fin/i42 (competitor of HTG|trp/iata),HTG,htg,equals_literal
+HTG|fin/i42 (competitor of HTG|trp/iata),Haitian Gourde,haitian gourde,active
+HTG|fin/i42 (competitor of HTG|trp/iata),Haitian gourde,haitian gourde,active
+HTG|fin/i42 (competitor of HTG|trp/iata),gourde,gourde,active
+HTG|trp/ica2 (competitor of HTG|trp/iata),Grossmann Air Service,grossmann air service,active
+HTG|trp/ica2 (competitor of HTG|trp/iata),Grossmann Air Service,grossmann air service,active
+GBW|trp/iata,Ginbata Airport,ginbata airport,active
+GBW|trp/iata,Ginbata Airport,ginbata airport,active
+GBW|trp/iata,YGIA,ygia,code_like_upper
+KPW|fin/i42,North Korean Won,north korean won,active
+KPW|fin/i42,North Korean Won,north korean won,active
+KPW|fin/i42,North Korean won,north korean won,active
+KPW|trp/iata (competitor of KPW|fin/i42),Keperveem Airport,keperveem airport,active
+KPW|trp/iata (competitor of KPW|fin/i42),KPW,kpw,equals_literal
+KPW|trp/iata (competitor of KPW|fin/i42),Keperveem Airport,keperveem airport,active
+KPW|trp/iata (competitor of KPW|fin/i42),Keperveyem Airport,keperveyem airport,active
+KPW|trp/iata (competitor of KPW|fin/i42),UHMK,uhmk,code_like_upper
+IQD|fin/i42,Iraqi Dinar,iraqi dinar,active
+IQD|fin/i42,ID,id,code_like_short
+IQD|fin/i42,Iraqi Dinar,iraqi dinar,active
+IQD|fin/i42,Iraqi dinar,iraqi dinar,active
+KPW|trp/iata,Keperveem Airport,keperveem airport,active
+KPW|trp/iata,KPW,kpw,equals_literal
+KPW|trp/iata,Keperveem Airport,keperveem airport,active
+KPW|trp/iata,Keperveyem Airport,keperveyem airport,active
+KPW|trp/iata,UHMK,uhmk,code_like_upper
+KPW|fin/i42 (competitor of KPW|trp/iata),North Korean Won,north korean won,active
+KPW|fin/i42 (competitor of KPW|trp/iata),North Korean Won,north korean won,active
+KPW|fin/i42 (competitor of KPW|trp/iata),North Korean won,north korean won,active
+OJU|trp/iata,Tanjung Api Airport,tanjung api airport,active
+OJU|trp/iata,Tanjung Api Airport,tanjung api airport,active
+OJU|trp/iata,Toja Una-Una Regency Tanjung Api Airport,toja una una regency tanjung api airport,active
+RON|fin/i42,Romanian Leu,romanian leu,active
+RON|fin/i42,L,l,code_like_short
+RON|fin/i42,RON,ron,equals_literal
+RON|fin/i42,Romanian Leu,romanian leu,active
+RON|fin/i42,Romanian leu,romanian leu,active
+RON|fin/i42,leu românesc,leu romanesc,active
+RON|trp/iata (competitor of RON|fin/i42),Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|fin/i42),Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|fin/i42),Juan José Rondón Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|fin/i42),PAIPA JUAN JOSE RONDON,paipa juan jose rondon,active
+RON|trp/iata (competitor of RON|fin/i42),RON,ron,equals_literal
+RON|trp/iata (competitor of RON|fin/i42),SKPA,skpa,code_like_upper
+RON|trp/ica2 (competitor of RON|fin/i42),Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2 (competitor of RON|fin/i42),Air Nauru,air nauru,active
+RON|trp/ica2 (competitor of RON|fin/i42),Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2 (competitor of RON|fin/i42),Nauru Airlines,nauru airlines,active
+RON|trp/ica2 (competitor of RON|fin/i42),ON,on,code_like_short
+RON|trp/ica2 (competitor of RON|fin/i42),Our Airline,our airline,active
+NZD|fin/i42,New Zealand Dollar,new zealand dollar,active
+NZD|fin/i42,NZ$,nz,code_like_short
+NZD|fin/i42,NZD,nzd,equals_literal
+NZD|fin/i42,New Zealand Dollar,new zealand dollar,active
+NZD|fin/i42,New Zealand dollar,new zealand dollar,active
+NZD|fin/i42,dollar,dollar,generic_or_null
+NZD|fin/i42,dollars,dollars,generic_or_null
+RON|trp/ica2,Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2,Air Nauru,air nauru,active
+RON|trp/ica2,Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2,Nauru Airlines,nauru airlines,active
+RON|trp/ica2,ON,on,code_like_short
+RON|trp/ica2,Our Airline,our airline,active
+RON|fin/i42 (competitor of RON|trp/ica2),Romanian Leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/ica2),L,l,code_like_short
+RON|fin/i42 (competitor of RON|trp/ica2),RON,ron,equals_literal
+RON|fin/i42 (competitor of RON|trp/ica2),Romanian Leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/ica2),Romanian leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/ica2),leu românesc,leu romanesc,active
+RON|trp/iata (competitor of RON|trp/ica2),Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|trp/ica2),Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|trp/ica2),Juan José Rondón Airport,juan jose rondon airport,active
+RON|trp/iata (competitor of RON|trp/ica2),PAIPA JUAN JOSE RONDON,paipa juan jose rondon,active
+RON|trp/iata (competitor of RON|trp/ica2),RON,ron,equals_literal
+RON|trp/iata (competitor of RON|trp/ica2),SKPA,skpa,code_like_upper
+VTA|trp/ica2,Air Tahiti,air tahiti,active
+VTA|trp/ica2,Air Tahiti,air tahiti,active
+VTA|trp/ica2,VT,vt,code_like_short
+RON|trp/iata,Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata,Juan Jose Rondon Airport,juan jose rondon airport,active
+RON|trp/iata,Juan José Rondón Airport,juan jose rondon airport,active
+RON|trp/iata,PAIPA JUAN JOSE RONDON,paipa juan jose rondon,active
+RON|trp/iata,RON,ron,equals_literal
+RON|trp/iata,SKPA,skpa,code_like_upper
+RON|fin/i42 (competitor of RON|trp/iata),Romanian Leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/iata),L,l,code_like_short
+RON|fin/i42 (competitor of RON|trp/iata),RON,ron,equals_literal
+RON|fin/i42 (competitor of RON|trp/iata),Romanian Leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/iata),Romanian leu,romanian leu,active
+RON|fin/i42 (competitor of RON|trp/iata),leu românesc,leu romanesc,active
+RON|trp/ica2 (competitor of RON|trp/iata),Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2 (competitor of RON|trp/iata),Air Nauru,air nauru,active
+RON|trp/ica2 (competitor of RON|trp/iata),Nauru Air Corporation,nauru air corporation,active
+RON|trp/ica2 (competitor of RON|trp/iata),Nauru Airlines,nauru airlines,active
+RON|trp/ica2 (competitor of RON|trp/iata),ON,on,code_like_short
+RON|trp/ica2 (competitor of RON|trp/iata),Our Airline,our airline,active
+GRW|trp/iata,Graciosa Airport,graciosa airport,active
+GRW|trp/iata,GRW,grw,equals_literal
+GRW|trp/iata,Graciosa Airport,graciosa airport,active
+GRW|trp/iata,LPGR,lpgr,code_like_upper
+SBD|trp/iata,San Bernardino International Airport,san bernardino international airport,active
+SBD|trp/iata,KSBD,ksbd,code_like_upper
+SBD|trp/iata,SBD,sbd,equals_literal
+SBD|trp/iata,San Bernardino International Airport,san bernardino international airport,active
+SBD|fin/i42 (competitor of SBD|trp/iata),Solomon Islands Dollar,solomon islands dollar,active
+SBD|fin/i42 (competitor of SBD|trp/iata),Solomon Dollar,solomon dollar,active
+SBD|fin/i42 (competitor of SBD|trp/iata),Solomon Islands Dollar,solomon islands dollar,active
+SBD|fin/i42 (competitor of SBD|trp/iata),Solomon Islands dollar,solomon islands dollar,active
+SBD|trp/ica2 (competitor of SBD|trp/iata),Snowbird Airlines,snowbird airlines,active
+SBD|trp/ica2 (competitor of SBD|trp/iata),S8,s8,code_like_short
+SBD|trp/ica2 (competitor of SBD|trp/iata),Sibia,sibia,active
+SBD|trp/ica2 (competitor of SBD|trp/iata),Sibia (airline),sibia airline,active
+SBD|trp/ica2 (competitor of SBD|trp/iata),Snowbird Airlines,snowbird airlines,active
+NWI|trp/iata,Norwich Airport,norwich airport,active
+NWI|trp/iata,EGSH,egsh,code_like_upper
+NWI|trp/iata,NWI,nwi,equals_literal
+NWI|trp/iata,Norwich,norwich,active
+NWI|trp/iata,Norwich Airport,norwich airport,active
+NWI|trp/iata,Norwich International Airport,norwich international airport,active
+SBD|fin/i42,Solomon Islands Dollar,solomon islands dollar,active
+SBD|fin/i42,Solomon Dollar,solomon dollar,active
+SBD|fin/i42,Solomon Islands Dollar,solomon islands dollar,active
+SBD|fin/i42,Solomon Islands dollar,solomon islands dollar,active
+SBD|trp/iata (competitor of SBD|fin/i42),San Bernardino International Airport,san bernardino international airport,active
+SBD|trp/iata (competitor of SBD|fin/i42),KSBD,ksbd,code_like_upper
+SBD|trp/iata (competitor of SBD|fin/i42),SBD,sbd,equals_literal
+SBD|trp/iata (competitor of SBD|fin/i42),San Bernardino International Airport,san bernardino international airport,active
+SBD|trp/ica2 (competitor of SBD|fin/i42),Snowbird Airlines,snowbird airlines,active
+SBD|trp/ica2 (competitor of SBD|fin/i42),S8,s8,code_like_short
+SBD|trp/ica2 (competitor of SBD|fin/i42),Sibia,sibia,active
+SBD|trp/ica2 (competitor of SBD|fin/i42),Sibia (airline),sibia airline,active
+SBD|trp/ica2 (competitor of SBD|fin/i42),Snowbird Airlines,snowbird airlines,active
+DJF|fin/i42,Djibouti Franc,djibouti franc,active
+DJF|fin/i42,DJF,djf,equals_literal
+DJF|fin/i42,Djibouti Franc,djibouti franc,active
+DJF|fin/i42,Djiboutian franc,djiboutian franc,active
+DTE|fin/tck,DTE ENERGY CO,dte energy co,active
+DTE|fin/tck,DTE,dte,equals_literal
+DTE|fin/tck,DTE ENERGY CO,dte energy co,active
+DTE|fin/tck,DTE Energy,dte energy,active
+DTE|fin/tck,Detroit Edison,detroit edison,active
+DTE|trp/iata (competitor of DTE|fin/tck),Daet Airport,daet airport,active
+DTE|trp/iata (competitor of DTE|fin/tck),Bagasbas Airport,bagasbas airport,active
+DTE|trp/iata (competitor of DTE|fin/tck),DTE,dte,equals_literal
+DTE|trp/iata (competitor of DTE|fin/tck),Daet Airport,daet airport,active
+DTE|trp/iata (competitor of DTE|fin/tck),RPUD,rpud,code_like_upper
+DTE|trp/iata,Daet Airport,daet airport,active
+DTE|trp/iata,Bagasbas Airport,bagasbas airport,active
+DTE|trp/iata,DTE,dte,equals_literal
+DTE|trp/iata,Daet Airport,daet airport,active
+DTE|trp/iata,RPUD,rpud,code_like_upper
+DTE|fin/tck (competitor of DTE|trp/iata),DTE ENERGY CO,dte energy co,active
+DTE|fin/tck (competitor of DTE|trp/iata),DTE,dte,equals_literal
+DTE|fin/tck (competitor of DTE|trp/iata),DTE ENERGY CO,dte energy co,active
+DTE|fin/tck (competitor of DTE|trp/iata),DTE Energy,dte energy,active
+DTE|fin/tck (competitor of DTE|trp/iata),Detroit Edison,detroit edison,active
+GID|trp/iata,Gitega Airport,gitega airport,active
+GID|trp/iata,GID,gid,equals_literal
+GID|trp/iata,Gitega,gitega,active
+GID|trp/iata,Gitega Airport,gitega airport,active
+LYB|fin/tck,LyondellBasell Industries N.V.,lyondellbasell industries n v,active
+LYB|fin/tck,Lyondell Basell,lyondell basell,active
+LYB|fin/tck,Lyondell Basell Industries,lyondell basell industries,active
+LYB|fin/tck,LyondellBasell,lyondellbasell,active
+LYB|fin/tck,LyondellBasell Industries,lyondellbasell industries,active
+LYB|fin/tck,LyondellBasell Industries N.V.,lyondellbasell industries n v,active
+LYB|trp/iata (competitor of LYB|fin/tck),Edward Bodden Little Cayman Airfield,edward bodden little cayman airfield,active
+LYB|trp/iata (competitor of LYB|fin/tck),Bodden Field Airport,bodden field airport,active
+LYB|trp/iata (competitor of LYB|fin/tck),Edward Bodden Airfield,edward bodden airfield,active
+LYB|trp/iata (competitor of LYB|fin/tck),Edward Bodden Little Cayman Airfield,edward bodden little cayman airfield,active
+LYB|trp/iata (competitor of LYB|fin/tck),LYB,lyb,equals_literal
+LYB|trp/iata (competitor of LYB|fin/tck),MWCL,mwcl,code_like_upper
+LYB|trp/iata,Edward Bodden Little Cayman Airfield,edward bodden little cayman airfield,active
+LYB|trp/iata,Bodden Field Airport,bodden field airport,active
+LYB|trp/iata,Edward Bodden Airfield,edward bodden airfield,active
+LYB|trp/iata,Edward Bodden Little Cayman Airfield,edward bodden little cayman airfield,active
+LYB|trp/iata,LYB,lyb,equals_literal
+LYB|trp/iata,MWCL,mwcl,code_like_upper
+LYB|fin/tck (competitor of LYB|trp/iata),LyondellBasell Industries N.V.,lyondellbasell industries n v,active
+LYB|fin/tck (competitor of LYB|trp/iata),Lyondell Basell,lyondell basell,active
+LYB|fin/tck (competitor of LYB|trp/iata),Lyondell Basell Industries,lyondell basell industries,active
+LYB|fin/tck (competitor of LYB|trp/iata),LyondellBasell,lyondellbasell,active
+LYB|fin/tck (competitor of LYB|trp/iata),LyondellBasell Industries,lyondellbasell industries,active
+LYB|fin/tck (competitor of LYB|trp/iata),LyondellBasell Industries N.V.,lyondellbasell industries n v,active
+YGP|trp/iata,Michel-Pouliot Gaspé Airport,michel pouliot gaspe airport,active
+YGP|trp/iata,CYGP,cygp,code_like_upper
+YGP|trp/iata,Michel-Pouliot Gaspe Airport,michel pouliot gaspe airport,active
+YGP|trp/iata,Michel-Pouliot Gaspé Airport,michel pouliot gaspe airport,active
+YGP|trp/iata,YGP,ygp,equals_literal
+MFG|fin/tck,MIZUHO FINANCIAL GROUP INC,mizuho financial group inc,active
+MFG|fin/tck,MIZUHO FINANCIAL GROUP INC,mizuho financial group inc,active
+MFG|fin/tck,Mizuho Financial Group,mizuho financial group,active
+MFG|fin/tck,"Mizuho Financial Group, Inc.",mizuho financial group inc,active
+MFG|trp/iata (competitor of MFG|fin/tck),Muzaffarabad Airport,muzaffarabad airport,active
+MFG|trp/iata (competitor of MFG|fin/tck),MFG,mfg,equals_literal
+MFG|trp/iata (competitor of MFG|fin/tck),Muzaffarabad Airport,muzaffarabad airport,active
+MFG|trp/iata (competitor of MFG|fin/tck),OPMF,opmf,code_like_upper
+MFG|trp/iata,Muzaffarabad Airport,muzaffarabad airport,active
+MFG|trp/iata,MFG,mfg,equals_literal
+MFG|trp/iata,Muzaffarabad Airport,muzaffarabad airport,active
+MFG|trp/iata,OPMF,opmf,code_like_upper
+MFG|fin/tck (competitor of MFG|trp/iata),MIZUHO FINANCIAL GROUP INC,mizuho financial group inc,active
+MFG|fin/tck (competitor of MFG|trp/iata),MIZUHO FINANCIAL GROUP INC,mizuho financial group inc,active
+MFG|fin/tck (competitor of MFG|trp/iata),Mizuho Financial Group,mizuho financial group,active
+MFG|fin/tck (competitor of MFG|trp/iata),"Mizuho Financial Group, Inc.",mizuho financial group inc,active
+WUS|trp/iata,Nanping Wuyishan Airport,nanping wuyishan airport,active
+WUS|trp/iata,Chong'an Airport,chong an airport,active
+WUS|trp/iata,Nanping Wuyishan Airport,nanping wuyishan airport,active
+WUS|trp/iata,WUS,wus,equals_literal
+WUS|trp/iata,Wuyishan Air Base,wuyishan air base,active
+WUS|trp/iata,Wuyishan Airport,wuyishan airport,active
+WUS|trp/iata,ZSWY,zswy,code_like_upper
+MHK|fin/tck,MOHAWK INDUSTRIES INC,mohawk industries inc,active
+MHK|fin/tck,MOHAWK INDUSTRIES INC,mohawk industries inc,active
+MHK|fin/tck,Mohawk Industries,mohawk industries,active
+MHK|trp/iata (competitor of MHK|fin/tck),Manhattan Regional Airport,manhattan regional airport,active
+MHK|trp/iata (competitor of MHK|fin/tck),KMHK,kmhk,code_like_upper
+MHK|trp/iata (competitor of MHK|fin/tck),MHK,mhk,equals_literal
+MHK|trp/iata (competitor of MHK|fin/tck),Manhattan Regional Airport,manhattan regional airport,active
+HPP|fin/tck,"Hudson Pacific Properties, Inc.",hudson pacific properties inc,active
+HPP|fin/tck,Hudson Pacific Properties,hudson pacific properties,active
+HPP|fin/tck,"Hudson Pacific Properties, Inc.",hudson pacific properties inc,active
+MHK|trp/iata,Manhattan Regional Airport,manhattan regional airport,active
+MHK|trp/iata,KMHK,kmhk,code_like_upper
+MHK|trp/iata,MHK,mhk,equals_literal
+MHK|trp/iata,Manhattan Regional Airport,manhattan regional airport,active
+MHK|fin/tck (competitor of MHK|trp/iata),MOHAWK INDUSTRIES INC,mohawk industries inc,active
+MHK|fin/tck (competitor of MHK|trp/iata),MOHAWK INDUSTRIES INC,mohawk industries inc,active
+MHK|fin/tck (competitor of MHK|trp/iata),Mohawk Industries,mohawk industries,active
+OGL|trp/iata,Eugene F. Correia International Airport,eugene f correia international airport,active
+OGL|trp/iata,Eugene F. Correia International Airport,eugene f correia international airport,active
+OGL|trp/iata,OGL,ogl,equals_literal
+OGL|trp/iata,SYGO,sygo,code_like_upper
+RKT|fin/tck,"Rocket Companies, Inc.",rocket companies inc,active
+RKT|fin/tck,RKT,rkt,equals_literal
+RKT|fin/tck,Rocket,rocket,active
+RKT|fin/tck,Rocket Companies,rocket companies,active
+RKT|fin/tck,"Rocket Companies, Inc.",rocket companies inc,active
+RKT|fin/tck,Rocket.com,rocket com,active
+RKT|trp/iata (competitor of RKT|fin/tck),Ras Al Khaimah International Airport,ras al khaimah international airport,active
+RKT|trp/iata (competitor of RKT|fin/tck),OMRK,omrk,code_like_upper
+RKT|trp/iata (competitor of RKT|fin/tck),RKT,rkt,equals_literal
+RKT|trp/iata (competitor of RKT|fin/tck),Ras Al Khaimah International Airport,ras al khaimah international airport,active
+RKT|trp/ica2 (competitor of RKT|fin/tck),Rotormotion,rotormotion,active
+RKT|trp/ica2 (competitor of RKT|fin/tck),Rayani Air,rayani air,active
+RKT|trp/ica2 (competitor of RKT|fin/tck),Rotormotion,rotormotion,active
+RKT|trp/iata,Ras Al Khaimah International Airport,ras al khaimah international airport,active
+RKT|trp/iata,OMRK,omrk,code_like_upper
+RKT|trp/iata,RKT,rkt,equals_literal
+RKT|trp/iata,Ras Al Khaimah International Airport,ras al khaimah international airport,active
+RKT|fin/tck (competitor of RKT|trp/iata),"Rocket Companies, Inc.",rocket companies inc,active
+RKT|fin/tck (competitor of RKT|trp/iata),RKT,rkt,equals_literal
+RKT|fin/tck (competitor of RKT|trp/iata),Rocket,rocket,active
+RKT|fin/tck (competitor of RKT|trp/iata),Rocket Companies,rocket companies,active
+RKT|fin/tck (competitor of RKT|trp/iata),"Rocket Companies, Inc.",rocket companies inc,active
+RKT|fin/tck (competitor of RKT|trp/iata),Rocket.com,rocket com,active
+RKT|trp/ica2 (competitor of RKT|trp/iata),Rotormotion,rotormotion,active
+RKT|trp/ica2 (competitor of RKT|trp/iata),Rayani Air,rayani air,active
+RKT|trp/ica2 (competitor of RKT|trp/iata),Rotormotion,rotormotion,active
+GYY|trp/iata,Gary/Chicago International Airport,gary chicago international airport,active
+GYY|trp/iata,GYY,gyy,equals_literal
+GYY|trp/iata,Gary/Chicago International Airport,gary chicago international airport,active
+GYY|trp/iata,KGYY,kgyy,code_like_upper
+TCX|trp/ica2,Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2,Fly Thomas Cook,fly thomas cook,active
+TCX|trp/ica2,MT,mt,code_like_short
+TCX|trp/ica2,Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2,Thomas Cook Flights,thomas cook flights,active
+TCX|trp/ica2,Thomas Cook Fly,thomas cook fly,active
+TCX|fin/tck (competitor of TCX|trp/ica2),TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck (competitor of TCX|trp/ica2),TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck (competitor of TCX|trp/ica2),Tucows,tucows,active
+TCX|fin/tck (competitor of TCX|trp/ica2),Tucows Inc.,tucows inc,active
+TCX|fin/tck (competitor of TCX|trp/ica2),Tucowsdomains,tucowsdomains,active
+TCX|trp/iata (competitor of TCX|trp/ica2),Tabas Airport,tabas airport,active
+TCX|trp/iata (competitor of TCX|trp/ica2),OIMT,oimt,code_like_upper
+TCX|trp/iata (competitor of TCX|trp/ica2),TCX,tcx,equals_literal
+TCX|trp/iata (competitor of TCX|trp/ica2),Tabas Airport,tabas airport,active
+EIA|trp/ica2,Evergreen International Airlines,evergreen international airlines,active
+EIA|trp/ica2,EZ,ez,code_like_short
+EIA|trp/ica2,Evergreen International Airlines,evergreen international airlines,active
+TCX|fin/tck,TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck,TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck,Tucows,tucows,active
+TCX|fin/tck,Tucows Inc.,tucows inc,active
+TCX|fin/tck,Tucowsdomains,tucowsdomains,active
+TCX|trp/iata (competitor of TCX|fin/tck),Tabas Airport,tabas airport,active
+TCX|trp/iata (competitor of TCX|fin/tck),OIMT,oimt,code_like_upper
+TCX|trp/iata (competitor of TCX|fin/tck),TCX,tcx,equals_literal
+TCX|trp/iata (competitor of TCX|fin/tck),Tabas Airport,tabas airport,active
+TCX|trp/ica2 (competitor of TCX|fin/tck),Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2 (competitor of TCX|fin/tck),Fly Thomas Cook,fly thomas cook,active
+TCX|trp/ica2 (competitor of TCX|fin/tck),MT,mt,code_like_short
+TCX|trp/ica2 (competitor of TCX|fin/tck),Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2 (competitor of TCX|fin/tck),Thomas Cook Flights,thomas cook flights,active
+TCX|trp/ica2 (competitor of TCX|fin/tck),Thomas Cook Fly,thomas cook fly,active
+TCX|trp/iata,Tabas Airport,tabas airport,active
+TCX|trp/iata,OIMT,oimt,code_like_upper
+TCX|trp/iata,TCX,tcx,equals_literal
+TCX|trp/iata,Tabas Airport,tabas airport,active
+TCX|fin/tck (competitor of TCX|trp/iata),TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck (competitor of TCX|trp/iata),TUCOWS INC /PA/,tucows inc pa,active
+TCX|fin/tck (competitor of TCX|trp/iata),Tucows,tucows,active
+TCX|fin/tck (competitor of TCX|trp/iata),Tucows Inc.,tucows inc,active
+TCX|fin/tck (competitor of TCX|trp/iata),Tucowsdomains,tucowsdomains,active
+TCX|trp/ica2 (competitor of TCX|trp/iata),Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2 (competitor of TCX|trp/iata),Fly Thomas Cook,fly thomas cook,active
+TCX|trp/ica2 (competitor of TCX|trp/iata),MT,mt,code_like_short
+TCX|trp/ica2 (competitor of TCX|trp/iata),Thomas Cook Airlines,thomas cook airlines,active
+TCX|trp/ica2 (competitor of TCX|trp/iata),Thomas Cook Flights,thomas cook flights,active
+TCX|trp/ica2 (competitor of TCX|trp/iata),Thomas Cook Fly,thomas cook fly,active
+XGR|trp/iata,Kangiqsualujjuaq (Georges River) Airport,kangiqsualujjuaq georges river airport,active
+XGR|trp/iata,CYLU,cylu,code_like_upper
+XGR|trp/iata,Georges River Airport,georges river airport,active
+XGR|trp/iata,Kangiqsualujjuaq (Georges River) Airport,kangiqsualujjuaq georges river airport,active
+XGR|trp/iata,XGR,xgr,equals_literal
+XGR|trp/iata,angiqsualujjuaq Airport,angiqsualujjuaq airport,active
+TPC|fin/tck,TUTOR PERINI CORP,tutor perini corp,active
+TPC|fin/tck,TUTOR PERINI CORP,tutor perini corp,active
+TPC|fin/tck,Tutor Perini,tutor perini,active
+TPC|trp/iata (competitor of TPC|fin/tck),Tarapoa Airport,tarapoa airport,active
+TPC|trp/iata (competitor of TPC|fin/tck),SETR,setr,code_like_upper
+TPC|trp/iata (competitor of TPC|fin/tck),TPC,tpc,equals_literal
+TPC|trp/iata (competitor of TPC|fin/tck),Tarapoa Airport,tarapoa airport,active
+TPC|trp/ica2 (competitor of TPC|fin/tck),Air Cal,air cal,active
+TPC|trp/ica2 (competitor of TPC|fin/tck),Air Cal,air cal,active
+TPC|trp/ica2 (competitor of TPC|fin/tck),Air Caledonie,air caledonie,active
+TPC|trp/ica2 (competitor of TPC|fin/tck),Air Calédonie,air caledonie,active
+TPC|trp/ica2 (competitor of TPC|fin/tck),TY,ty,code_like_short
+TPC|trp/ica2 (competitor of TPC|fin/tck),Transpac Airlines,transpac airlines,active
+TPC|trp/ica2,Air Cal,air cal,active
+TPC|trp/ica2,Air Cal,air cal,active
+TPC|trp/ica2,Air Caledonie,air caledonie,active
+TPC|trp/ica2,Air Calédonie,air caledonie,active
+TPC|trp/ica2,TY,ty,code_like_short
+TPC|trp/ica2,Transpac Airlines,transpac airlines,active
+TPC|fin/tck (competitor of TPC|trp/ica2),TUTOR PERINI CORP,tutor perini corp,active
+TPC|fin/tck (competitor of TPC|trp/ica2),TUTOR PERINI CORP,tutor perini corp,active
+TPC|fin/tck (competitor of TPC|trp/ica2),Tutor Perini,tutor perini,active
+TPC|trp/iata (competitor of TPC|trp/ica2),Tarapoa Airport,tarapoa airport,active
+TPC|trp/iata (competitor of TPC|trp/ica2),SETR,setr,code_like_upper
+TPC|trp/iata (competitor of TPC|trp/ica2),TPC,tpc,equals_literal
+TPC|trp/iata (competitor of TPC|trp/ica2),Tarapoa Airport,tarapoa airport,active
+WMB|fin/tck,"WILLIAMS COMPANIES, INC.",williams companies inc,active
+WMB|fin/tck,"WILLIAMS COMPANIES, INC.",williams companies inc,active
+WMB|fin/tck,Williams,williams,active
+WMB|fin/tck,Williams Companies,williams companies,active
+WMB|trp/iata (competitor of WMB|fin/tck),Warrnambool Airport,warrnambool airport,active
+WMB|trp/iata (competitor of WMB|fin/tck),WMB,wmb,equals_literal
+WMB|trp/iata (competitor of WMB|fin/tck),Warrnambool Airport,warrnambool airport,active
+WMB|trp/iata (competitor of WMB|fin/tck),YWBL,ywbl,code_like_upper
+WMB|trp/iata,Warrnambool Airport,warrnambool airport,active
+WMB|trp/iata,WMB,wmb,equals_literal
+WMB|trp/iata,Warrnambool Airport,warrnambool airport,active
+WMB|trp/iata,YWBL,ywbl,code_like_upper
+WMB|fin/tck (competitor of WMB|trp/iata),"WILLIAMS COMPANIES, INC.",williams companies inc,active
+WMB|fin/tck (competitor of WMB|trp/iata),"WILLIAMS COMPANIES, INC.",williams companies inc,active
+WMB|fin/tck (competitor of WMB|trp/iata),Williams,williams,active
+WMB|fin/tck (competitor of WMB|trp/iata),Williams Companies,williams companies,active
+CXF|trp/iata,Coldfoot Airport,coldfoot airport,active
+CXF|trp/iata,CXF,cxf,equals_literal
+CXF|trp/iata,Coldfoot Airport,coldfoot airport,active
+CXF|trp/iata,PACX,pacx,code_like_upper
+AKY|trp/ica2,Yak-Service,yak service,active
+AKY|trp/ica2,AKY,aky,equals_literal
+AKY|trp/ica2,YAK-Service,yak service,active
+AKY|trp/ica2,Yak-Service,yak service,active
+AKY|trp/iata (competitor of AKY|trp/ica2),Sittwe Airport,sittwe airport,active
+AKY|trp/iata (competitor of AKY|trp/ica2),AKY,aky,equals_literal
+AKY|trp/iata (competitor of AKY|trp/ica2),Sittwe Airport,sittwe airport,active
+AKY|trp/iata (competitor of AKY|trp/ica2),VYSW,vysw,code_like_upper
+VLK|trp/ica2,Vladivostok Air,vladivostok air,active
+VLK|trp/ica2,Vladivostok Air,vladivostok air,active
+VLK|trp/ica2,XF,xf,code_like_short
+AKY|trp/iata,Sittwe Airport,sittwe airport,active
+AKY|trp/iata,AKY,aky,equals_literal
+AKY|trp/iata,Sittwe Airport,sittwe airport,active
+AKY|trp/iata,VYSW,vysw,code_like_upper
+AKY|trp/ica2 (competitor of AKY|trp/iata),Yak-Service,yak service,active
+AKY|trp/ica2 (competitor of AKY|trp/iata),AKY,aky,equals_literal
+AKY|trp/ica2 (competitor of AKY|trp/iata),YAK-Service,yak service,active
+AKY|trp/ica2 (competitor of AKY|trp/iata),Yak-Service,yak service,active
+CBJ|trp/iata,Cabo Rojo Airport,cabo rojo airport,active
+CBJ|trp/iata,CBJ,cbj,equals_literal
+CBJ|trp/iata,Cabo Rojo Airport,cabo rojo airport,active
+CBJ|trp/iata,MDCR,mdcr,code_like_upper
+AXX|trp/iata,Angel Fire Airport,angel fire airport,active
+AXX|trp/iata,Angel Fire Airport,angel fire airport,active
+AXX|trp/ica2 (competitor of AXX|trp/iata),Avioimpex A.D.p.o.,avioimpex a d p o,active
+AXX|trp/ica2 (competitor of AXX|trp/iata),AXX,axx,equals_literal
+AXX|trp/ica2 (competitor of AXX|trp/iata),Avioimpex,avioimpex,active
+AXX|trp/ica2 (competitor of AXX|trp/iata),Avioimpex A.D.p.o.,avioimpex a d p o,active
+AXX|trp/ica2 (competitor of AXX|trp/iata),IMPEX,impex,active
+AXX|trp/ica2 (competitor of AXX|trp/iata),M4,m4,code_like_short
+TOE|trp/iata,Tozeur Nefta International Airport,tozeur nefta international airport,active
+TOE|trp/iata,DTTZ,dttz,code_like_upper
+TOE|trp/iata,Nefta Airport,nefta airport,active
+TOE|trp/iata,TOE,toe,equals_literal
+TOE|trp/iata,Tozeur Nefta International Airport,tozeur nefta international airport,active
+TOE|trp/iata,Tozeur–Nefta International Airport,tozeur nefta international airport,active
+AXX|trp/ica2,Avioimpex A.D.p.o.,avioimpex a d p o,active
+AXX|trp/ica2,AXX,axx,equals_literal
+AXX|trp/ica2,Avioimpex,avioimpex,active
+AXX|trp/ica2,Avioimpex A.D.p.o.,avioimpex a d p o,active
+AXX|trp/ica2,IMPEX,impex,active
+AXX|trp/ica2,M4,m4,code_like_short
+AXX|trp/iata (competitor of AXX|trp/ica2),Angel Fire Airport,angel fire airport,active
+AXX|trp/iata (competitor of AXX|trp/ica2),Angel Fire Airport,angel fire airport,active
+RMV|trp/ica2,Romavia,romavia,active
+RMV|trp/ica2,Romavia,romavia,active
+KAT|trp/iata,Kaitaia Airport,kaitaia airport,active
+KAT|trp/iata,KAT,kat,equals_literal
+KAT|trp/iata,Kaitaia Airport,kaitaia airport,active
+KAT|trp/iata,NZKT,nzkt,code_like_upper
+KAT|trp/ica2 (competitor of KAT|trp/iata),Kato Airline,kato airline,active
+KAT|trp/ica2 (competitor of KAT|trp/iata),Kato Air,kato air,active
+KAT|trp/ica2 (competitor of KAT|trp/iata),Kato Airline,kato airline,active
+GVL|trp/iata,Lee Gilmer Memorial Airport,lee gilmer memorial airport,active
+GVL|trp/iata,GVL,gvl,equals_literal
+GVL|trp/iata,KGVL,kgvl,code_like_upper
+GVL|trp/iata,Lee Gilmer Memorial Airport,lee gilmer memorial airport,active
+KAT|trp/ica2,Kato Airline,kato airline,active
+KAT|trp/ica2,Kato Air,kato air,active
+KAT|trp/ica2,Kato Airline,kato airline,active
+KAT|trp/iata (competitor of KAT|trp/ica2),Kaitaia Airport,kaitaia airport,active
+KAT|trp/iata (competitor of KAT|trp/ica2),KAT,kat,equals_literal
+KAT|trp/iata (competitor of KAT|trp/ica2),Kaitaia Airport,kaitaia airport,active
+KAT|trp/iata (competitor of KAT|trp/ica2),NZKT,nzkt,code_like_upper
+PSV|trp/ica2,Servicios Aereos Profesionales,servicios aereos profesionales,active
+PSV|trp/ica2,SA Profesionales,sa profesionales,active
+PSV|trp/ica2,SAP Group,sap group,active
+PSV|trp/ica2,Servicios Aereos Profesionales,servicios aereos profesionales,active
+PSV|trp/ica2,Servicios Aéreos Profesionales,servicios aereos profesionales,active
+PSD|trp/iata,Port Said International Airport,port said international airport,active
+PSD|trp/iata,HEPS,heps,code_like_upper
+PSD|trp/iata,PSD,psd,equals_literal
+PSD|trp/iata,Port Said,port said,active
+PSD|trp/iata,Port Said Airport,port said airport,active
+PSD|trp/iata,Port Said International Airport,port said international airport,active
+PSD|trp/ica2 (competitor of PSD|trp/iata),President Airlines,president airlines,active
+PSD|trp/ica2 (competitor of PSD|trp/iata),President Airlines,president airlines,active
+PSD|trp/ica2 (competitor of PSD|trp/iata),TO,to,code_like_short
+PSD|trp/ica2 (competitor of PSD|trp/iata),null,null,generic_or_null
+YPA|trp/iata,Prince Albert Glass Field,prince albert glass field,active
+YPA|trp/iata,CYPA,cypa,code_like_upper
+YPA|trp/iata,Prince Albert (Glass Field) Airport,prince albert glass field airport,active
+YPA|trp/iata,Prince Albert Glass Field,prince albert glass field,active
+YPA|trp/iata,YPA,ypa,equals_literal
+PSD|trp/ica2,President Airlines,president airlines,active
+PSD|trp/ica2,President Airlines,president airlines,active
+PSD|trp/ica2,TO,to,code_like_short
+PSD|trp/ica2,null,null,generic_or_null
+PSD|trp/iata (competitor of PSD|trp/ica2),Port Said International Airport,port said international airport,active
+PSD|trp/iata (competitor of PSD|trp/ica2),HEPS,heps,code_like_upper
+PSD|trp/iata (competitor of PSD|trp/ica2),PSD,psd,equals_literal
+PSD|trp/iata (competitor of PSD|trp/ica2),Port Said,port said,active
+PSD|trp/iata (competitor of PSD|trp/ica2),Port Said Airport,port said airport,active
+PSD|trp/iata (competitor of PSD|trp/ica2),Port Said International Airport,port said international airport,active
+JEC|trp/ica2,Jett8 Airlines Cargo,jett8 airlines cargo,active
+JEC|trp/ica2,JX,jx,code_like_short
+JEC|trp/ica2,Jett8 Airlines,jett8 airlines,active
+JEC|trp/ica2,Jett8 Airlines Cargo,jett8 airlines cargo,active
+A|fin/tck,"AGILENT TECHNOLOGIES, INC.",agilent technologies inc,active
+A|fin/tck,"AGILENT TECHNOLOGIES, INC.",agilent technologies inc,active
+A|fin/tck,Agilent Technologies,agilent technologies,active
+A|fin/tck,"Agilent Technologies, Inc.",agilent technologies inc,active
+A|cmp/dns (competitor of A|fin/tck),a host address,a host address,active
+A|cmp/dns (competitor of A|fin/tck),IPv4 address,ipv4 address,active
+A|cmp/dns (competitor of A|fin/tck),a host address,a host address,active
+A|cmp/dns,a host address,a host address,active
+A|cmp/dns,A record,a record,active
+A|cmp/dns,IPv4 address,ipv4 address,active
+A|cmp/dns,IPv4 address record,ipv4 address record,active
+A|cmp/dns,a host address,a host address,active
+A|cmp/dns,address record,address record,active
+A|cmp/dns,host address record,host address record,active
+A|fin/tck (competitor of A|cmp/dns),"AGILENT TECHNOLOGIES, INC.",agilent technologies inc,active
+A|fin/tck (competitor of A|cmp/dns),"AGILENT TECHNOLOGIES, INC.",agilent technologies inc,active
+A|fin/tck (competitor of A|cmp/dns),Agilent Technologies,agilent technologies,active
+A|fin/tck (competitor of A|cmp/dns),"Agilent Technologies, Inc.",agilent technologies inc,active
+SIG|fin/tck,SIGNET JEWELERS LTD,signet jewelers ltd,active
+SIG|fin/tck,Ratner Group,ratner group,active
+SIG|fin/tck,SIGNET JEWELERS LTD,signet jewelers ltd,active
+SIG|fin/tck,Signet Group plc,signet group plc,active
+SIG|fin/tck,Signet Jewelers,signet jewelers,active
+SIG|fin/tck,Signet Jewelers Limited,signet jewelers limited,active
+SIG|cmp/dns (competitor of SIG|fin/tck),for security signature,for security signature,active
+SIG|cmp/dns (competitor of SIG|fin/tck),for security signature,for security signature,active
+SIG|trp/iata (competitor of SIG|fin/tck),Fernando Luis Ribas Dominicci Airport,fernando luis ribas dominicci airport,active
+SIG|trp/iata (competitor of SIG|fin/tck),Fernando Luis Ribas Dominicci Airport,fernando luis ribas dominicci airport,active
+SIG|trp/iata (competitor of SIG|fin/tck),Isla Grande Airport,isla grande airport,active
+SIG|trp/iata (competitor of SIG|fin/tck),SIG,sig,equals_literal
+SIG|trp/iata (competitor of SIG|fin/tck),TJIG,tjig,code_like_upper
+SIG|trp/iata,Fernando Luis Ribas Dominicci Airport,fernando luis ribas dominicci airport,active
+SIG|trp/iata,Fernando Luis Ribas Dominicci Airport,fernando luis ribas dominicci airport,active
+SIG|trp/iata,Isla Grande Airport,isla grande airport,active
+SIG|trp/iata,SIG,sig,equals_literal
+SIG|trp/iata,TJIG,tjig,code_like_upper
+SIG|cmp/dns (competitor of SIG|trp/iata),for security signature,for security signature,active
+SIG|cmp/dns (competitor of SIG|trp/iata),for security signature,for security signature,active
+SIG|fin/tck (competitor of SIG|trp/iata),SIGNET JEWELERS LTD,signet jewelers ltd,active
+SIG|fin/tck (competitor of SIG|trp/iata),Ratner Group,ratner group,active
+SIG|fin/tck (competitor of SIG|trp/iata),SIGNET JEWELERS LTD,signet jewelers ltd,active
+SIG|fin/tck (competitor of SIG|trp/iata),Signet Group plc,signet group plc,active
+SIG|fin/tck (competitor of SIG|trp/iata),Signet Jewelers,signet jewelers,active
+SIG|fin/tck (competitor of SIG|trp/iata),Signet Jewelers Limited,signet jewelers limited,active
+IFP|trp/iata,Laughlin Bullhead International Airport,laughlin bullhead international airport,active
+IFP|trp/iata,Bullhead International Airport,bullhead international airport,active
+IFP|trp/iata,IFP,ifp,equals_literal
+IFP|trp/iata,KIFP,kifp,code_like_upper
+IFP|trp/iata,Laughlin Bullhead International Airport,laughlin bullhead international airport,active
+IFP|trp/iata,Laughlin International Airport,laughlin international airport,active
+IFP|trp/iata,Laughlin/Bullhead International Airport,laughlin bullhead international airport,active
+TXT|fin/tck,TEXTRON INC,textron inc,active
+TXT|fin/tck,TEXTRON INC,textron inc,active
+TXT|fin/tck,Textron,textron,active
+TXT|fin/tck,Textron Incorporated,textron incorporated,active
+TXT|cmp/dns (competitor of TXT|fin/tck),text strings,text strings,active
+TXT|cmp/dns (competitor of TXT|fin/tck),TXT record,txt record,active
+TXT|cmp/dns (competitor of TXT|fin/tck),text strings,text strings,active
+TXT|trp/ica2 (competitor of TXT|fin/tck),Texas Air Charters,texas air charters,active
+TXT|trp/ica2 (competitor of TXT|fin/tck),Texas Air Charters,texas air charters,active
+TXT|cmp/dns,text strings,text strings,active
+TXT|cmp/dns,TXT record,txt record,active
+TXT|cmp/dns,text record,text record,active
+TXT|cmp/dns,text strings,text strings,active
+TXT|cmp/dns,text strings record,text strings record,active
+TXT|fin/tck (competitor of TXT|cmp/dns),TEXTRON INC,textron inc,active
+TXT|fin/tck (competitor of TXT|cmp/dns),TEXTRON INC,textron inc,active
+TXT|fin/tck (competitor of TXT|cmp/dns),Textron,textron,active
+TXT|fin/tck (competitor of TXT|cmp/dns),Textron Incorporated,textron incorporated,active
+TXT|trp/ica2 (competitor of TXT|cmp/dns),Texas Air Charters,texas air charters,active
+TXT|trp/ica2 (competitor of TXT|cmp/dns),Texas Air Charters,texas air charters,active
