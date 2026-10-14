@@ -113,4 +113,13 @@ POC exploratória, com 30 a 50 literais. Não testa hipótese confirmatória. N�
 - Ausência de significância nunca vira rejeição.
 
 ## Desvios
-Nenhum até o congelamento.
+Registrados depois do commit do protocolo e antes da primeira chamada de modelo.
+
+1. Terceiro modelo fixado: Llama 3.1 8B Instruct. O OLMo 2 7B não tem provedor no Hugging Face; segue como candidato para uma etapa posterior.
+2. Os três modelos rodam no mesmo provedor, featherless-ai, pelo roteador do Hugging Face, para reduzir diferença de motor.
+3. Alias que é só o próprio código, ou tem até 3 caracteres, não conta como nome de entidade. Sem isso, repetir o código contaria como acerto.
+4. O estrato de país ficou sem literal equilibrado: em todos os elegíveis o país domina em pageviews.
+5. Os estratos aeroporto contra companhia aérea e DNS tinham só 5 literais elegíveis cada; depois da revisão ficaram 4 e 3.
+6. A revisão manual excluiu 5 leituras de companhia aérea em que o Wikidata aponta outra empresa com o mesmo código; os motivos estão em src/finalize_gold.py.
+7. Leituras de DNS receberam aliases manuais, porque o rótulo da IANA é uma descrição.
+8. O pedido de pageviews passou a usar um User-Agent com URL de contato, exigido pela Wikimedia; o período e a métrica não mudaram.

@@ -1,0 +1,22 @@
+trp/iata: 392 rows, 329 with a unique article
+trp/ica2: 348 rows, 116 with a unique article
+lng/i31: 44 rows, 43 with a unique article
+lng/ioc: 40 rows, 35 with a unique article
+fin/i42: 98 rows, 96 with a unique article
+fin/tck: 257 rows, 64 with a unique article
+pageviews 0/684
+pageviews 50/684
+pageviews 100/684
+pageviews 150/684
+pageviews 200/684
+pageviews 250/684
+pageviews 300/684
+pageviews 350/684
+pageviews 400/684
+pageviews 450/684
+pageviews 500/684
+pageviews 550/684
+pageviews 600/684
+pageviews 650/684
+strata sizes: {'S5_dns': 26, 'S4_airport_airline': 3128, 'S3_ticker_airport': 1299, 'S1_country': 201, 'other': 259, 'S2_currency': 136}
+presample rows: 1235

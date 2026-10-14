@@ -1,0 +1,1236 @@
+role,stratum,literal,system_id,label,eligible_readings,systems_in_3char,other_systems,wd_n,wd_item,wd_label,wd_alts,wp_title,pageviews
+collision,S1_country,OMA,lng/ioc,Oman,3,6,lng/b47;lng/i63;trp/unl,1,Q842,Oman,Uman|om|omn|Sultanate of Oman,Oman,2065356
+collision,S1_country,OMA,trp/iata,Eppley Airfield,3,6,lng/b47;lng/i63;trp/unl,1,Q1347672,Eppley Airfield,OMA|KOMA|Omaha Eppley Airfield,Eppley Airfield,55990
+collision,S1_country,OMA,trp/ica2,Oman Air,3,6,lng/b47;lng/i63;trp/unl,1,Q860379,Oman Air,Oman Airline,Oman Air,133383
+collision,S1_country,GTM,fin/tck,ZoomInfo Technologies Inc.,2,3,trp/unl,1,Q8074134,ZoomInfo,"ZoomInfo Technologies LLC|ZoomInfo Technologies, Inc.|Zoominfo",ZoomInfo,67361
+collision,S1_country,GTM,lng/i31,Guatemala,2,3,trp/unl,1,Q774,Guatemala,GT|GTM|gt|Republic of Guatemala,Guatemala,1080632
+collision,S1_country,CRO,lng/ioc,Croatia,3,6,lng/b47;lng/i63;trp/unl,1,Q224,Croatia,HR|CRO|RH|HRV|Republic of Croatia,Croatia,2399255
+collision,S1_country,CRO,trp/iata,Corcoran Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1655177,Corcoran Airport,CRO|KCRO,Corcoran Airport,656
+collision,S1_country,CRO,trp/ica2,Crown Airways,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,CHE,fin/i42,WIR Euro,5,6,trp/unl,1,Q115184017,WIR Euro,CHE,WIR euro,4
+collision,S1_country,CHE,fin/tck,CHEMED CORP,5,6,trp/unl,1,Q106241500,Chemed Corporation,Chemed Corp,,
+collision,S1_country,CHE,lng/i31,Switzerland,5,6,trp/unl,1,Q39,Switzerland,Swiss|Confoederatio Helvetica|Swiss Confederation,Switzerland,2868192
+collision,S1_country,CHE,trp/iata,Tallinn Linnahall Heliport,5,6,trp/unl,0,,,,,
+collision,S1_country,CHE,trp/ica2,Top Flight Air Service,5,6,trp/unl,0,,,,,
+collision,S1_country,MYA,lng/ioc,Myanmar,3,4,trp/unl,1,Q836,Myanmar,Union of Burma|Republic of the Union of Myanmar,Myanmar,2278325
+collision,S1_country,MYA,trp/iata,Moruya Airport,3,4,trp/unl,1,Q17562,Moruya Airport,MYA|MORUYA|Moruya Aerodrome|YMRY,Moruya Airport,5237
+collision,S1_country,MYA,trp/ica2,Myflug,3,4,trp/unl,1,Q3481168,Mýflug,,Mýflug,3022
+collision,S1_country,BRU,lng/ioc,Brunei Darussalam,3,6,lng/b47;lng/i63;trp/unl,1,Q921,Brunei,"bn|Nation of Brunei, the Abode of Peace|Negara Brunei Darussalam",Brunei,1399209
+collision,S1_country,BRU,trp/iata,Brussels Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q28934,Brussels Airport,Brussel-Zaventem|Brussels National|Fliegerhorst Melsbroek|Zaventem Airport,Brussels Airport,172194
+collision,S1_country,BRU,trp/ica2,Belavia Belarusian Airlines,3,6,lng/b47;lng/i63;trp/unl,1,Q815314,Belavia,"B2|BRU|Belavia - Belarusian Airlines|Joint Stock Company ""Belavia Belarusian Airlines""",Belavia,65851
+collision,S1_country,ZIM,fin/tck,ZIM Integrated Shipping Services Ltd.,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,ZIM,lng/ioc,Zimbabwe,2,5,lng/b47;lng/i63;trp/unl,1,Q954,Zimbabwe,Rhodesia|Southern Rhodesia|Zimbabwe Rhodesia|Republic of Zimbabwe,Zimbabwe,1521337
+collision,S1_country,TCA,lng/i31,Turks and Caicos Islands,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q18221,Turks and Caicos Islands,TCI|Turks & Caicos|tc|Turks and Caicos,Turks and Caicos Islands,714433
+collision,S1_country,TCA,trp/iata,Tennant Creek Airport,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q17623,Tennant Creek Airport,TCA|YTNK|Tennant Creek Aerodrome,Tennant Creek Airport,2114
+collision,S1_country,TCA,trp/ica2,Tropican Air Services,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,ARU,lng/ioc,Aruba,3,6,lng/b47;lng/i63;trp/unl,1,Q21203,Aruba,aw|Country of Aruba|Island of Aruba,Aruba,1293578
+collision,S1_country,ARU,trp/iata,Araçatuba Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q4784580,Araçatuba Airport,ARU|SBAU,Araçatuba Airport,1456
+collision,S1_country,ARU,trp/ica2,Aruba Airlines,3,6,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,SLO,lng/ioc,Slovenia,3,4,trp/unl,1,Q215,Slovenia,si|svn|Slovenija|Republic of Slovenia|slo,Slovenia,1571484
+collision,S1_country,SLO,trp/iata,Salem–Leckrone Airport,3,4,trp/unl,1,Q14688070,Salem-Leckrone Airport,SLO|KSLO,Salem–Leckrone Airport,514
+collision,S1_country,SLO,trp/ica2,Edgartown Air,3,4,trp/unl,0,,,,,
+collision,S1_country,VAN,lng/ioc,Vanuatu,3,6,lng/b47;lng/i63;trp/unl,1,Q686,Vanuatu,van|VAN|vu|Republic of Vanuatu|vut,Vanuatu,974666
+collision,S1_country,VAN,trp/iata,Van Ferit Melen Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1431293,Van Ferit Melen Airport,VAN|Ferit Melen Airport|LTCI|Van Ferit Melen,Van Ferit Melen Airport,7135
+collision,S1_country,VAN,trp/ica2,Caravan Air,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,VIE,lng/ioc,Viet Nam,3,4,trp/unl,1,Q881,Vietnam,Socialist Republic of Viet Nam|Socialist Republic of Vietnam|Việt Nam|VNM|VN|Viet Nam|SRV|VIE,Vietnam,2626351
+collision,S1_country,VIE,trp/iata,Vienna International Airport,3,4,trp/unl,1,Q32999,Wien-Schwechat Airport,LOWW|VIE|Vienna airport|Vienna-Schwechat airport,Vienna International Airport,159714
+collision,S1_country,VIE,trp/ica2,VIP Empresarial,3,4,trp/unl,0,,,,,
+collision,S1_country,HTI,lng/i31,Haiti,3,6,lng/b47;lng/i63;trp/unl,1,Q790,Haiti,HAI|Ayiti|Haitian Republic|Republic of Haiti|Hayti|ht,Haiti,1696147
+collision,S1_country,HTI,trp/iata,Hamilton Island Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1431430,Great Barrier Reef Airport,HTI|HAMILTON ISLAND|Hamilton Island|Hamilton Island Airport|YBHM,Hamilton Island Airport,10810
+collision,S1_country,HTI,trp/ica2,Haiti International Air,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,PAR,fin/tck,PAR TECHNOLOGY CORP,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,PAR,lng/ioc,Paraguay,3,6,lng/b47;lng/i63;trp/unl,1,Q733,Paraguay,Heart of South America|Republic of Paraguay,Paraguay,1529563
+collision,S1_country,PAR,trp/ica2,Pacific Rim Airways,3,6,lng/b47;lng/i63;trp/unl,1,Q1549336,Partnair,,Partnair,8417
+collision,S1_country,SUI,fin/tck,SUN COMMUNITIES INC,4,7,lng/b47;lng/i63;trp/unl,1,Q7638250,Sun Communities,Sun Outdoors,Sun Communities,9253
+collision,S1_country,SUI,lng/ioc,Switzerland,4,7,lng/b47;lng/i63;trp/unl,1,Q39,Switzerland,Swiss|Confoederatio Helvetica|Swiss Confederation,Switzerland,2868192
+collision,S1_country,SUI,trp/iata,Vladislav Ardzinba Sukhum International Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q2347363,Sukhumi Babushara Airport,SUI|UGSS,Sukhum International Airport,6393
+collision,S1_country,SUI,trp/ica2,Swiss Air Force,4,7,lng/b47;lng/i63;trp/unl,1,Q688072,Swiss Air Force,,Swiss Air Force,97958
+collision,S1_country,GRN,fin/tck,BARCLAYS BANK PLC,4,6,bio/gen;trp/unl,0,,,,,
+collision,S1_country,GRN,lng/ioc,Grenada,4,6,bio/gen;trp/unl,1,Q769,Grenada,GRN|gd,Grenada,895872
+collision,S1_country,GRN,trp/iata,Gordon Municipal Airport,4,6,bio/gen;trp/unl,1,Q34965963,Gordon Municipal Airport,,,
+collision,S1_country,GRN,trp/ica2,Rio Grande Air,4,6,bio/gen;trp/unl,1,Q5603645,Greenair,,,
+collision,S1_country,CRI,fin/tck,CARTERS INC,3,6,lng/b47;lng/i63;trp/unl,1,Q5047083,Carter's,"Carter's, Inc.|William Carter Company",Carter's,33948
+collision,S1_country,CRI,lng/i31,Costa Rica,3,6,lng/b47;lng/i63;trp/unl,1,Q800,Costa Rica,cr|Republic of Costa Rica,Costa Rica,1086553
+collision,S1_country,CRI,trp/iata,Colonel Hill Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1655160,Colonel Hill Airport,CRI|MYCI,,
+collision,S1_country,MTQ,lng/i31,Martinique,2,5,lng/b47;lng/i63;trp/unl,1,Q17054,Martinique,Madiana|Jouanacaëra|Madinina|Martinica|Matinik|Matinino|Matnik|Territorial Collectivity of Martinique|Wanakaera,Martinique,719498
+collision,S1_country,MTQ,trp/iata,Mitchell Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q20451210,Mitchell Airport,MTQ,,
+collision,S1_country,ARE,fin/tck,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",4,7,lng/b47;lng/i63;trp/unl,1,Q48739877,Alexandria Real Estate Equities,,Alexandria Real Estate Equities,12312
+collision,S1_country,ARE,lng/i31,United Arab Emirates,4,7,lng/b47;lng/i63;trp/unl,1,Q878,United Arab Emirates,Emirates|ae|the United Arab Emirates|the Emirates|the U.A.E.|the UAE|U.A.E.,United Arab Emirates,3974025
+collision,S1_country,ARE,trp/iata,Antonio Nery Juarbe Pol Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q4776383,Antonio (Nery) Juarbe Pol Airport,ARE|TJAB,Antonio (Nery) Juarbe Pol Airport,1582
+collision,S1_country,ARE,trp/ica2,Aires,4,7,lng/b47;lng/i63;trp/unl,1,Q408655,LATAM Airlines Colombia,LATAM Airways|LATAM Airlines|Aerovías de Integración Regional S.A.|AIRES|LAN Colombia|LATAM Colombia,LATAM Airlines Colombia,9624
+collision,S1_country,LSO,lng/i31,Lesotho,2,5,lng/b47;lng/i63;trp/unl,1,Q1013,Lesotho,Kingdom of Lesotho|LES|The Mountain Kingdom|ls,Lesotho,848823
+collision,S1_country,LSO,trp/iata,Les Sables-d'Olonne Talmont Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q2875679,Sables-d'Olonne - Talmont Airport,LSO|Les Sables-d'Olonne - Talmont Airport|LFOO|Talmont Airport,,
+collision,S1_country,ESH,lng/i31,Western Sahara,2,5,lng/b47;lng/i63;trp/unl,1,Q6250,Western Sahara,Southern Provinces|West Sahara|Spanish Sahara,Western Sahara,1440760
+collision,S1_country,ESH,trp/iata,Brighton City Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q735756,Brighton City Airport,ESH|EGKA|Shoreham (Brighton City) Airport|Shoreham Airport,Brighton City Airport,11508
+collision,S1_country,CHL,lng/i31,Chile,3,6,lng/b47;lng/i63;trp/unl,1,Q298,Chile,CHI|Republic of Chile,Chile,1593950
+collision,S1_country,CHL,trp/iata,Challis Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1835459,Challis Airport,CHL|KLLJ,Challis Airport,895
+collision,S1_country,CHL,trp/ica2,Cohlmia Aviation,3,6,lng/b47;lng/i63;trp/unl,1,Q4035803,Canadian Helicopters,,Canadian Helicopters,5242
+collision,S1_country,ANG,lng/ioc,Angola,3,7,bio/gen;lng/b47;lng/i63;trp/unl,1,Q916,Angola,Ngola|ao|Republic of Angola,Angola,1104187
+collision,S1_country,ANG,trp/iata,Angoulême Brie-Champniers airport,3,7,bio/gen;lng/b47;lng/i63;trp/unl,1,Q1430802,Angoulême – Brie – Champniers Airport,ANG|ANGOULÊME-BRIE-CHAMPNIERS|LFBU,Angoulême–Cognac International Airport,1540
+collision,S1_country,ANG,trp/ica2,Air Niugini,3,7,bio/gen;lng/b47;lng/i63;trp/unl,1,Q407675,Air Niugini,Air Niugini Limited,Air Niugini,75411
+collision,S1_country,BUR,fin/tck,Burford Capital Ltd,4,5,trp/unl,1,Q24204272,Burford Capital,,Burford Capital,10467
+collision,S1_country,BUR,lng/ioc,Burkina Faso,4,5,trp/unl,1,Q965,Burkina Faso,bf|Republic of Burkina Faso|Republic of Upper Volta (-1984),Burkina Faso,1844971
+collision,S1_country,BUR,trp/iata,Hollywood Burbank/Bob Hope Airport,4,5,trp/unl,1,Q598817,Hollywood Burbank Airport,BUR|Burbank Airport|Angeles Mesa Drive Airport|Burbank-Glendale-Pasadena Airport|Hollywood-Burbank Airport|KBUR|Lockheed Air Terminal|Union Air Terminal|United Airport,Hollywood Burbank Airport,135240
+collision,S1_country,BUR,trp/ica2,Air Bucharest,4,5,trp/unl,1,Q406907,Air Bucharest,,Air Bucharest,1826
+collision,S1_country,MAS,fin/tck,MASCO CORP /DE/,4,7,lng/b47;lng/i63;trp/unl,1,Q6782872,Masco,,Masco,26511
+collision,S1_country,MAS,lng/ioc,Malaysia,4,7,lng/b47;lng/i63;trp/unl,1,Q833,Malaysia,Federation of Malaysia|Malaysia Federation,Malaysia,2493373
+collision,S1_country,MAS,trp/iata,Momote Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q3566026,Momote Airport,MAS|AYMO|Hayne Airfield|Momote Airfield,Momote Airport,2494
+collision,S1_country,MAS,trp/ica2,Malaysia Airlines,4,7,lng/b47;lng/i63;trp/unl,3,,,,,
+collision,S1_country,GUI,lng/ioc,Guinea,3,7,cmp/git;lng/b47;lng/i63;trp/unl,1,Q1006,Guinea,gn|GUI|Guinea-Conakry|Republic of Guinea,Guinea,777356
+collision,S1_country,GUI,trp/iata,Guiria Airport,3,7,cmp/git;lng/b47;lng/i63;trp/unl,1,Q5626819,Güiria Airport,GUI|SVGI,Güiria Airport,571
+collision,S1_country,GUI,trp/ica2,Aguilar Connect,3,7,cmp/git;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,BAR,fin/tck,GraniteShares Gold Trust,4,9,cmp/vim;lng/b47;lng/i63;trp/tld;trp/unl,0,,,,,
+collision,S1_country,BAR,lng/ioc,Barbados,4,9,cmp/vim;lng/b47;lng/i63;trp/tld;trp/unl,1,Q244,Barbados,BAR|Barbadoes|bb,Barbados,1231299
+collision,S1_country,BAR,trp/iata,Qionghai Bo'ao Airport,4,9,cmp/vim;lng/b47;lng/i63;trp/tld;trp/unl,1,Q7267894,Qionghai Bo'ao Airport,BAR|ZJQH,Qionghai Bo'ao International Airport,4402
+collision,S1_country,BAR,trp/ica2,Bradly Air (Charter) Services,4,9,cmp/vim;lng/b47;lng/i63;trp/tld;trp/unl,0,,,,,
+collision,S1_country,LBN,lng/i31,Lebanon,2,5,lng/b47;lng/i63;trp/unl,1,Q822,Lebanon,lb|Lebanese Republic|Lubnan|Republic of Lebanon|State of Lebanon,Lebanon,2627185
+collision,S1_country,LBN,trp/iata,Lake Baringo (Kampi Ya Samaki) Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q24236373,Lake Baringo Airport,LBN,Lake Baringo Airport,379
+collision,S1_country,WSM,fin/tck,WILLIAMS SONOMA INC,4,5,trp/unl,0,,,,,
+collision,S1_country,WSM,lng/i31,Samoa,4,5,trp/unl,1,Q683,Samoa,ws|SAM|Western Samoa|Independent State of Samoa,Samoa,954976
+collision,S1_country,WSM,trp/iata,Wiseman Airport,4,5,trp/unl,0,,,,,
+collision,S1_country,WSM,trp/ica2,Wisman Aviation,4,5,trp/unl,0,,,,,
+collision,S1_country,MHL,lng/i31,Marshall Islands,3,6,lng/b47;lng/i63;trp/unl,1,Q709,Marshall Islands,mh|Republic of the Marshall Islands,Marshall Islands,703937
+collision,S1_country,MHL,trp/iata,Marshall Memorial Municipal Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q14704430,Marshall Memorial Municipal Airport,MHL|KMHL,Marshall Memorial Municipal Airport,493
+collision,S1_country,MHL,trp/ica2,Meridian Airlines,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,ASM,fin/tck,AVINO SILVER & GOLD MINES LTD,4,6,cmp/ext;trp/unl,0,,,,,
+collision,S1_country,ASM,lng/i31,American Samoa,4,6,cmp/ext;trp/unl,1,Q16641,American Samoa,"as|American Sāmoa|East Samoa|ISO 3166-1:AS|Samoa (American)|Samoa, United States|Territory of American Samoa|U.S. Samoa|US Samoa",American Samoa,782961
+collision,S1_country,ASM,trp/iata,Asmara International Airport,4,6,cmp/ext;trp/unl,1,Q522898,Asmara International Airport,ASM|HHAS,Asmara International Airport,22245
+collision,S1_country,ASM,trp/ica2,Awesome Flight Services (PTY) Ltd.,4,6,cmp/ext;trp/unl,1,Q136786680,Aspen Mountain Air,,,
+collision,S1_country,ALG,fin/tck,ALAMO GROUP INC,4,7,lng/b47;lng/i63;trp/unl,1,Q21198484,Alamo Group,,,
+collision,S1_country,ALG,lng/ioc,Algeria,4,7,lng/b47;lng/i63;trp/unl,1,Q262,Algeria,Djazaïr|Dzayer|People's Democratic Republic of Algeria,Algeria,2206227
+collision,S1_country,ALG,trp/iata,Houari Boumediene Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q623452,Algiers Houari Boumediene Airport,ALG|Algiers Airport|Algiers International Airport|Algiers-Houari Boumediene Airport|DAAG|Maison Blanche Airport,Houari Boumediene Airport,64599
+collision,S1_country,ALG,trp/ica2,Air Logistics,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,CGO,fin/tck,CALAMOS GLOBAL TOTAL RETURN FUND,4,5,trp/unl,0,,,,,
+collision,S1_country,CGO,lng/ioc,Congo,4,5,trp/unl,1,Q971,Republic of the Congo,Congo|CGO|cg|Congo (Brazzaville)|Congo Republic|Congo-Brazzaville|Rep. Congo|Republic of Congo|Republique du Congo|République du Congo,Republic of the Congo,868351
+collision,S1_country,CGO,trp/iata,Zhengzhou Xinzheng International Airport,4,5,trp/unl,1,Q2034869,Zhengzhou Xinzheng International Airport,CGO|ZHCC,Zhengzhou Xinzheng International Airport,35343
+collision,S1_country,CGO,trp/ica2,Chicago Air,4,5,trp/unl,0,,,,,
+collision,S1_country,DNK,lng/i31,Denmark,3,6,lng/b47;lng/i63;trp/unl,1,Q35,Denmark,Danmark|Dania|TAN|dk|Danemark|Denmark proper|metropolitan Denmark,Denmark,2186195
+collision,S1_country,DNK,trp/iata,Dnipro International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1431225,Dnipro International Airport,DNK|UKDD,Dnipro International Airport,5561
+collision,S1_country,DNK,trp/ica2,D&K Aviation,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,TCD,lng/i31,Chad,3,6,lng/b47;lng/i63;trp/unl,1,Q657,Chad,GUM|CHA|td|Republic of Chad,Chad,868374
+collision,S1_country,TCD,trp/iata,Tarapacá Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q23726048,Tarapacá Airport,TCD|SKRA|TARAPACA,Tarapacá Airport,589
+collision,S1_country,TCD,trp/ica2,Tchad Airlines,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,RSA,lng/ioc,South Africa,3,4,trp/unl,1,Q258,South Africa,SA|RSA|R.S.A.|Republic of South Africa|zaf,South Africa,2964447
+collision,S1_country,RSA,trp/iata,Santa Rosa Airport,3,4,trp/unl,1,Q974172,Santa Rosa Airport,RSA|SAZR,Santa Rosa Airport (Argentina),1278
+collision,S1_country,RSA,trp/ica2,Elisra Airlines,3,4,trp/unl,0,,,,,
+collision,S1_country,BER,lng/ioc,Bermuda,3,6,lng/b47;lng/i63;trp/unl,1,Q23635,Bermuda,Somers Isles|bm|Atlantic/Bermuda|Barmuda|Barmuda I.|Barmuda Isl.|Barmuda Islands|Barmudas|Bermoothes|Bermuda Islands|Bermudian Islands|Colony of Bermuda|Devil's Isles|Isle of Devils|Somers Islands|Summer's Isles|Summers' Isles|Territory of Bermuda|The Somers Isles|Virgineola,Bermuda,1285809
+collision,S1_country,BER,trp/iata,Berlin Brandenburg Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q160556,Berlin Brandenburg Airport,Berlin Airport|BER Airport|Berlin airport|Berlin Brandenburg|Brandenburg Airport|Willy Brandt Airport,Berlin Brandenburg Airport,302494
+collision,S1_country,BER,trp/ica2,Air Berlin,3,6,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,BGD,lng/i31,Bangladesh,3,6,lng/b47;lng/i63;trp/unl,1,Q902,Bangladesh,bd|Bangla Desh|Country of Bengal|Land of Bengal|People's Republic of Bangladesh,Bangladesh,2756639
+collision,S1_country,BGD,trp/iata,Hutchinson County Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3084717,Hutchinson County Airport,BGD|KBGD,Hutchinson County Airport,840
+collision,S1_country,BGD,trp/ica2,Air Bangladesh,3,6,lng/b47;lng/i63;trp/unl,1,Q2664003,Air Bangladesh,,Air Bangladesh,1028
+collision,S1_country,SLB,fin/tck,SLB LIMITED/NV,4,5,trp/unl,1,Q1425316,SLB,Schlumberger|Schlumberger Limited|SLB Limited|SLB Ltd,SLB,77835
+collision,S1_country,SLB,lng/i31,Solomon Islands,4,5,trp/unl,1,Q685,Solomon Islands,the Solomon Islands|SOL|sb,Solomon Islands,592997
+collision,S1_country,SLB,trp/iata,Storm Lake Municipal Airport,4,5,trp/unl,1,Q7620147,Storm Lake Municipal Airport,SLB|KSLB,Storm Lake Municipal Airport,558
+collision,S1_country,SLB,trp/ica2,Slok Air,4,5,trp/unl,0,,,,,
+collision,S1_country,PLE,lng/ioc,State of Palestine,2,5,lng/b47;lng/i63;trp/unl,1,Q219060,Palestine,State of Palestine|PSE,Palestine,3144554
+collision,S1_country,PLE,trp/iata,Paiela Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35287004,Paiela Airport,PLE,,
+collision,S1_country,SEY,lng/ioc,Seychelles,3,6,lng/b47;lng/i63;trp/unl,1,Q1042,Seychelles,Republic of Seychelles|sc|SEY,Seychelles,1548908
+collision,S1_country,SEY,trp/iata,Sélibaby Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q7666021,Sélibaby Airport,SEY|GQNS|Selibabi Airport|Selibaby Airport,Sélibaby Airport,340
+collision,S1_country,SEY,trp/ica2,Air Seychelles,3,6,lng/b47;lng/i63;trp/unl,1,Q407783,Air Seychelles,,Air Seychelles,37155
+collision,S1_country,GBS,lng/ioc,Guinea-Bissau,2,5,lng/b47;lng/i63;trp/unl,1,Q1007,Guinea-Bissau,GBS|gw|Republic of Guinea-Bissau,Guinea-Bissau,814188
+collision,S1_country,GBS,trp/ica2,Global Air Services Nigeria,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,ATG,lng/i31,Antigua and Barbuda,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q781,Antigua and Barbuda,Antigua-Barbuda|Antigua & Barbuda|Antigua–Barbuda,Antigua and Barbuda,572100
+collision,S1_country,ATG,trp/iata,Minhas Air Base,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q3696026,PAF Base Minhas,Kamra Airbase|Minhas Airbase,PAF Base Minhas,11125
+collision,S1_country,ATG,trp/ica2,Aerotrans Airline,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,ATA,lng/i31,Antarctica,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,ATA,trp/iata,Comandante FAP German Arias Graziani Airport,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q938041,Comandante FAP Germán Arias Graziani Airport,ATA|ANTA HUARAZ|Comandante FAP German Arias Graziani Airport|SPHZ,Comandante FAP Germán Arias Graziani Airport,2636
+collision,S1_country,ATA,trp/ica2,Air Transport Association,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,VCT,lng/i31,Saint Vincent and the Grenadines,3,4,trp/unl,1,Q757,Saint Vincent and the Grenadines,St. Vincent|St Vincent|Saint Vincent|vc|St Vincent and the Grenadines|St. Vincent and the Grenadines|vct,Saint Vincent and the Grenadines,569994
+collision,S1_country,VCT,trp/iata,Victoria Regional Airport,3,4,trp/unl,1,Q7926998,Victoria Regional Airport,VCT|KVCT,Victoria Regional Airport,5846
+collision,S1_country,VCT,trp/ica2,Viscount Air Service,3,4,trp/unl,0,,,,,
+collision,S1_country,CHA,fin/tck,Chagee Holdings Ltd.,4,6,trp/unl;wrt/iau,0,,,,,
+collision,S1_country,CHA,lng/ioc,Chad,4,6,trp/unl;wrt/iau,1,Q657,Chad,GUM|CHA|td|Republic of Chad,Chad,868374
+collision,S1_country,CHA,trp/iata,Chattanooga Metropolitan Airport (Lovell Field),4,6,trp/unl;wrt/iau,1,Q1708272,Chattanooga Metropolitan Airport,CHA|KCHA|Lovell Field,Chattanooga Metropolitan Airport,30028
+collision,S1_country,CHA,trp/ica2,Central Flying Service,4,6,trp/unl;wrt/iau,0,,,,,
+collision,S1_country,BWA,fin/tck,BORGWARNER INC,4,7,lng/b47;lng/i63;trp/unl,1,Q825943,BorgWarner,BorgWarner Inc.,BorgWarner,91110
+collision,S1_country,BWA,lng/i31,Botswana,4,7,lng/b47;lng/i63;trp/unl,1,Q963,Botswana,bw|Lefatshe la Botswana|Republic of Botswana,Botswana,980343
+collision,S1_country,BWA,trp/iata,Gautam Buddha International Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q3275873,Gautam Buddha Airport,BWA|Gautam Buddha International Airport|VNBW,Gautam Buddha International Airport,11353
+collision,S1_country,BWA,trp/ica2,Caribbean Airlines,4,7,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,MDG,lng/i31,Madagascar,3,6,lng/b47;lng/i63;trp/unl,1,Q1019,Madagascar,Malagascar|Malagaskar|mg|Republic of Madagascar,Madagascar,1786686
+collision,S1_country,MDG,trp/iata,Mudanjiang Hailang International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1209229,Mudanjiang Hailang International Airport,MDG|ZYMD,Mudanjiang Hailang International Airport,2778
+collision,S1_country,MDG,trp/ica2,Air Madagascar,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,SIN,lng/ioc,Singapore,2,4,cmp/css;trp/unl,0,,,,,
+collision,S1_country,SIN,trp/iata,Singapore Changi Airport,2,4,cmp/css;trp/unl,1,Q32159,Singapore Changi Airport,SIN|WSSS|Changi Airport|Changi Airport Singapore|Changi International Airport,Changi Airport,400884
+collision,S1_country,ANT,lng/ioc,Antigua and Barbuda,3,7,lng/b47;lng/i63;trp/unl;wrt/iau,1,Q781,Antigua and Barbuda,Antigua-Barbuda|Antigua & Barbuda|Antigua–Barbuda,Antigua and Barbuda,572100
+collision,S1_country,ANT,trp/iata,Sankt Anton am Arlberg Heliport,3,7,lng/b47;lng/i63;trp/unl;wrt/iau,0,,,,,
+collision,S1_country,ANT,trp/ica2,Air North Charter - Canada,3,7,lng/b47;lng/i63;trp/unl;wrt/iau,1,Q407673,Air North,Yukon's Airline,Air North,39924
+collision,S1_country,FAR,lng/ioc,Faroe Islands,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,FAR,trp/iata,Hector International Airport,3,6,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S1_country,FAR,trp/ica2,Falcon Air,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,NGA,lng/i31,Nigeria,3,6,lng/b47;lng/i63;trp/unl,1,Q1033,Nigeria,Federal Republic of Nigeria|Naija,Nigeria,2446632
+collision,S1_country,NGA,trp/iata,Young Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q17605,Young Airport,,Young Airport,919
+collision,S1_country,NGA,trp/ica2,Nigeria Airways,3,6,lng/b47;lng/i63;trp/unl,1,Q1189310,Nigeria Airways,,Nigeria Airways,26005
+collision,S1_country,GER,lng/ioc,Germany,3,4,trp/unl,2,,,,,
+collision,S1_country,GER,trp/iata,Rafael Cabrera Airport,3,4,trp/unl,1,Q3545314,Rafael Cabrera Mustelier Airport,GER|MUNG,Rafael Cabrera Mustelier Airport,2011
+collision,S1_country,GER,trp/ica2,German International Air Lines,3,4,trp/unl,2,,,,,
+collision,S1_country,IRI,lng/ioc,Iran (Islamic Republic of),3,7,grf/shc;lng/b47;lng/i63;trp/unl,1,Q794,Iran,Islamic Rep. Iran|Islamic Republic of Iran|IRI|ir,Iran,8483448
+collision,S1_country,IRI,trp/iata,Iringa Airport,3,7,grf/shc;lng/b47;lng/i63;trp/unl,1,Q6070002,Iringa Airport,IRI|HTIR,Iringa Airport,1418
+collision,S1_country,IRI,trp/ica2,Navid,3,7,grf/shc;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,BHU,lng/ioc,Bhutan,2,5,lng/b47;lng/i63;trp/unl,1,Q917,Bhutan,bt|BHU|Kingdom of Bhutan,Bhutan,1447961
+collision,S1_country,BHU,trp/iata,Bhavnagar Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q511349,Bhavnagar Airport,BHU|BHAVNAGAR|VABV,Bhavnagar Airport,9627
+collision,S1_country,NCL,fin/tck,Northann Corp.,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,NCL,lng/i31,New Caledonia,4,7,lng/b47;lng/i63;trp/unl,1,Q33788,New Caledonia,New Cal|Territory of New Caledonia and Dependencies,New Caledonia,974437
+collision,S1_country,NCL,trp/iata,Newcastle International Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q8975,Newcastle International Airport,Newcastle|NCL|Newcastle Airport|EGNT,Newcastle International Airport,103689
+collision,S1_country,NCL,trp/ica2,ACA-Ancargo Air Sociedade de Transporte de Carga Lda,4,7,lng/b47;lng/i63;trp/unl,1,Q130260945,Air Guicango,,,
+collision,S1_country,CAY,lng/ioc,Cayman Islands,3,6,lng/b47;lng/i63;trp/unl,1,Q5785,Cayman Islands,Caymans|CAY|ky,Cayman Islands,790402
+collision,S1_country,CAY,trp/iata,Cayenne – Félix Eboué Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q794542,Cayenne – Félix Eboué Airport,Cayenne Airport|Cayenne International Airport|CAYENNE-FÉLIX EBOUÉ|CAYENNE-FELIX-EBOUE airport|Rochambeau Airport|SOCA|CAY,Cayenne – Félix Eboué Airport,23892
+collision,S1_country,CAY,trp/ica2,Cayman Airways,3,6,lng/b47;lng/i63;trp/unl,1,Q1052017,Cayman Airways,,Cayman Airways,30392
+collision,S1_country,VAT,fin/tck,"VARSAL TECH, INC.",4,5,trp/unl,0,,,,,
+collision,S1_country,VAT,lng/i31,Holy See,4,5,trp/unl,1,Q237,Vatican City,Vatican|The Vatican|Holy See|Papal State|Città del Vaticano|State of Vatican City|Stato della Città del Vaticano|Status Civitatis Vaticanae|Vatican City State,Vatican City,1468868
+collision,S1_country,VAT,trp/iata,Vatomandry Airport,4,5,trp/unl,1,Q12695452,Vatomandry Airport,VAT|FMMY,,
+collision,S1_country,VAT,trp/ica2,Visionair,4,5,trp/unl,1,Q4827676,Avant Airlines,,Avant Airlines,687
+collision,S1_country,TKL,lng/i31,Tokelau,2,5,lng/b47;lng/i63;trp/unl,1,Q36823,Tokelau,tk|Tokelau Islands|Union Islands,Tokelau,263107
+collision,S1_country,TKL,trp/iata,Taku Lodge Seaplane Base,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S1_country,MSR,lng/i31,Montserrat,3,6,lng/b47;lng/i63;trp/unl,1,Q13353,Montserrat,MS|MSR|ms|Island of Montserrat,Montserrat,720992
+collision,S1_country,MSR,trp/iata,Muş Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1432103,Muş Airport,MSR|LTCK|Mus Airbase|Muş Sultan Alparslan,Muş Airport,2180
+collision,S1_country,MSR,trp/ica2,Egyptair,3,6,lng/b47;lng/i63;trp/unl,1,Q374740,EgyptAir,MS|MSR|Egypt Air|United Arab Airlines,EgyptAir,101873
+collision,S2_currency,BOV,fin/i42,Mvdol,3,6,lng/b47;lng/i63;trp/unl,1,Q5731551,MVDOL,BOV|Mvdol,MVDOL,82
+collision,S2_currency,BOV,trp/iata,Boang Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q35247238,Boang,BOV,,
+collision,S2_currency,BOV,trp/ica2,Boliviana de Aviacion (OB),3,6,lng/b47;lng/i63;trp/unl,1,Q891372,Boliviana de Aviación,BOA|BoA|Bolivian National Strategic Public Aviation Company,Boliviana de Aviación,40784
+collision,S2_currency,HTG,fin/i42,Gourde,3,4,trp/unl,1,Q203955,gourde,HTG|Haitian Gourde,Haitian gourde,30437
+collision,S2_currency,HTG,trp/iata,Khatanga Airport,3,4,trp/unl,1,Q2637719,Khatanga Airport,HTG|UOHH,Khatanga Airport,1896
+collision,S2_currency,HTG,trp/ica2,Grossmann Air Service,3,4,trp/unl,0,,,,,
+collision,S2_currency,SEK,fin/i42,Swedish Krona,3,6,lng/b47;lng/i63;trp/unl,1,Q122922,Swedish krona,SEK,Swedish krona,209452
+collision,S2_currency,SEK,trp/iata,Srednekolymsk Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q16897241,Srednekolymsk Airport,SEK,Srednekolymsk Airport,747
+collision,S2_currency,SEK,trp/ica2,Skyjet,3,6,lng/b47;lng/i63;trp/unl,1,Q55000205,Star East Airline,,,
+collision,S2_currency,TRY,fin/i42,Turkish Lira,3,6,lng/b47;lng/i63;trp/unl,1,Q172872,Turkish lira,TRL|TRY|₺,Turkish lira,203528
+collision,S2_currency,TRY,trp/iata,Tororo Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q6588606,Tororo Airport,Tororo|TRY,Tororo Airport,433
+collision,S2_currency,TRY,trp/ica2,Tristar Airlines,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,SSP,fin/i42,South Sudanese Pound,4,8,cmp/reg;lng/b47;lng/i63;trp/unl,1,Q244366,South Sudanese pound,,South Sudanese pound,21438
+collision,S2_currency,SSP,fin/tck,E.W. SCRIPPS Co,4,8,cmp/reg;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,SSP,trp/iata,Silver Plains Airport,4,8,cmp/reg;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,SSP,trp/ica2,Starspeed,4,8,cmp/reg;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,LYD,fin/i42,Libyan Dinar,2,3,trp/unl,1,Q190699,Libyan dinar,dinar|LYD,Libyan dinar,26722
+collision,S2_currency,LYD,trp/ica2,Lydd Air,2,3,trp/unl,1,Q6707515,LyddAir,,LyddAir,2799
+collision,S2_currency,VND,fin/i42,Dong,2,3,trp/unl,1,Q192090,Vietnamese đồng,VND|₫|đồng,Vietnamese đồng,174048
+collision,S2_currency,VND,trp/iata,Vangaindrano Airport,2,3,trp/unl,1,Q20464992,Vangaindrano Airport,FMSU|VND,,
+collision,S2_currency,USN,fin/i42,US Dollar (Next day),3,4,trp/unl,1,Q114778501,US Dollar (Next day),USN|U.S. Dollar (Next day)|United States dollar (Next day)|US Dollar [Next day],US dollar (Next day),31
+collision,S2_currency,USN,trp/iata,Ulsan Airport,3,4,trp/unl,1,Q484730,Ulsan Airport,USN|RKPU,Ulsan Airport,4652
+collision,S2_currency,USN,trp/ica2,Smarkand Aero Servise,3,4,trp/unl,0,,,,,
+collision,S2_currency,CVE,fin/i42,Cabo Verde Escudo,4,5,trp/unl,1,Q4591,Cape Verdean escudo,Cape Verde escudo,Cape Verdean escudo,47651
+collision,S2_currency,CVE,fin/tck,CENOVUS ENERGY INC.,4,5,trp/unl,0,,,,,
+collision,S2_currency,CVE,trp/iata,Coveñas Airport,4,5,trp/unl,1,Q12692332,Coveñas Airport,CVE|SKCV,Coveñas Airport,535
+collision,S2_currency,CVE,trp/ica2,Cabo Verde Express,4,5,trp/unl,1,Q2932417,Cabo Verde Express,,Cabo Verde Express,2892
+collision,S2_currency,XBB,fin/i42,Bond Markets Unit European Monetary Unit (E.M.U.-6),2,5,lng/b47;lng/i63;trp/unl,1,Q115124012,European Monetary Unit,E.M.U.-6|EMU-6|European Unit of Account currency fund 6|XBB,European Monetary Unit,350
+collision,S2_currency,XBB,trp/iata,Blubber Bay Seaplane Base,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,ZAR,fin/i42,Rand,3,6,lng/b47;lng/i63;trp/unl,1,Q181907,rand,Rand|South African rand,South African rand,181692
+collision,S2_currency,ZAR,trp/iata,Zaria Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q8066777,Zaria Airport,ZAR,Zaria Airport,740
+collision,S2_currency,ZAR,trp/ica2,Zairean Airlines,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,CUP,fin/i42,Cuban Peso,2,5,lng/b47;lng/i63;trp/unl,1,Q201505,Cuban peso,Cuban peso|CUP,Cuban peso,59417
+collision,S2_currency,CUP,trp/iata,General Francisco Bermúdez Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1322156,General José Francisco Bermúdez Airport,CUP|SVCP|Carupano / Gen. Jose|General Jose Francisco Bermudez Airport,General José Francisco Bermúdez Airport,1152
+collision,S2_currency,KPW,fin/i42,North Korean Won,2,5,lng/b47;lng/i63;trp/unl,1,Q106720,North Korean won,,North Korean won,91752
+collision,S2_currency,KPW,trp/iata,Keperveem Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q4219459,Keperveyem Airport,KPW|UHMK,Keperveyem Airport,1436
+collision,S2_currency,NOK,fin/i42,Norwegian Krone,4,7,lng/b47;lng/i63;trp/unl,1,Q132643,Norwegian krone,krone|kr|NOK,Norwegian krone,126401
+collision,S2_currency,NOK,fin/tck,NOKIA CORP,4,7,lng/b47;lng/i63;trp/unl,1,Q1418,Nokia,Oy Nokia Ab,Nokia,761961
+collision,S2_currency,NOK,trp/iata,Xavantina Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q18472584,Nova Xavantina Airport,NOK|SWXV|Xavantina Airport,,
+collision,S2_currency,NOK,trp/ica2,Nok Air,4,7,lng/b47;lng/i63;trp/unl,1,Q1065088,Nok Air,,Nok Air,43076
+collision,S2_currency,BWP,fin/i42,Pula,2,5,lng/b47;lng/i63;trp/unl,1,Q186794,Botswana pula,,Botswana pula,30701
+collision,S2_currency,BWP,trp/iata,Bewani Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35246801,Bewani Airport,BWP,,
+collision,S2_currency,MMK,fin/i42,Kyat,2,5,lng/b47;lng/i63;trp/unl,1,Q201875,kyat,K|MMK|Burmese kyat|Ks|Myanmar kyat,Myanmar kyat,42253
+collision,S2_currency,MMK,trp/iata,Emperor Nicholas II Murmansk Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1529017,Murmansk Airport,MMK|ULMM,Murmansk Airport,10115
+collision,S2_currency,UAH,fin/i42,Hryvnia,3,4,trp/unl,1,Q81893,hryvnia,UAH|hryvnya|Ukrainian hryvnia,Ukrainian hryvnia,114559
+collision,S2_currency,UAH,trp/iata,Ua Huka Airport,3,4,trp/unl,1,Q4264098,Ua Huka Airport,UAH|UA HUKA,Ua Huka Airport,1155
+collision,S2_currency,UAH,trp/ica2,University Air Squadron,3,4,trp/unl,0,,,,,
+collision,S2_currency,SVC,fin/i42,El Salvador Colon,3,6,lng/b47;lng/i63;trp/unl,1,Q829043,Salvadoran colón,Colón|Colon|Salvadoran colon|Salvadorean colon|Salvadorean colón,Salvadoran colón,33165
+collision,S2_currency,SVC,fin/tck,Service Properties Trust,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,SVC,trp/iata,Grant County Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3913188,Grant County Airport,SVC|KSVC,Grant County Airport (New Mexico),4517
+collision,S2_currency,TOP,fin/i42,Pa’anga,4,8,lng/b47;lng/i63;trp/tld;trp/unl,1,Q4613,Tongan paʻanga,Pa anga|Pa'anga|Tonga pa`anga|Tonga paʻanga|Tongan pa`anga,Tongan paʻanga,13745
+collision,S2_currency,TOP,fin/tck,TOP Financial Group Ltd,4,8,lng/b47;lng/i63;trp/tld;trp/unl,0,,,,,
+collision,S2_currency,TOP,trp/iata,Philip Billard Municipal Airport,4,8,lng/b47;lng/i63;trp/tld;trp/unl,1,Q7183231,Philip Billard Municipal Airport,TOP|KTOP,Philip Billard Municipal Airport,1567
+collision,S2_currency,TOP,trp/ica2,Top Air,4,8,lng/b47;lng/i63;trp/tld;trp/unl,0,,,,,
+collision,S2_currency,MUR,fin/i42,Mauritius Rupee,4,7,lng/b47;lng/i63;trp/unl,1,Q212967,Mauritian rupee,MUR|Mauritius rupee|Rupee (1877-date),Mauritian rupee,43255
+collision,S2_currency,MUR,fin/tck,MURPHY OIL CORP,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,MUR,trp/iata,Marudi Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q651316,Marudi Airport,MUR|WBGM,Marudi Airport,1682
+collision,S2_currency,MUR,trp/ica2,Aerolinea Muri,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,BRL,fin/i42,Brazilian Real,3,6,lng/b47;lng/i63;trp/unl,1,Q173117,Brazilian real,,Brazilian real,177586
+collision,S2_currency,BRL,trp/iata,Southeast Iowa Regional Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q7569353,Southeast Iowa Regional Airport,BRL|KBRL,Southeast Iowa Regional Airport,4396
+collision,S2_currency,BRL,trp/ica2,Air Brasd'or,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,TJS,fin/i42,Somoni,3,6,lng/b47;lng/i63;trp/unl,1,Q199886,Tajikistani somoni,TJS|currency of Tajikistan|Somoni|Tajik Somoni,Tajikistani somoni,21550
+collision,S2_currency,TJS,trp/iata,Tanjung Harapan Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1321698,Tanjung Harapan Airport,TJS|WALG,Tanjung Harapan Airport,1011
+collision,S2_currency,TJS,trp/ica2,Tyrolean Jet Service,3,6,lng/b47;lng/i63;trp/unl,1,Q635824,Tyrolean Jet Services,TJS,Tyrolean Jet Services,2203
+collision,S2_currency,SBD,fin/i42,Solomon Islands Dollar,3,6,lng/b47;lng/i63;trp/unl,1,Q4597,Solomon Islands dollar,Solomon Dollar,Solomon Islands dollar,12414
+collision,S2_currency,SBD,trp/iata,San Bernardino International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1626991,San Bernardino International Airport,SBD|KSBD,San Bernardino International Airport,33378
+collision,S2_currency,SBD,trp/ica2,Snowbird Airlines,3,6,lng/b47;lng/i63;trp/unl,1,Q7507059,Sibia,,Sibia (airline),237
+collision,S2_currency,TMT,fin/i42,Turkmenistan New Manat,3,7,lng/b47;lng/i63;trp/unl;wrt/tz,1,Q486637,Turkmenistan new manat,TMT|Turkmenistani new manat,Turkmen manat,21239
+collision,S2_currency,TMT,trp/iata,Trombetas Airport,3,7,lng/b47;lng/i63;trp/unl;wrt/tz,1,Q7232170,Porto Trombetas Airport,SBTB|TMT|Trombetas Airport,Porto Trombetas Airport,1137
+collision,S2_currency,TMT,trp/ica2,Trans Midwest Airlines,3,7,lng/b47;lng/i63;trp/unl;wrt/tz,0,,,,,
+collision,S2_currency,AMD,fin/i42,Armenian Dram,4,5,trp/unl,1,Q130498,Armenian dram,dram,Armenian dram,53052
+collision,S2_currency,AMD,fin/tck,ADVANCED MICRO DEVICES INC,4,5,trp/unl,1,Q128896,AMD,Advanced Micro Devices,AMD,563436
+collision,S2_currency,AMD,trp/iata,Sardar Vallabh Patel International Airport,4,5,trp/unl,1,Q401700,Sardar Vallabhbhai Patel International Airport,AMD|AHMEDABAD|Ahmedabad Airport|Ahmedabad Sardar Vallabhbhai Patel International Airport|SVP Airport|VAAH,Ahmedabad Airport,127869
+collision,S2_currency,AMD,trp/ica2,Aerolineas Medellin,4,5,trp/unl,1,Q14628869,South African Red Cross Air Mercy Service,SA Red Cross Air Ambulance Service|South African Red Cross Air Ambulance Service,South African Red Cross Air Mercy Service,727
+collision,S2_currency,PAB,fin/i42,Balboa,3,6,lng/b47;lng/i63;trp/unl,1,Q210472,Panamanian balboa,,Panamanian balboa,60809
+collision,S2_currency,PAB,trp/iata,Bilaspur Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q598024,Bilaspur Airport,PAB|VABI,Bilasa Devi Kevat Airport,11731
+collision,S2_currency,PAB,trp/ica2,Pacific Air Boats,3,6,lng/b47;lng/i63;trp/unl,1,Q1758698,Panair do Brasil,PB|PAB|Panair|BANDEIRANTE|NYRBA do Brasil,Panair do Brasil,8526
+collision,S2_currency,EGP,fin/i42,Egyptian Pound,3,4,trp/unl,1,Q199462,Egyptian pound,,Egyptian pound,142554
+collision,S2_currency,EGP,fin/tck,EASTGROUP PROPERTIES INC,3,4,trp/unl,0,,,,,
+collision,S2_currency,EGP,trp/iata,Maverick County Memorial International Airport,3,4,trp/unl,1,Q650090,Maverick County Memorial International Airport,EGP,Maverick County Memorial International Airport,1907
+collision,S2_currency,ERN,fin/i42,Nakfa,2,3,trp/unl,1,Q171503,nakfa,Eritrean nakfa|Nkf,Eritrean nakfa,23459
+collision,S2_currency,ERN,trp/iata,Eirunepé Airport,2,3,trp/unl,1,Q5349885,Eirunepé Airport,SWEI|ERN|Eirunepe Airport,Eirunepé Airport,476
+collision,S2_currency,IDR,fin/i42,Rupiah,4,7,lng/b47;lng/i63;trp/unl,1,Q41588,rupiah,Indonesian rupiah|Rupiah (1965-date),Indonesian rupiah,184571
+collision,S2_currency,IDR,fin/tck,"Idaho Strategic Resources, Inc.",4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,IDR,trp/iata,Devi Ahilya Bai Holkar International Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q1658243,Devi Ahilyabai Holkar Airport,IDR|INDORE|VAID,Devi Ahilya Bai Holkar Airport,48494
+collision,S2_currency,IDR,trp/ica2,Indicator Company,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,AOA,fin/i42,Kwanza,2,5,lng/b47;lng/i63;trp/unl,1,Q200337,kwanza,AOA|Angolan kwanza|Kz,Angolan kwanza,34136
+collision,S2_currency,AOA,trp/ica2,Alcon Servicios Aereos,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S2_currency,SDG,fin/i42,Sudanese Pound,2,5,lng/b47;lng/i63;trp/unl,1,Q271206,Sudanese pound,Sudanese Pound,Sudanese pound,24546
+collision,S2_currency,SDG,trp/iata,Sanandaj Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1152366,Sanandaj Airport,SDG|OICS,Sanandaj Airport,1672
+collision,S2_currency,HUF,fin/i42,Forint,3,6,lng/b47;lng/i63;trp/unl,1,Q47190,forint,Ft|HUF|Hungarian forint,Hungarian forint,135577
+collision,S2_currency,HUF,trp/iata,"Terre Haute Regional Airport, Hulman Field",3,6,lng/b47;lng/i63;trp/unl,1,Q7703348,Terre Haute International Airport,HUF|Hulman Field Air National Guard Base|KHUF,Terre Haute Regional Airport,4194
+collision,S2_currency,HUF,trp/ica2,Hungarian Air Force,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,RON,fin/i42,Romanian Leu,3,4,trp/unl,1,Q131645,Romanian leu,L|RON|leu românesc,Romanian leu,119883
+collision,S2_currency,RON,trp/iata,Juan Jose Rondon Airport,3,4,trp/unl,1,Q5685331,Juan José Rondón Airport,RON|SKPA|Juan Jose Rondon Airport|PAIPA JUAN JOSE RONDON,Juan José Rondón Airport,2457
+collision,S2_currency,RON,trp/ica2,Nauru Air Corporation,3,4,trp/unl,1,Q192459,Nauru Airlines,Air Nauru|Our Airline,Nauru Airlines,53699
+collision,S2_currency,GIP,fin/i42,Gibraltar Pound,2,6,bio/gen;lng/b47;lng/i63;trp/unl,1,Q41429,Gibraltar pound,GIP,Gibraltar pound,31405
+collision,S2_currency,GIP,trp/ica2,Air Guinee Express,2,6,bio/gen;lng/b47;lng/i63;trp/unl,1,Q2462436,Air Guinee Express,,Air Guinee Express,2435
+collision,S2_currency,BBD,fin/i42,Barbados Dollar,4,7,lng/b47;lng/i63;trp/unl,1,Q194351,Barbadian dollar,,Barbadian dollar,26460
+collision,S2_currency,BBD,fin/tck,BANK BRADESCO,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,BBD,trp/iata,Curtis Field,4,7,lng/b47;lng/i63;trp/unl,1,Q1656327,Curtis Field,BBD|KBBD,Curtis Field,1080
+collision,S2_currency,BBD,trp/ica2,Bluebird Cargo,4,7,lng/b47;lng/i63;trp/unl,1,Q885973,Bluebird Nordic,Bluebird Cargo,Bluebird Nordic,3491
+collision,S2_currency,BSD,fin/i42,Bahamian Dollar,3,4,trp/unl,1,Q194339,Bahamian dollar,BSD,Bahamian dollar,43008
+collision,S2_currency,BSD,trp/iata,Baoshan Yunrui Airport,3,4,trp/unl,1,Q986556,Baoshan Yunrui Airport,BSD|ZPBS,Baoshan Yunrui Airport,1425
+collision,S2_currency,BSD,trp/ica2,Blue Star Airlines,3,4,trp/unl,0,,,,,
+collision,S2_currency,COP,fin/i42,Colombian Peso,4,7,lng/b47;lng/i63;trp/unl,1,Q244819,Colombian peso,peso|$|CO $|CO$|COL$|Colomb peso,Colombian peso,66432
+collision,S2_currency,COP,fin/tck,CONOCOPHILLIPS,4,7,lng/b47;lng/i63;trp/unl,1,Q214763,ConocoPhillips,Continental Oil Company|Conoco Phillips,ConocoPhillips,139393
+collision,S2_currency,COP,trp/iata,Cooperstown-Westville Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q1654460,Cooperstown-Westville Airport,COP,Cooperstown-Westville Airport,967
+collision,S2_currency,COP,trp/ica2,Copper State Air Service,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,KYD,fin/i42,Cayman Islands Dollar,2,5,lng/b47;lng/i63;trp/unl,1,Q319885,Cayman Islands dollar,Dollar (1972-date),Cayman Islands dollar,29985
+collision,S2_currency,KYD,trp/iata,Lanyu Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q717735,Lanyu Airport,KYD|RCLY,Lanyu Airport,2544
+collision,S2_currency,XXX,fin/i42,The codes assigned for transactions where no currency is involved,3,5,trp/tld;trp/unl,1,Q115153509,No currency,XXX,,
+collision,S2_currency,XXX,trp/iata,Serik Bus Station Helipad,3,5,trp/tld;trp/unl,0,,,,,
+collision,S2_currency,XXX,trp/ica2,ASL,3,5,trp/tld;trp/unl,0,,,,,
+collision,S2_currency,AFN,fin/i42,Afghani,2,5,lng/b47;lng/i63;trp/unl,1,Q199471,afghani,AFN|؋|Afghan afghani,Afghan afghani,82176
+collision,S2_currency,AFN,trp/iata,Jaffrey Airfield Silver Ranch Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q2902452,Jaffrey Airport – Silver Ranch Airpark,AFN|KAFN,Jaffrey Airport–Silver Ranch,757
+collision,S2_currency,ALL,fin/i42,Lek,3,7,grf/gql;lng/b47;lng/i63;trp/unl,1,Q125999,Albanian lek,ALL|Lek,Albanian lek,63130
+collision,S2_currency,ALL,fin/tck,ALLSTATE CORP,3,7,grf/gql;lng/b47;lng/i63;trp/unl,1,Q2645636,Allstate,Allstate Insurance|The Allstate Corporation,Allstate,92456
+collision,S2_currency,ALL,trp/ica2,Aerovallarta,3,7,grf/gql;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,SGD,fin/i42,Singapore Dollar,3,6,lng/b47;lng/i63;trp/unl,1,Q190951,Singapore dollar,dollar|dollars|$|SGD|Ringgit Singapore|S$,Singapore dollar,156479
+collision,S2_currency,SGD,trp/iata,Sønderborg Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1432970,Sønderborg Airport,EKSB|SGD|SONDERBORG airport,Sønderborg Airport,5769
+collision,S2_currency,SGD,trp/ica2,Sky Gate International Aviation,3,6,lng/b47;lng/i63;trp/unl,1,Q17088704,PUTANG INA KA Airways,Maris Arlanda Airways,XplorAsia Airways,2811
+collision,S2_currency,PYG,fin/i42,Guarani,2,3,trp/unl,1,Q207514,Paraguayan guaraní,Guarani (1944-date)|Paraguayan guarani,Paraguayan guaraní,30307
+collision,S2_currency,PYG,trp/iata,Pakyong Airport,2,3,trp/unl,1,Q7126092,Pakyong Airport,PAKYONG|VEPY,Pakyong Airport,30592
+collision,S2_currency,SHP,fin/i42,Saint Helena Pound,2,5,lng/b47;lng/i63;trp/unl,1,Q374453,Saint Helena pound,,Saint Helena pound,32836
+collision,S2_currency,SHP,trp/ica2,Service Aerien Francais,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,DKK,fin/i42,Danish Krone,2,5,lng/b47;lng/i63;trp/unl,1,Q25417,Danish krone,kr,Danish krone,148816
+collision,S2_currency,DKK,trp/iata,Chautauqua County-Dunkirk Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1707965,Chautauqua County/Dunkirk Airport,DKK|KDKK,Chautauqua County/Dunkirk Airport,1123
+collision,S2_currency,CLP,fin/i42,Chilean Peso,3,4,trp/unl,1,Q200050,Chilean peso,,Chilean peso,50438
+collision,S2_currency,CLP,trp/iata,Clarks Point Airport,3,4,trp/unl,1,Q1655449,Clarks Point Airport,CLP|PFCL,Clarks Point Airport,535
+collision,S2_currency,CLP,trp/ica2,Aero Club De Portugal,3,4,trp/unl,0,,,,,
+collision,S2_currency,GNF,fin/i42,Guinean Franc,3,4,trp/unl,1,Q213311,Guinean franc,,Guinean franc,14933
+collision,S2_currency,GNF,trp/iata,Gansner Field,3,4,trp/unl,1,Q3274627,Gansner Field,GNF,Gansner Field,996
+collision,S2_currency,GNF,trp/ica2,Gandalf Airlines,3,4,trp/unl,1,Q2530650,Gandalf Airlines,,Gandalf Airlines,1218
+collision,S2_currency,CNY,fin/i42,Yuan Renminbi,3,4,trp/unl,1,Q39099,renminbi,yuan|Chinese Yuan|yuan renminbi|yuan RMB,Renminbi,602012
+collision,S2_currency,CNY,trp/iata,Canyonlands Regional Airport,3,4,trp/unl,1,Q3275497,Canyonlands Regional Airport,CNY|KCNY,Canyonlands Regional Airport,10266
+collision,S2_currency,CNY,trp/ica2,Central Airways,3,4,trp/unl,0,,,,,
+collision,S2_currency,ILS,fin/i42,New Israeli Sheqel,3,6,lng/b47;lng/i63;trp/unl,1,Q131309,new shekel,shekel|ILS|NIS|₪|Israeli new shekel|Israeli new sheqel|new Israeli shekel|new Israeli sheqel|new sheqel,Israeli new shekel,258369
+collision,S2_currency,ILS,trp/iata,Ilopango International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q588038,Ilopango International Airport,MSSS,Ilopango International Airport,6069
+collision,S2_currency,ILS,trp/ica2,Servicios Aereos Ilsa,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,LSL,fin/i42,Loti,2,6,cmp/asm;lng/b47;lng/i63;trp/unl,1,Q208039,loti,LSL|Lesotho loti,Lesotho loti,15769
+collision,S2_currency,LSL,trp/iata,Los Chiles Airport,2,6,cmp/asm;lng/b47;lng/i63;trp/unl,1,Q20452660,Los Chiles Airport,LSL|MRLC,Los Chiles Airport,280
+collision,S2_currency,MWK,fin/i42,Malawi Kwacha,2,5,lng/b47;lng/i63;trp/unl,1,Q211694,Malawian kwacha,MWK|Kwacha (1971-date)|Malawi kwacha,Malawian kwacha,21893
+collision,S2_currency,MWK,trp/iata,Matak Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q651354,Matak Airport,MWK|WIOM,Matak Airport,1744
+collision,S2_currency,UZS,fin/i42,Uzbekistan Sum,2,5,lng/b47;lng/i63;trp/unl,1,Q487888,Uzbek som,soʻm|UZS|Uzbek sum,Uzbekistani sum,37779
+collision,S2_currency,UZS,trp/ica2,Samarkand Airways,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S2_currency,HKD,fin/i42,Hong Kong Dollar,3,4,trp/unl,1,Q31015,Hong Kong dollar,dollar|dollars|$|HKD|HK$,Hong Kong dollar,131921
+collision,S2_currency,HKD,fin/tck,AMTD Digital Inc.,3,4,trp/unl,0,,,,,
+collision,S2_currency,HKD,trp/iata,Hakodate Airport,3,4,trp/unl,1,Q1155685,Hakodate Airport,HKD|RJCH|函館,Hakodate Airport,15020
+collision,S2_currency,KMF,fin/i42,Comorian Franc,3,6,lng/b47;lng/i63;trp/unl,1,Q267264,Comorian franc,,Comorian franc,11556
+collision,S2_currency,KMF,trp/iata,Kamina Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q35269705,Kamina airport,KMF,,
+collision,S2_currency,KMF,trp/ica2,Kam Air,3,6,lng/b47;lng/i63;trp/unl,1,Q597485,Kam Air,KMF|RQ|KamAir,Kam Air,67355
+collision,S2_currency,ISK,fin/i42,Iceland Krona,3,6,lng/b47;lng/i63;trp/unl,1,Q131473,Icelandic króna,ISK|kr|Icelandic krona|króna,Icelandic króna,73434
+collision,S2_currency,ISK,trp/iata,Nashik International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q7116463,Nashik International Airport,ISK|NASIK (HAL OZAR)|VAOZ,Nashik Airport,27243
+collision,S2_currency,ISK,trp/ica2,Intersky,3,6,lng/b47;lng/i63;trp/unl,1,Q698132,InterSky,,InterSky,2288
+collision,S2_currency,BHD,fin/i42,Bahraini Dinar,2,5,lng/b47;lng/i63;trp/unl,1,Q201871,Bahraini dinar,,Bahraini dinar,66731
+collision,S2_currency,BHD,trp/iata,George Best Belfast City Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q8987,George Best Belfast City Airport,BHD|Belfast City (George Best)|Belfast City Airport|EGAC,Belfast City Airport,54169
+collision,S2_currency,MOP,fin/i42,Pataca,3,7,grf/lpg;lng/b47;lng/i63;trp/unl,1,Q241214,Macanese pataca,MOP|MOP$,Macanese pataca,65060
+collision,S2_currency,MOP,trp/iata,Mount Pleasant Municipal Airport,3,7,grf/lpg;lng/b47;lng/i63;trp/unl,1,Q2876092,Mount Pleasant Municipal Airport,MOP|KMOP,Mount Pleasant Municipal Airport (Michigan),1025
+collision,S2_currency,MOP,trp/ica2,Aeropublicitaria De Angola,3,7,grf/lpg;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S2_currency,XAF,fin/i42,CFA Franc BEAC,2,3,trp/unl,1,Q847739,Central African CFA franc,franc CFA,Central African CFA franc,94054
+collision,S2_currency,XAF,trp/ica2,Executive Air Fleet,2,3,trp/unl,0,,,,,
+collision,S2_currency,SCR,fin/i42,Seychelles Rupee,3,4,trp/unl,1,Q4595,Seychellois rupee,Rupee|Seychelles Rupee|SRe,Seychellois rupee,25382
+collision,S2_currency,SCR,trp/iata,Scandinavian Mountains Airport,3,4,trp/unl,1,Q10687975,Sälen/Scandinavian Mountains Airport,Sälen Trysil Airport|Sälen–Trysil Airport,Sälen/Scandinavian Mountains Airport,14595
+collision,S2_currency,SCR,trp/ica2,Si-Chang Flying Service,3,4,trp/unl,1,Q15674354,Silver Cloud Air,,,
+collision,S2_currency,AED,fin/i42,UAE Dirham,2,5,lng/b47;lng/i63;trp/unl,1,Q200294,United Arab Emirates dirham,AED|Dirham (1973-date)|Emirati dirham|U.A.E. dirham|UAE dirham,United Arab Emirates dirham,300373
+collision,S2_currency,AED,trp/ica2,Aerotrans Airlines,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,OGE,fin/tck,OGE ENERGY CORP.,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,OGE,trp/iata,Ogeranang Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35285537,Ogeranang,OGE,,
+collision,S3_ticker_airport,MFG,fin/tck,MIZUHO FINANCIAL GROUP INC,2,5,lng/b47;lng/i63;trp/unl,1,Q166621,Mizuho Financial Group,"Mizuho Financial Group, Inc.",Mizuho Financial Group,69466
+collision,S3_ticker_airport,MFG,trp/iata,Muzaffarabad Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1529222,Muzaffarabad Airport,MFG|OPMF,Muzaffarabad Airport,1964
+collision,S3_ticker_airport,LYB,fin/tck,LyondellBasell Industries N.V.,2,3,trp/unl,1,Q899255,LyondellBasell,Lyondell Basell|Lyondell Basell Industries|LyondellBasell Industries,LyondellBasell,55026
+collision,S3_ticker_airport,LYB,trp/iata,Edward Bodden Little Cayman Airfield,2,3,trp/unl,1,Q5341935,Edward Bodden Airfield,LYB|Bodden Field Airport|MWCL,Edward Bodden Airfield,3956
+collision,S3_ticker_airport,CNS,fin/tck,"COHEN & STEERS, INC.",3,6,lng/b47;lng/i63;trp/unl,1,Q115056594,Cohen & Steers,,Cohen & Steers,9090
+collision,S3_ticker_airport,CNS,trp/iata,Cairns International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q474632,Cairns Airport,CNS|CAIRNS|Cairns International Airport|YBCS,Cairns Airport,43733
+collision,S3_ticker_airport,CNS,trp/ica2,Centennial Flight Centre,3,6,lng/b47;lng/i63;trp/unl,1,Q7200998,PlaneSense,,PlaneSense,9526
+collision,S3_ticker_airport,DTE,fin/tck,DTE ENERGY CO,2,3,trp/unl,1,Q5206232,DTE Energy,DTE|Detroit Edison,DTE Energy,39421
+collision,S3_ticker_airport,DTE,trp/iata,Daet Airport,2,3,trp/unl,1,Q2901296,Bagasbas Airport,DTE|Daet Airport|RPUD,Bagasbas Airport,2383
+collision,S3_ticker_airport,PCG,fin/tck,PG&E Corp,3,6,lng/b47;lng/i63;trp/unl,1,Q108535726,PG&E Corporation,,,
+collision,S3_ticker_airport,PCG,trp/iata,Paso Caballos Airport,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,PCG,trp/ica2,Aeropostal Cargo de Mexico,3,6,lng/b47;lng/i63;trp/unl,1,Q4272284,Aeropostal Cargo de México,Aeropostal|Aeropostal Cargo,Aeropostal Cargo de México,541
+collision,S3_ticker_airport,MXC,fin/tck,MEXCO ENERGY CORP,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,MXC,trp/iata,Monticello Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3613134,Monticello Airport,MXC,Monticello Airport (Utah),575
+collision,S3_ticker_airport,MXC,trp/ica2,Compania Mexicargo,3,6,lng/b47;lng/i63;trp/unl,1,Q6826138,Mexicargo,,Mexicargo,435
+collision,S3_ticker_airport,WMB,fin/tck,"WILLIAMS COMPANIES, INC.",2,5,lng/b47;lng/i63;trp/unl,1,Q930639,Williams Companies,Williams,Williams Companies,44359
+collision,S3_ticker_airport,WMB,trp/iata,Warrnambool Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7970843,Warrnambool Airport,WMB|YWBL,Warrnambool Airport,1334
+collision,S3_ticker_airport,CQP,fin/tck,"Cheniere Energy Partners, L.P.",2,3,trp/unl,1,Q105970826,"Cheniere Energy Partners, L.P.",CQP,,
+collision,S3_ticker_airport,CQP,trp/iata,Cape Flattery Airport,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,EOS,fin/tck,Eaton Vance Enhanced Equity Income Fund II,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,EOS,trp/iata,Neosho Hugh Robinson Airport,3,4,trp/unl,1,Q3016218,Neosho Hugh Robinson Airport,EOS|KEOS,Neosho Hugh Robinson Airport,516
+collision,S3_ticker_airport,EOS,trp/ica2,Eliossola,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,PWR,fin/tck,"QUANTA SERVICES, INC.",2,5,lng/b47;lng/i63;trp/unl,1,Q7268886,Quanta Services,,Quanta Services,51595
+collision,S3_ticker_airport,PWR,trp/iata,Port Walter Seaplane Base,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,WGO,fin/tck,WINNEBAGO INDUSTRIES INC,2,5,lng/b47;lng/i63;trp/unl,1,Q8025558,Winnebago Industries,"Winnebago Industries, Inc.",Winnebago Industries,57958
+collision,S3_ticker_airport,WGO,trp/iata,Winchester Regional Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q10853499,Winchester Regional Airport,KOKV|WGO,Winchester Regional Airport,2595
+collision,S3_ticker_airport,SPE,fin/tck,"SPECIAL OPPORTUNITIES FUND, INC.",3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,SPE,trp/iata,Sepulot Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q35300611,Sepulot Airport,,,
+collision,S3_ticker_airport,SPE,trp/ica2,Sprague Electric Company,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,FIG,fin/tck,"Figma, Inc.",2,3,trp/unl,1,Q138548226,Figma Inc,"Figma|Figma, Inc",,
+collision,S3_ticker_airport,FIG,trp/iata,Fria Airport,2,3,trp/unl,1,Q5503346,Fria Airport,FIG|GUFA,Fria Airport,516
+collision,S3_ticker_airport,REX,fin/tck,REX AMERICAN RESOURCES Corp,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,REX,trp/iata,General Lucio Blanco International Airport,3,4,trp/unl,1,Q2232580,General Lucio Blanco International Airport,REX|Gen Lucio Blanco Airport|MMRX|REYNOSA,General Lucio Blanco International Airport,4974
+collision,S3_ticker_airport,REX,trp/ica2,Ram Air Freight,3,4,trp/unl,1,Q7288418,Ram Air Freight,,Ram Air Freight,454
+collision,S3_ticker_airport,TPC,fin/tck,TUTOR PERINI CORP,3,6,lng/b47;lng/i63;trp/unl,1,Q7856971,Tutor Perini,,Tutor Perini,19293
+collision,S3_ticker_airport,TPC,trp/iata,Tarapoa Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q6587898,Tarapoa Airport,TPC|SETR,Tarapoa Airport,284
+collision,S3_ticker_airport,TPC,trp/ica2,Air Cal,3,6,lng/b47;lng/i63;trp/unl,1,Q406942,Air Calédonie,Air Caledonie|Transpac Airlines,Air Calédonie,12824
+collision,S3_ticker_airport,DPG,fin/tck,Duff & Phelps Utility & Infrastructure Fund Inc.,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,DPG,trp/iata,Michael AAF (Dugway Proving Ground) Airport,2,3,trp/unl,1,Q3565953,Michael Army Airfield,DPG|KDPG,Michael Army Airfield,2467
+collision,S3_ticker_airport,NRK,fin/tck,NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND,3,7,bio/gen;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,NRK,trp/iata,Norrköping Airport,3,7,bio/gen;lng/b47;lng/i63;trp/unl,1,Q580554,Norrköping Airport,NRK|ESSP|NORRKÖPING/KUNGSÄNGEN,Norrköping Airport,3250
+collision,S3_ticker_airport,NRK,trp/ica2,Naturelink Charter,3,7,bio/gen;lng/b47;lng/i63;trp/unl,1,Q4045082,Naturelink Aviation,Naturelink,Naturelink Aviation,493
+collision,S3_ticker_airport,IGR,fin/tck,CBRE GLOBAL REAL ESTATE INCOME FUND,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,IGR,trp/iata,Cataratas Del Iguazú International Airport,2,3,trp/unl,1,Q1962002,Cataratas del Iguazú International Airport,SARI|IGR|Cataratas del Iguazu International Airport|Mayor D Carlos Eduardo Krause Airport,Cataratas del Iguazú International Airport,13912
+collision,S3_ticker_airport,RKT,fin/tck,"Rocket Companies, Inc.",3,6,lng/b47;lng/i63;trp/unl,1,Q105887484,Rocket Companies,"Rocket|RKT|Rocket Companies, Inc.|Rocket.com",Rocket Companies,49821
+collision,S3_ticker_airport,RKT,trp/iata,Ras Al Khaimah International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1432589,Ras Al Khaimah International Airport,RKT|OMRK,Ras Al Khaimah International Airport,34845
+collision,S3_ticker_airport,RKT,trp/ica2,Rotormotion,3,6,lng/b47;lng/i63;trp/unl,1,Q21806375,Rayani Air,,Rayani Air,9682
+collision,S3_ticker_airport,MWG,fin/tck,Multi Ways Holdings Ltd,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,MWG,trp/iata,Marawaka Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35277636,Marawaka,MWG,,
+collision,S3_ticker_airport,FGI,fin/tck,FGI Industries Ltd.,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,FGI,trp/iata,Fagali'i Airport,2,3,trp/unl,1,Q5429369,Fagali'i Airport,NSFI|FGI|Fagali Airport,Fagaliʻi Airport,1717
+collision,S3_ticker_airport,PCT,fin/tck,"PureCycle Technologies, Inc.",2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,PCT,trp/iata,Princeton Airport,2,3,trp/unl,1,Q7244935,Princeton Airport,PCT,Princeton Airport (New Jersey),3288
+collision,S3_ticker_airport,BLD,fin/tck,TopBuild Corp,2,5,lng/b47;lng/i63;trp/unl,1,Q106253502,TopBuild Corp.,,,
+collision,S3_ticker_airport,BLD,trp/iata,Boulder City Municipal Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q2813736,Boulder City Municipal Airport,BLD|KBVU,Boulder City Municipal Airport,4677
+collision,S3_ticker_airport,GIB,fin/tck,CGI INC,3,8,lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,1,Q1798370,CGI Group,CGI|CGI Group Inc.|Consultants to Government and Industry Incorporated,CGI Inc.,116036
+collision,S3_ticker_airport,GIB,trp/iata,Gibraltar Airport,3,8,lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,2,,,,,
+collision,S3_ticker_airport,GIB,trp/ica2,GR-Avia,3,8,lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,1,Q597294,Air Guinée,Air Guinee|Compagnie Nationale Air Guinee|Compagnie Nationale Air Guinée,Air Guinée,725
+collision,S3_ticker_airport,TCX,fin/tck,TUCOWS INC /PA/,3,6,lng/b47;lng/i63;trp/unl,1,Q2087612,Tucows,Tucows Inc.|Tucowsdomains,Tucows,27450
+collision,S3_ticker_airport,TCX,trp/iata,Tabas Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3443049,Tabas Airport,OIMT|TCX,Tabas Airport,1075
+collision,S3_ticker_airport,TCX,trp/ica2,Thomas Cook Airlines,3,6,lng/b47;lng/i63;trp/unl,1,Q852650,Thomas Cook Airlines,Fly Thomas Cook|Thomas Cook Flights|Thomas Cook Fly,Thomas Cook Airlines,41076
+collision,S3_ticker_airport,SAT,fin/tck,SARATOGA INVESTMENT CORP.,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,SAT,trp/iata,San Antonio International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1432706,San Antonio International Airport,SAT|KSAT,San Antonio International Airport,78412
+collision,S3_ticker_airport,SAT,trp/ica2,SATA Air Acores,3,6,lng/b47;lng/i63;trp/unl,1,Q1243903,SATA Air Açores,SATA|SATA Air|SATA Air Acores|SATA Airlines,SATA Air Açores,19216
+collision,S3_ticker_airport,USA,fin/tck,LIBERTY ALL STAR EQUITY FUND,3,9,grf/lpg;lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,0,,,,,
+collision,S3_ticker_airport,USA,trp/iata,Concord-Padgett Regional Airport,3,9,grf/lpg;lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,1,Q1655287,Concord Regional Airport,JQF|KJQF,Concord–Padgett Regional Airport,34292
+collision,S3_ticker_airport,USA,trp/ica2,US Airways,3,9,grf/lpg;lng/b47;lng/i31;lng/i63;lng/ioc;trp/unl,2,,,,,
+collision,S3_ticker_airport,TKR,fin/tck,TIMKEN CO,3,6,lng/b47;lng/i63;trp/unl,1,Q469553,Timken Company,,Timken Company,42603
+collision,S3_ticker_airport,TKR,trp/iata,Thakurgaon Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q16901467,Thakurgaon STOLport,Thakurgaon Airport|TKR|VGSG,Thakurgaon Airport,1729
+collision,S3_ticker_airport,TKR,trp/ica2,Canadian Interagency Forest Fire Centre,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,LDI,fin/tck,"loanDepot, Inc.",3,6,lng/b47;lng/i63;trp/unl,1,Q65117079,LoanDepot,loanDepot,LoanDepot,21088
+collision,S3_ticker_airport,LDI,trp/iata,Lindi Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3612951,Lindi Airport,LDI|HTLI,Lindi Airport,550
+collision,S3_ticker_airport,LDI,trp/ica2,Lauda Air Italy,3,6,lng/b47;lng/i63;trp/unl,1,Q2078029,Lauda Air Italy,,Lauda Air Italy,3505
+collision,S3_ticker_airport,MHK,fin/tck,MOHAWK INDUSTRIES INC,2,5,lng/b47;lng/i63;trp/unl,1,Q6893780,Mohawk Industries,,Mohawk Industries,21766
+collision,S3_ticker_airport,MHK,trp/iata,Manhattan Regional Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q4272488,Manhattan Regional Airport,MHK|KMHK,Manhattan Regional Airport,12893
+collision,S3_ticker_airport,MAX,fin/tck,"MediaAlpha, Inc.",3,9,bio/gen;cmp/css;cmp/ext;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,MAX,trp/iata,Ouro Sogui Airport,3,9,bio/gen;cmp/css;cmp/ext;lng/b47;lng/i63;trp/unl,1,Q7111305,Ouro Sogui Airport,MAX|GOSM|Matam Airport|Matam-Ourossogui Airport|Ourossogui Airport,Ouro Sogui Airport,555
+collision,S3_ticker_airport,MAX,trp/ica2,Max-Aviation,3,9,bio/gen;cmp/css;cmp/ext;lng/b47;lng/i63;trp/unl,1,Q16982285,Mountain Air Express,,Mountain Air Express,1156
+collision,S3_ticker_airport,CSX,fin/tck,CSX CORP,3,6,lng/b47;lng/i63;trp/unl,1,Q1024454,CSX Corporation,CSX,CSX Corporation,54284
+collision,S3_ticker_airport,CSX,trp/iata,Changsha Huanghua International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1330618,Changsha Huanghua International Airport,CSX|ZGHA,Changsha Huanghua International Airport,27484
+collision,S3_ticker_airport,CSX,trp/ica2,Choice Airways,3,6,lng/b47;lng/i63;trp/unl,1,Q19574833,Choice Airways,,Choice Airways,1135
+collision,S3_ticker_airport,BTZ,fin/tck,BLACKROCK CREDIT ALLOCATION INCOME TRUST,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,BTZ,trp/iata,Betong International Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q61362574,Betong International Airport,Betong Airport|Yala Betong International Airport,Betong Airport,5168
+collision,S3_ticker_airport,ADI,fin/tck,ANALOG DEVICES INC,3,6,lng/b47;lng/i63;trp/unl,1,Q484930,Analog Devices,,Analog Devices,102655
+collision,S3_ticker_airport,ADI,trp/iata,Arandis Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q4784077,Arandis Airport,ADI|FYAR,Arandis Airport,659
+collision,S3_ticker_airport,ADI,trp/ica2,Audeli Air,3,6,lng/b47;lng/i63;trp/unl,1,Q2405636,Audeli Air,,Audeli Air,428
+collision,S3_ticker_airport,FUL,fin/tck,FULLER H B CO,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,FUL,trp/iata,Fullerton Municipal Airport,2,3,trp/unl,1,Q3275421,Fullerton Municipal Airport,FUL|KFUL,Fullerton Municipal Airport,3969
+collision,S3_ticker_airport,BMI,fin/tck,BADGER METER INC,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,BMI,trp/iata,Central Illinois Regional Airport at Bloomington-Normal,3,6,lng/b47;lng/i63;trp/unl,1,Q1962462,Central Illinois Regional Airport,CIRA|BMI|Bloomington Airport|Bloomington-Normal Airport|Central Illinois Regional Airport at Bloominton-Normal|KBMI,Central Illinois Regional Airport,16003
+collision,S3_ticker_airport,BMI,trp/ica2,bmibaby,3,6,lng/b47;lng/i63;trp/unl,1,Q310448,Bmibaby,,Bmibaby,16608
+collision,S3_ticker_airport,PSF,fin/tck,"Cohen & Steers Select Preferred & Income Fund, Inc.",3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,PSF,trp/iata,Pittsfield Municipal Airport,3,4,trp/unl,1,Q7199486,Pittsfield Municipal Airport,PSF|KPSF,Pittsfield Municipal Airport (Massachusetts),2051
+collision,S3_ticker_airport,PSF,trp/ica2,Plymouth School of Flying,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,MET,fin/tck,METLIFE INC,3,10,bio/aa3;bio/gen;grf/vcd;lng/b47;lng/i63;trp/unl;wrt/tz,1,Q607131,MetLife,"Metropolitan|MetLife, Inc.|Metropolitan Life Insurance Company",MetLife,137890
+collision,S3_ticker_airport,MET,trp/iata,Moreton Airport,3,10,bio/aa3;bio/gen;grf/vcd;lng/b47;lng/i63;trp/unl;wrt/tz,0,,,,,
+collision,S3_ticker_airport,MET,trp/ica2,Meteorological Research Flight,3,10,bio/aa3;bio/gen;grf/vcd;lng/b47;lng/i63;trp/unl;wrt/tz,0,,,,,
+collision,S3_ticker_airport,HLT,fin/tck,Hilton Worldwide Holdings Inc.,3,7,cmp/asm;lng/b47;lng/i63;trp/unl,1,Q1057464,Hilton Worldwide,Hilton Hotels Corporation|Hilton Worldwide Holdings|Hilton Worldwide Holdings Inc.,Hilton Worldwide,221645
+collision,S3_ticker_airport,HLT,trp/iata,Hamilton Airport,3,7,cmp/asm;lng/b47;lng/i63;trp/unl,1,Q3888640,Hamilton Airport,HLT|Hamilton Aero Airport|Hamilton Aerodrome|YHML,Hamilton Airport (Victoria),1396
+collision,S3_ticker_airport,HLT,trp/ica2,Helitafe,3,7,cmp/asm;lng/b47;lng/i63;trp/unl,1,Q5706169,Helitours,,Helitours,1679
+collision,S3_ticker_airport,DHF,fin/tck,BNY MELLON HIGH YIELD STRATEGIES FUND,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,DHF,trp/iata,Al Dhafra Air Base,2,3,trp/unl,1,Q2886453,Al Dhafra Air Base,DHF|OMAM|Al Dhafra Airport|BA 104|BA104|base aerienne 104,Al Dhafra Air Base,185077
+collision,S3_ticker_airport,FXY,fin/tck,Invesco CurrencyShares Japanese Yen Trust,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,FXY,trp/iata,Forest City Municipal Airport,3,4,trp/unl,1,Q5468824,Forest City Municipal Airport,FXY|KFXY,Forest City Municipal Airport,521
+collision,S3_ticker_airport,FXY,trp/ica2,Flexair,3,4,trp/unl,0,,,,,
+collision,S3_ticker_airport,UUU,fin/tck,"UNIVERSAL SAFETY PRODUCTS, INC.",2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,UUU,trp/iata,Manumu Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35277481,Manumu Airport,UUU,,
+collision,S3_ticker_airport,TSQ,fin/tck,"Townsquare Media, Inc.",3,6,lng/b47;lng/i63;trp/unl,1,Q7830269,Townsquare Media,PopCrush|Regent Communications,Townsquare Media,27255
+collision,S3_ticker_airport,TSQ,trp/iata,Torres Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q12695341,Torres Airport,Torres|SBTR|TSQ,Torres Airport (Brazil),788
+collision,S3_ticker_airport,TSQ,trp/ica2,airtransse,3,6,lng/b47;lng/i63;trp/unl,1,Q851473,airtransse,,Airtransse,3698
+collision,S3_ticker_airport,DFP,fin/tck,Flaherty & Crumrine Dynamic Preferred & Income Fund Inc,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,DFP,trp/iata,Drumduff Airport,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,ODC,fin/tck,Oil-Dri Corp of America,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,ODC,trp/iata,Oakdale Airport,2,3,trp/unl,1,Q2900681,Oakdale Airport,ODC,Oakdale Airport,617
+collision,S3_ticker_airport,NGL,fin/tck,NGL Energy Partners LP,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,NGL,trp/iata,Ngala Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q31969582,Ngala Airport,,,
+collision,S3_ticker_airport,BFS,fin/tck,"SAUL CENTERS, INC.",3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,BFS,trp/iata,Belfast International Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q8979,Belfast International Airport,BFS|Belfast Airport|Aldergrove Airport|Belfast International|EGAA,Belfast International Airport,93459
+collision,S3_ticker_airport,BFS,trp/ica2,Business Flight Sweden,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,CFG,fin/tck,CITIZENS FINANCIAL GROUP INC/RI,3,6,lng/b47;lng/i63;trp/unl,1,Q5122694,Citizens Financial Group,"Citizens Bank|Citizens Financial Group, Inc. (Providence, RI)",Citizens Financial Group,80668
+collision,S3_ticker_airport,CFG,trp/iata,Jaime Gonzalez Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q2902044,Jaime González Airport,CFG|Jaime Gonzalez Airport|MUCF,Jaime González Airport,3181
+collision,S3_ticker_airport,CFG,trp/ica2,Condor Flugdienst,3,6,lng/b47;lng/i63;trp/unl,1,Q312517,Condor Flugdienst,CFG|Condor|DE|Condor Airlines|Condor Flugdienst GmbH,Condor (airline),285680
+collision,S3_ticker_airport,TVA,fin/tck,Texas Ventures Acquisition III Corp,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,TVA,trp/iata,Morafenobe Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q15256065,Morafenobe Airport,TVA|FMMR,Morafenobe Airport,252
+collision,S3_ticker_airport,TVA,trp/ica2,Trans America Airlines,3,6,lng/b47;lng/i63;trp/unl,1,Q4804058,Trans International Airlines,,Trans International Airlines,13140
+collision,S3_ticker_airport,PDM,fin/tck,"Piedmont Realty Trust, Inc.",2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,PDM,trp/iata,Capt. J. Montenegro Airport,2,3,trp/unl,1,Q19931167,Captain Justiniani Montenegro Airport,Capt. J. Montenegro Airport|Pedasí Municipal Airport,Cap. Justiniano Montenegro Airport,793
+collision,S3_ticker_airport,KMI,fin/tck,"KINDER MORGAN, INC.",3,6,lng/b47;lng/i63;trp/unl,1,Q931032,Kinder Morgan,,Kinder Morgan,46713
+collision,S3_ticker_airport,KMI,trp/iata,Miyazaki Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1378640,Miyazaki Airport,KMI|RJFM|宮　崎|宮崎,Miyazaki Airport,10081
+collision,S3_ticker_airport,KMI,trp/ica2,K-Mile Air,3,6,lng/b47;lng/i63;trp/unl,1,Q6322722,K-Mile Air,,K-Mile Air,12308
+collision,S3_ticker_airport,HNI,fin/tck,HNI CORP,2,5,lng/b47;lng/i63;trp/unl,1,Q5635303,HNI Corporation,,HNI Corporation,16668
+collision,S3_ticker_airport,HNI,trp/iata,Heiweni Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35263895,Heiweni,HNI,,
+collision,S3_ticker_airport,STC,fin/tck,STEWART INFORMATION SERVICES CORP,3,6,cmp/asm;trp/tld;trp/unl,1,Q7615829,Stewart Information Services Corporation,STC|SISCO,Stewart Information Services Corporation,5081
+collision,S3_ticker_airport,STC,trp/iata,Saint Cloud Regional Airport,3,6,cmp/asm;trp/tld;trp/unl,1,Q7587633,St. Cloud Regional Airport,STC|KSTC,St. Cloud Regional Airport,5807
+collision,S3_ticker_airport,STC,trp/ica2,Stadium City Limited,3,6,cmp/asm;trp/tld;trp/unl,0,,,,,
+collision,S3_ticker_airport,ICL,fin/tck,ICL Group Ltd.,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,ICL,trp/iata,Schenck Field,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,ICL,trp/ica2,CAL Cargo Air Lines,3,6,lng/b47;lng/i63;trp/unl,1,Q1319103,Challenge Airlines IL,C.A.L. Cargo Airlines|CAL Cargo|CAL Cargo Airlines|CAL Cargo Airlines Ltd.,Challenge Airlines,12245
+collision,S3_ticker_airport,LTH,fin/tck,"Life Time Group Holdings, Inc.",2,5,lng/b47;lng/i63;trp/unl,1,Q6545004,Life Time,Life Time Athletic|Life Time Fitness|Lifetime Fitness,"Life Time, Inc.",30814
+collision,S3_ticker_airport,LTH,trp/iata,Long Thanh International Airport (Under Construction),2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,APH,fin/tck,AMPHENOL CORP /DE/,3,6,lng/b47;lng/i63;trp/unl,1,Q474621,Amphenol,,Amphenol,64974
+collision,S3_ticker_airport,APH,trp/iata,Mary Walker LZ Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q4647271,A.P. Hill Army Airfield,APH,Mary Walker Landing Zone,430
+collision,S3_ticker_airport,APH,trp/ica2,Alpha Aviation,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,POM,fin/tck,POMDOCTOR Ltd,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S3_ticker_airport,POM,trp/iata,Port Moresby Jacksons International Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1088438,Jacksons International Airport,POM|7 Mile Drome|AYPY|Jackson Airfield|Jacksons Airport|Port Moresby Airport,Port Moresby International Airport,33009
+collision,S3_ticker_airport,NFG,fin/tck,NATIONAL FUEL GAS CO,2,3,trp/unl,0,,,,,
+collision,S3_ticker_airport,NFG,trp/iata,Nefteyugansk Airport,2,3,trp/unl,1,Q8214468,Nefteyugansk Airport,USRN|NFG,Nefteyugansk Airport,556
+collision,S3_ticker_airport,DIN,fin/tck,"Dine Brands Global, Inc.",3,6,lng/b47;lng/i63;trp/unl,1,Q5278020,Dine Brands Global,"IHOP|DineEquity|DineEquity Inc.|DineEquity, Inc.|IHOP Corporation",Dine Brands,48202
+collision,S3_ticker_airport,DIN,trp/iata,Dien Bien Phu Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1654720,Dien Bien Phu Airport,DIN|VVDB,Dien Bien Airport,2720
+collision,S3_ticker_airport,DIN,trp/ica2,Aerodin,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SML,trp/iata,Stella Maris Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7607091,Stella Maris Airport,SML|MYLS,Stella Maris Airport,2604
+collision,S4_airport_airline,SML,trp/ica2,Smith Air (1976),2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,REW,trp/iata,"Rewa Airport, Chorhata, REWA",2,3,trp/unl,2,,,,,
+collision,S4_airport_airline,REW,trp/ica2,Regional Air Express,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,KAT,trp/iata,Kaitaia Airport,2,3,trp/unl,1,Q6348587,Kaitaia Airport,KAT|NZKT,Kaitaia Airport,2536
+collision,S4_airport_airline,KAT,trp/ica2,Kato Airline,2,3,trp/unl,1,Q6377732,Kato Airline,Kato Air,Kato Airline,1267
+collision,S4_airport_airline,PCR,trp/iata,German Olano Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1323338,Germán Olano Airport,PCR|CARREÑO-GERMAN OLANO|German Olano Airport|SKPC,Germán Olano Airport,3238
+collision,S4_airport_airline,PCR,trp/ica2,PAC Air,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,GOI,trp/iata,Goa Dabolim International Airport,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S4_airport_airline,GOI,trp/ica2,Gofir,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,LSP,trp/iata,Josefa Camejo International Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1932974,Josefa Camejo International Airport,LSP|SVJC,Josefa Camejo International Airport,2627
+collision,S4_airport_airline,LSP,trp/ica2,Spectrum Aviation Incorporated,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SMH,trp/iata,Sapmanga Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q35298986,Sapmanga,SMH,,
+collision,S4_airport_airline,SMH,trp/ica2,Smithair,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,LXA,trp/iata,Lhasa Gonggar International Airport,2,3,trp/unl,1,Q786209,Lhasa Gonggar International Airport,LXA|Lhasa Gonggar Airport|ZULS,Lhasa Gonggar International Airport,22975
+collision,S4_airport_airline,LXA,trp/ica2,Luxaviation,2,3,trp/unl,1,Q845932,Luxaviation,,Luxaviation Group,638
+collision,S4_airport_airline,SHK,trp/iata,Sehonghong Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q12694933,Sehonghong Airport,SHK|FXSH,Sehonghong Airport,334
+collision,S4_airport_airline,SHK,trp/ica2,Shorouk Air,2,5,lng/b47;lng/i63;trp/unl,1,Q1768424,Shorouk Air,,Shorouk Air,1044
+collision,S4_airport_airline,TSL,trp/iata,Tamuín National Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1334422,Aeropuerto Nacional de Tamuín,TSL|MMTN|TAMUÍN|Tamuin Airport|Tamuin National Airport,Tamuín National Airport,870
+collision,S4_airport_airline,TSL,trp/ica2,Thai Aviation Services,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,LSR,trp/iata,Alas Leuser Airport,2,6,bio/gen;lng/b47;lng/i63;trp/unl,1,Q4708409,Alas Leuser Airport,,Alas Leuser Airport,999
+collision,S4_airport_airline,LSR,trp/ica2,Alsair,2,6,bio/gen;lng/b47;lng/i63;trp/unl,1,Q34501761,Alsair,,,
+collision,S4_airport_airline,EJT,trp/iata,Enejit Airport,2,3,trp/unl,1,Q5376730,Enejit Airport,EJT,Enejit Airport,505
+collision,S4_airport_airline,EJT,trp/ica2,Eclipse Aviation,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,AXX,trp/iata,Angel Fire Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q49744913,Angel Fire Airport,,Angel Fire Airport,3890
+collision,S4_airport_airline,AXX,trp/ica2,Avioimpex A.D.p.o.,2,5,lng/b47;lng/i63;trp/unl,1,Q791089,Avioimpex,M4|AXX|IMPEX,Avioimpex,2598
+collision,S4_airport_airline,BKP,trp/iata,Barkly Downs Airport,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,BKP,trp/ica2,Bangkok Airways,2,5,lng/b47;lng/i63;trp/unl,1,Q806487,Bangkok Airways,"Bangkok Air|Bangkok Airways Public Company Limited|Bangkok Airways Public Co., Ltd.",Bangkok Airways,69467
+collision,S4_airport_airline,JSR,trp/iata,Jessore Airport,2,3,trp/unl,1,Q1929029,Jessore Airport,JSR|VGJR,Jashore Airport,4257
+collision,S4_airport_airline,JSR,trp/ica2,Jusur airways,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,SOH,trp/iata,Solita Airport,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SOH,trp/ica2,Southern Ohio Aviation Sales,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,PSD,trp/iata,Port Said International Airport,2,7,bio/gen;cmp/ext;lng/b47;lng/i63;trp/unl,1,Q1432451,Port Said Airport,Port Said|PSD|HEPS,Port Said Airport,3441
+collision,S4_airport_airline,PSD,trp/ica2,President Airlines,2,7,bio/gen;cmp/ext;lng/b47;lng/i63;trp/unl,1,Q2095223,President Airlines,,President Airlines,1787
+collision,S4_airport_airline,LDA,trp/iata,Malda Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q6742771,Malda Airport,LDA|VEMH,Malda Airport,6514
+collision,S4_airport_airline,LDA,trp/ica2,Lauda Air,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S4_airport_airline,ERV,trp/iata,Kerrville / Kerr County Airport at Louis Schreiner Field,2,3,trp/unl,1,Q6394435,Kerrville Municipal Airport,ERV|KERV|Louis Schreiner Field,Kerrville Municipal Airport,1446
+collision,S4_airport_airline,ERV,trp/ica2,Yerevan-Avia,2,3,trp/unl,1,Q8052566,Yerevan-Avia,,Yerevan-Avia,541
+collision,S4_airport_airline,VEE,trp/iata,Venetie Airport,2,3,trp/unl,1,Q4107142,Venetie Airport,VEE|PAVE,Venetie Airport,777
+collision,S4_airport_airline,VEE,trp/ica2,Victor Echo,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,LBH,trp/iata,Palm Beach Seaplane Base,2,4,bio/gen;trp/unl,1,Q7128021,Palm Beach Water Airport,Palm Beach Airport|YPLB,Palm Beach Water Airport,1349
+collision,S4_airport_airline,LBH,trp/ica2,Laker Airways (Bahamas),2,4,bio/gen;trp/unl,1,Q6478904,,Laker Bahamas / Laker Inc,Laker Airways (The Bahamas),849
+collision,S4_airport_airline,TFN,trp/iata,Tenerife Norte-Ciudad de La Laguna Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q932514,Tenerife North Airport,TFN|Ciudad de La Laguna Airport|GCXO|Los Rodeos Airport|Tenerife North–Ciudad de La Laguna Airport|TENERIFE-NORTE|Tenerife-North Airport,Tenerife North–Ciudad de La Laguna Airport,71490
+collision,S4_airport_airline,TFN,trp/ica2,Norwegian Aviation College,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,ELT,trp/iata,At Tur Airport,2,3,trp/unl,1,Q11824226,El Tor Airport,ELT|El Tor|El-Tor Airfield|HETR,El Tor Airport,1001
+collision,S4_airport_airline,ELT,trp/ica2,Elliott Aviation,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,FAB,trp/iata,Farnborough Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1231271,Farnborough Airport,FAB|EGLF|Farnborough Aerodrome|TAG London Farnborough Airport,Farnborough Airport,29868
+collision,S4_airport_airline,FAB,trp/ica2,First Air,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S4_airport_airline,PWA,trp/iata,Wiley Post Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q8001635,Wiley Post Airport,PWA|KPWA,Wiley Post Airport,4406
+collision,S4_airport_airline,PWA,trp/ica2,Priester Aviation,2,5,lng/b47;lng/i63;trp/unl,1,Q3360205,Pacific Western Airlines,PWA,Pacific Western Airlines,16248
+collision,S4_airport_airline,CEO,trp/iata,Waco Kungo Airport,2,4,trp/tld;trp/unl,1,Q7958853,Waco Kungo Airport,CEO|FNWK,Waco Kungo Airport,480
+collision,S4_airport_airline,CEO,trp/ica2,Comfort Express Virtual Charters,2,4,trp/tld;trp/unl,0,,,,,
+collision,S4_airport_airline,RTN,trp/iata,Raton Municipal Airport / Crews Field,2,3,trp/unl,1,Q7295896,Raton Municipal Airport,RTN|KRTN|Crews Field,Raton Municipal Airport,1295
+collision,S4_airport_airline,RTN,trp/ica2,Raytheon Aircraft Company,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,BMK,trp/iata,Borkum Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q323384,Borkum airfield,BMK|Borkum airport|EDWR,Borkum Airfield,1979
+collision,S4_airport_airline,BMK,trp/ica2,GST Aero Aircompany,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,LEX,trp/iata,Blue Grass Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q598259,Blue Grass Airport,LEX|KLEX,Blue Grass Airport,34626
+collision,S4_airport_airline,LEX,trp/ica2,L'Express,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,REN,trp/iata,Orenburg Central Airport,2,7,bio/gen;lng/b47;lng/i63;trp/tld;trp/unl,1,Q1834135,Orenburg Tsentralny Airport,REN|UWOO,Orenburg Airport,2279
+collision,S4_airport_airline,REN,trp/ica2,Aero-Rent,2,7,bio/gen;lng/b47;lng/i63;trp/tld;trp/unl,0,,,,,
+collision,S4_airport_airline,LTW,trp/iata,St. Mary's County Regional Airport,2,3,trp/unl,1,Q7590262,St. Mary's County Regional Airport,LTW,St. Mary's County Regional Airport,2163
+collision,S4_airport_airline,LTW,trp/ica2,Luchtvaartmaatschappij Twente,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,JIM,trp/iata,Jimma Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1981182,Aba Segud Airport,HAJM|JIM|Jimma Airport,Aba Segud Airport,1410
+collision,S4_airport_airline,JIM,trp/ica2,Sark International Airways,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,BCT,trp/iata,Boca Raton Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q597793,Boca Raton Airport,BCT|KBCT,Boca Raton Airport,8620
+collision,S4_airport_airline,BCT,trp/ica2,BCT Aviation,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,CFE,trp/iata,Clermont-Ferrand Auvergne airport,2,3,trp/unl,1,Q1431123,Clermont-Ferrand Auvergne Airport,CFE|CLERMONT-FERRAND-AUVERGNE|CLERMONT-FERRAND-AUVERGNE airport|Clermont-Ferrand/Auvergne Airport|LFLC,Clermont-Ferrand Auvergne Airport,7811
+collision,S4_airport_airline,CFE,trp/ica2,BA CityFlyer,2,3,trp/unl,2,,,,,
+collision,S4_airport_airline,SDD,trp/iata,Lubango Mukanka International Airport,2,3,trp/unl,1,Q2089913,Lubango Airport,SDD,Lubango Airport,2781
+collision,S4_airport_airline,SDD,trp/ica2,Skymaster Air Taxi,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,JTR,trp/iata,Santorini International Airport,2,3,trp/unl,1,Q1432775,Santorini (Thira) National Airport,JTR|LGSR|Santorini Airport,Santorini International Airport,29422
+collision,S4_airport_airline,JTR,trp/ica2,Executive Aviation Services,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,LVR,trp/iata,Municipal Bom Futuro Airport,2,3,trp/unl,1,Q13581299,Lucas do Rio Verde Airport,SILC|Bom Futuro Municipal Airport|LVR,Lucas do Rio Verde Airport,435
+collision,S4_airport_airline,LVR,trp/ica2,Aviavilsa,2,3,trp/unl,1,Q790858,Aviavilsa,,Aviavilsa,592
+collision,S4_airport_airline,TXF,trp/iata,9 de Maio - Teixeira de Freitas Airport,2,3,trp/unl,1,Q17535701,Teixeira de Freitas Airport,SNTF|Teixeira De Freitas|TXF,Teixeira de Freitas Airport,629
+collision,S4_airport_airline,TXF,trp/ica2,Aerotaxis Alfe,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,UTU,trp/iata,Ustupu Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q19931183,Ustupo Airport,,Ustupo Airport,337
+collision,S4_airport_airline,UTU,trp/ica2,Urartu-Air,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SGK,trp/iata,Sengapi Airstrip,2,5,lng/b47;lng/i63;trp/unl,1,Q7417839,Sangapi Airport,SGK|AYSK,Sangapi Airport,206
+collision,S4_airport_airline,SGK,trp/ica2,Skyward Aviation,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,ATD,trp/iata,Uru Harbour Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7901377,Uru Harbour Airport,ATD|AGAT|Atoifi Airport,Uru Harbour Airport,711
+collision,S4_airport_airline,ATD,trp/ica2,Aerotours Dominicana,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,JTC,trp/iata,Bauru/Arealva–Moussa Nakhal Tobias State Airport,2,3,trp/unl,1,Q2264805,Bauru-Arealva Airport,JTC|SBAE,Bauru-Arealva Airport,1640
+collision,S4_airport_airline,JTC,trp/ica2,Jet Trans Aviation,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,GAR,trp/iata,Garaina Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q20460375,Garaina,GAR,,
+collision,S4_airport_airline,GAR,trp/ica2,Commodore Aviation,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,CYF,trp/iata,Chefornak Airport,2,3,trp/unl,1,Q1708562,Chefornak Airport,PACK|CYF,Chefornak Airport,519
+collision,S4_airport_airline,CYF,trp/ica2,Company Flight,2,3,trp/unl,1,Q20639413,Tus Airways,,TUS Airways,23661
+collision,S4_airport_airline,AKY,trp/iata,Sittwe Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q1927143,Sittwe Airport,AKY|VYSW,Sittwe Airport,1750
+collision,S4_airport_airline,AKY,trp/ica2,Yak-Service,2,5,lng/b47;lng/i63;trp/unl,1,Q2602173,Yak-Service,AKY,YAK-Service,4824
+collision,S4_airport_airline,VTG,trp/iata,Vung Tau Airport,2,3,trp/unl,1,Q2446044,Vung Tau Airport,VTG|VVVT,Vung Tau Airport,3373
+collision,S4_airport_airline,VTG,trp/ica2,Aviacao Transportes Aereos e Cargas,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,AYS,trp/iata,Waycross Ware County Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7975872,Waycross-Ware County Airport,AYS|KAYS,Waycross–Ware County Airport,1319
+collision,S4_airport_airline,AYS,trp/ica2,Awsaj Aviation Services,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SUG,trp/iata,Surigao Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7646281,Surigao Airport,SUG|RPMS,Surigao Airport,4837
+collision,S4_airport_airline,SUG,trp/ica2,Sunu Air,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,MID,trp/iata,Manuel Crescencio Rejón International Airport,2,6,cmp/ext;lng/b47;lng/i63;trp/unl,1,Q1432118,Manuel Crescencio Rejón International Airport,MID|Lic Manuel Crescencio Rejon In Airport|Manuel Crescencio Rejon International Airport|MERIDA|Merida-Rejon Airport|Mérida-Rejón Airport|MMMD,Mérida International Airport,23971
+collision,S4_airport_airline,MID,trp/ica2,Midland Airport Services,2,6,cmp/ext;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,RIF,trp/iata,Richfield Municipal Airport,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,RIF,trp/ica2,Aviation Ministry of the Interior of the Russian Federation,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,DON,trp/iata,Dos Lagunas Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q21974280,Dos Lagunas Airport,DON|MGDL,Dos Lagunas Airport,240
+collision,S4_airport_airline,DON,trp/ica2,Donair Flying Club,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,GFO,trp/iata,Bartica A Airport,2,3,trp/unl,1,Q17363857,Bartica Airport,GFO|Bartica A Airport|SYBT,Bartica Airport,622
+collision,S4_airport_airline,GFO,trp/ica2,Aerovias del Golfo,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,TRL,trp/iata,Terrell Municipal Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7703411,Terrell Municipal Airport,TRL|KTRL,Terrell Municipal Airport,1006
+collision,S4_airport_airline,TRL,trp/ica2,Starlite Aviation,2,5,lng/b47;lng/i63;trp/unl,1,Q7833969,Transeast Airlines,,Transeast Airlines,296
+collision,S4_airport_airline,AIE,trp/iata,Aiome Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q4697561,Aiome Airport,AIE|AYAO,Aiome Airport,271
+collision,S4_airport_airline,AIE,trp/ica2,Air Inuit,2,5,lng/b47;lng/i63;trp/unl,1,Q407371,Air Inuit,,Air Inuit,28135
+collision,S4_airport_airline,ESR,trp/iata,Ricardo García Posada Airport,2,3,trp/unl,1,Q2160889,Ricardo García Posada Airport,ESR|El Salvador Bajo Airport|Ricardo Garcia Posada Airport|SCES,Ricardo García Posada Airport,776
+collision,S4_airport_airline,ESR,trp/ica2,Eastar Jet,2,3,trp/unl,1,Q489392,Eastar Jet,,Eastar Jet,36394
+collision,S4_airport_airline,GEE,trp/iata,George Town Airport,2,3,trp/unl,1,Q3274277,George Town Aerodrome,GEE|George Town Airport|YGTO,George Town Aerodrome,648
+collision,S4_airport_airline,GEE,trp/ica2,Geesair,2,3,trp/unl,0,,,,,
+collision,S4_airport_airline,SNM,trp/iata,San Ignacio de Moxos Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q16899663,San Ignacio de Moxos Airport,SNM|San Ignacio De Moxos Airport|SLSM,San Ignacio de Moxos Airport,234
+collision,S4_airport_airline,SNM,trp/ica2,Servizi Aerei,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,INL,trp/iata,Falls International Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q5432482,Falls International Airport,INL|KINL,Falls International Airport,5226
+collision,S4_airport_airline,INL,trp/ica2,Intal Avia,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,SUO,trp/iata,Sunriver Airport,2,5,lng/b47;lng/i63;trp/unl,1,Q7641162,Sunriver Airport,SUO,Sunriver Airport,1219
+collision,S4_airport_airline,SUO,trp/ica2,Aeroservicios De San Luis,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S4_airport_airline,RSJ,trp/iata,Rosario Seaplane Base,2,3,trp/unl,1,Q7367420,Rosario Seaplane Base,RSJ,Rosario Seaplane Base,372
+collision,S4_airport_airline,RSJ,trp/ica2,RusJet,2,3,trp/unl,0,,,,,
+collision,S5_dns,SRV,cmp/dns,Server Selection,4,7,lng/b47;lng/i63;trp/unl,0,,,,SRV record,33800
+collision,S5_dns,SRV,fin/tck,NXG Cushing Midstream Energy Fund,4,7,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,SRV,trp/iata,Stony River 2 Airport,4,7,lng/b47;lng/i63;trp/unl,1,Q7619608,Stony River Airport,SRV,Stony River Airport,472
+collision,S5_dns,SRV,trp/ica2,Aero Servicio Corporativo,4,7,lng/b47;lng/i63;trp/unl,1,Q104591404,,Services Air,Serve Air Cargo,1576
+collision,S5_dns,SOA,cmp/dns,marks the start of a zone of authority,3,6,lng/b47;lng/i63;trp/unl,0,,,,SOA record,24023
+collision,S5_dns,SOA,trp/iata,Sóc Trăng Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q32022360,Soc Trang,,,
+collision,S5_dns,SOA,trp/ica2,Southern Air Charter,3,6,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S5_dns,IPN,cmp/dns,BP Node Number,3,4,trp/unl,0,,,,,
+collision,S5_dns,IPN,trp/iata,Usiminas Airport,3,4,trp/unl,1,Q7901989,Ipatinga Airport,IPN|Santana do Paraíso Airport|SBIP|Steel Valley Regional Airport|Usiminas Airport,Vale do Aço Regional Airport,1222
+collision,S5_dns,IPN,trp/ica2,Industri Pesawat Terbang Nusantara,3,4,trp/unl,0,,,,,
+collision,S5_dns,MG,cmp/dns,a mail group member (EXPERIMENTAL),2,6,cls/elm;lng/b47;lng/i39;trp/tld,0,,,,,
+collision,S5_dns,MG,fin/tck,"Mistras Group, Inc.",2,6,cls/elm;lng/b47;lng/i39;trp/tld,0,,,,,
+collision,S5_dns,OPT,cmp/dns,OPT,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,OPT,trp/ica2,Flight Options,2,5,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,A,cmp/dns,a host address,2,6,bio/aa1;cls/loc;cmp/ext;com/mor,0,,,,IPv4 address,3902
+collision,S5_dns,A,fin/tck,"AGILENT TECHNOLOGIES, INC.",2,6,bio/aa1;cls/loc;cmp/ext;com/mor,1,Q393762,Agilent Technologies,"Agilent Technologies, Inc.",Agilent Technologies,77201
+collision,S5_dns,SIG,cmp/dns,for security signature,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,SIG,fin/tck,SIGNET JEWELERS LTD,3,6,lng/b47;lng/i63;trp/unl,1,Q7512923,Signet Jewelers Limited,Ratner Group|Signet Group plc,Signet Jewelers,39346
+collision,S5_dns,SIG,trp/iata,Fernando Luis Ribas Dominicci Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q5444795,Fernando Luis Ribas Dominicci Airport,SIG|Isla Grande Airport|TJIG,Fernando Luis Ribas Dominicci Airport,11275
+collision,S5_dns,MB,cmp/dns,a mailbox domain name (EXPERIMENTAL),2,3,bio/gen,0,,,,,
+collision,S5_dns,MB,fin/tck,MASTERBEEF GROUP,2,3,bio/gen,0,,,,,
+collision,S5_dns,KEY,cmp/dns,for security key,4,8,grf/vcd;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,KEY,fin/tck,KEYCORP /NEW/,4,8,grf/vcd;lng/b47;lng/i63;trp/unl,1,Q1740314,KeyBank,KeyCorp,KeyBank,63755
+collision,S5_dns,KEY,trp/iata,Kericho Airport,4,8,grf/vcd;lng/b47;lng/i63;trp/unl,1,Q6393886,Kericho Airport,KEY|HKKR,Kericho Airport,629
+collision,S5_dns,KEY,trp/ica2,Key Airlines,4,8,grf/vcd;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,CDS,cmp/dns,Child DS,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,CDS,trp/iata,Childress Municipal Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q3274003,Childress Municipal Airport,CDS|KCDS,Childress Municipal Airport,1353
+collision,S5_dns,CDS,trp/ica2,Spectrem Air,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,MD,cmp/dns,a mail destination (OBSOLETE - use MX),2,6,cls/elm;cmp/ext;lng/b47;trp/tld,0,,,,,
+collision,S5_dns,MD,fin/tck,"Pediatrix Medical Group, Inc.",2,6,cls/elm;cmp/ext;lng/b47;trp/tld,1,Q16981865,Pediatrix Medical Group,Mednax,,
+collision,S5_dns,CAA,cmp/dns,Certification Authority Restriction,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,0,,,,DNS Certification Authority Authorization,25852
+collision,S5_dns,CAA,trp/iata,El Aguacate Airport,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,1,Q5685377,El Aguacate Airport,CAA|MHCA,El Aguacate Airport,498
+collision,S5_dns,CAA,trp/ica2,Atlantic Southeast Airlines,3,7,bio/cdn;lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S5_dns,TXT,cmp/dns,text strings,3,7,cmp/ext;lng/b47;lng/i63;trp/unl,0,,,,TXT record,22468
+collision,S5_dns,TXT,fin/tck,TEXTRON INC,3,7,cmp/ext;lng/b47;lng/i63;trp/unl,1,Q2140315,Textron,Textron Incorporated,Textron,118908
+collision,S5_dns,TXT,trp/ica2,Texas Air Charters,3,7,cmp/ext;lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,TLSA,cmp/dns,TLSA,2,2,,0,,,,DNS-based Authentication of Named Entities,82800
+collision,S5_dns,TLSA,fin/tck,Tiziana Life Sciences Ltd,2,2,,0,,,,,
+collision,S5_dns,LOC,cmp/dns,Location Information,3,6,lng/b47;lng/i63;trp/unl,0,,,,LOC record,2934
+collision,S5_dns,LOC,trp/iata,Lock Airport,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,LOC,trp/ica2,Locair,3,6,lng/b47;lng/i63;trp/unl,1,Q6663927,Locair,,Locair,675
+collision,S5_dns,APL,cmp/dns,APL,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,APL,trp/iata,Nampula Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q1526611,Nampula Airport,APL|Aeroporto de Nampula|FQNP,Nampula Airport,3029
+collision,S5_dns,APL,trp/ica2,Appalachian Flying Service,3,6,lng/b47;lng/i63;trp/unl,1,Q4780827,Appalachian Airlines,,Appalachian Airlines,600
+collision,S5_dns,HIP,cmp/dns,Host Identity Protocol,3,4,trp/unl,0,,,,,
+collision,S5_dns,HIP,trp/iata,Headingly Airport,3,4,trp/unl,1,Q21924100,Headingly Airport,YHDY,,
+collision,S5_dns,HIP,trp/ica2,Starship,3,4,trp/unl,0,,,,,
+collision,S5_dns,CERT,cmp/dns,CERT,2,2,,0,,,,,
+collision,S5_dns,CERT,fin/tck,"Certara, Inc.",2,2,,0,,,,,
+collision,S5_dns,CLA,cmp/dns,BP Convergence Layer Adapter,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,CLA,trp/iata,Comilla Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q12692290,Comilla Airport,CLA|Comilla STOLport|VGCM,Comilla Airport,3161
+collision,S5_dns,CLA,trp/ica2,Comlux Aviation,3,6,lng/b47;lng/i63;trp/unl,1,Q1111157,Color Air,,Color Air,1938
+collision,S5_dns,DOA,cmp/dns,Digital Object Architecture,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,DOA,trp/iata,Doany Airport,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,DOA,trp/ica2,Dominicana de Aviaci,3,6,lng/b47;lng/i63;trp/unl,1,Q5290891,,Dominicana|Dominicana de Aviacion,Dominicana de Aviación,7978
+collision,S5_dns,PTR,cmp/dns,a domain name pointer,2,5,lng/b47;lng/i63;trp/unl,0,,,,Reverse DNS lookup,64736
+collision,S5_dns,PTR,trp/ica2,Nova Scotia Department of Lands and Forests,2,5,lng/b47;lng/i63;trp/unl,2,,,,,
+collision,S5_dns,URI,cmp/dns,URI,3,6,lng/b47;lng/i63;trp/unl,0,,,,,
+collision,S5_dns,URI,fin/tck,"UNITED RENTALS, INC.",3,6,lng/b47;lng/i63;trp/unl,1,Q7889101,United Rentals,"United Rentals, Inc",United Rentals,35419
+collision,S5_dns,URI,trp/iata,Uribe Airport,3,6,lng/b47;lng/i63;trp/unl,1,Q23727371,Uribe,URIBE|SKUB|Uribe Airport,Uribe Airport,246
+collision,S5_dns,BRID,cmp/dns,UAS Broadcast Remote Identification,2,2,,0,,,,,
+collision,S5_dns,BRID,fin/tck,BRIDGFORD FOODS CORP,2,2,,0,,,,,
+collision,S5_dns,NXT,cmp/dns,Next Domain (OBSOLETE),3,4,trp/unl,0,,,,,
+collision,S5_dns,NXT,fin/tck,Nextpower Inc.,3,4,trp/unl,0,,,,,
+collision,S5_dns,NXT,trp/ica2,National Express,3,4,trp/unl,0,,,,,
+collision,S5_dns,DLV,cmp/dns,DNSSEC Lookaside Validation (OBSOLETE),2,3,trp/unl,0,,,,,
+collision,S5_dns,DLV,trp/iata,Delissaville Airport,2,3,trp/unl,1,Q20449404,Delissaville Airport,YDLV,,
+collision,S5_dns,MX,cmp/dns,mail exchange,2,4,lng/b47;trp/tld,0,,,,MX record,29593
+collision,S5_dns,MX,fin/tck,MAGNACHIP SEMICONDUCTOR Corp,2,4,lng/b47;trp/tld,0,,,,,
+control,,GPOS,cmp/dns,Geographical Position,1,1,,0,,,,,
+control,,TA,cmp/dns,DNSSEC Trust Authorities,1,5,cls/elm;cls/loc;lng/b47;lng/i39,0,,,,,
+control,,IXFR,cmp/dns,incremental transfer,1,1,,0,,,,,
+control,,TKEY,cmp/dns,Transaction Key,1,1,,0,,,,,
+control,,ATMA,cmp/dns,ATM Address,1,1,,0,,,,,
+control,,DS,cmp/dns,Delegation Signer,1,4,cls/elm;cls/loc;cmp/reg,0,,,,Domain Name System Security Extensions,95241
+control,,*,cmp/dns,A request for some or all records the server has available,1,2,cmp/htt,0,,,,,
+control,,NSEC,cmp/dns,NSEC,1,1,,0,,,,,
+control,,NS,cmp/dns,an authoritative name server,1,1,,0,,,,Name server,32644
+control,,EID,cmp/dns,Endpoint Identifier,1,2,trp/unl,0,,,,,
+control,,SINK,cmp/dns,SINK,1,1,,0,,,,,
+control,,HHIT,cmp/dns,Hierarchical Host Identity Tag,1,1,,0,,,,,
+control,,ISDN,cmp/dns,for ISDN address,1,2,grf/vcd,0,,,,,
+control,,NULL,cmp/dns,a null RR (EXPERIMENTAL),1,2,grf/gql,0,,,,,
+control,,WKS,cmp/dns,a well known service description,1,2,trp/unl,0,,,,,
+control,,RP,cmp/dns,for Responsible Person,1,1,,0,,,,,
+control,,AAAA,cmp/dns,IP6 Address,1,1,,0,,,,IPv6 address,318479
+control,,KX,cmp/dns,Key Exchanger,1,1,,0,,,,,
+control,,X25,cmp/dns,for X.25 PSDN address,1,1,,0,,,,,
+control,,AVC,cmp/dns,Application Visibility and Control,1,2,trp/unl,0,,,,,
+control,,AXFR,cmp/dns,transfer of an entire zone,1,1,,0,,,,,
+control,,A6,cmp/dns,A6 (OBSOLETE - use AAAA),1,1,,0,,,,,
+control,,SVCB,cmp/dns,General-purpose service binding,1,2,trp/icao,0,,,,,
+control,,RKEY,cmp/dns,RKEY,1,1,,0,,,,,
+control,,MR,cmp/dns,a mail rename domain name (EXPERIMENTAL),1,4,lng/b47;lng/i39;trp/tld,0,,,,,
+control,,MF,cmp/dns,a mail forwarder (OBSOLETE - use MX),1,2,lng/b47,0,,,,,
+control,,NSAP,cmp/dns,"for NSAP address, NSAP style A record (DEPRECATED)",1,1,,0,,,,,
+control,,TSIG,cmp/dns,Transaction Signature,1,1,,0,,,,,
+control,,RT,cmp/dns,for Route Through,1,2,cls/loc,0,,,,,
+control,,PX,cmp/dns,X.400 mail mapping information,1,1,,0,,,,,
+control,,QAR,fin/i42,Qatari Rial,1,2,trp/unl,1,Q206386,Qatari riyal,Qatar riyal,Qatari riyal,63981
+control,,FJD,fin/i42,Fiji Dollar,1,2,trp/unl,1,Q4592,Fijian dollar,Fijan dollar|Fiji Dollar,Fijian dollar,31423
+control,,DJF,fin/i42,Djibouti Franc,1,3,lng/b47;lng/i63,1,Q4594,Djiboutian franc,DJF|Djibouti Franc,Djiboutian franc,13354
+control,,USD,fin/i42,US Dollar,1,2,trp/unl,1,Q4917,United States dollar,dollar|buck|dollars|American dollar|greenback|$|USD|$USD|American dollars|American money|U. S. Dollar|U.S. Dollar|United States dollars|US $|US dollar|US dollars|US-$|US$|USA dollar|USA dollars|USD$,United States dollar,1303710
+control,,FKP,fin/i42,Falkland Islands Pound,1,2,trp/unl,1,Q330044,Falkland Islands pound,FKP,Falkland Islands pound,42665
+control,,DZD,fin/i42,Algerian Dinar,1,4,lng/b47;lng/i63;trp/unl,1,Q199674,Algerian dinar,dinar|DZD,Algerian dinar,35233
+control,,XOF,fin/i42,CFA Franc BCEAO,1,2,trp/unl,1,Q861690,West African CFA franc,BCEAO franc,West African CFA franc,223675
+control,,XPF,fin/i42,CFP Franc,1,4,lng/b47;lng/i63;trp/unl,1,Q214393,CFP Franc,franc|XPF|Franc Pacifique|Pacific Franc,CFP franc,69320
+control,,JOD,fin/i42,Jordanian Dinar,1,4,lng/b47;lng/i63;trp/unl,1,Q203722,Jordanian dinar,Dinar (1949-date),Jordanian dinar,62916
+control,,UYI,fin/i42,Uruguay Peso en Unidades Indexadas (UI),1,2,trp/unl,1,Q115124969,Uruguay Peso en Unidades Indexadas,UI|UYI,Uruguay peso en Unidades Indexadas,60
+control,,XCD,fin/i42,East Caribbean Dollar,1,2,trp/unl,1,Q26365,Eastern Caribbean dollar,,Eastern Caribbean dollar,145937
+control,,RUB,fin/i42,Russian Ruble,1,4,lng/b47;lng/i63;trp/unl,1,Q41044,Russian ruble,ruble|RUB,Russian ruble,263325
+control,,XBC,fin/i42,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),1,4,lng/b47;lng/i63;trp/unl,1,Q115124154,European Unit of Account 9,E.U.A.-9|EUA-9|XBC,European Unit of Account 9,173
+control,,TZS,fin/i42,Tanzanian Shilling,1,2,trp/unl,1,Q4589,Tanzanian shilling,Shilingi|TZS|Tanzanian schilling|Tanzanian shilingi|TSh,Tanzanian shilling,36072
+control,,AWG,fin/i42,Aruban Florin,1,4,lng/b47;lng/i63;trp/unl,1,Q232270,Aruban florin,AWG|Afl.,Aruban florin,42918
+control,,NZD,fin/i42,New Zealand Dollar,1,4,lng/b47;lng/i63;trp/unl,1,Q1472704,New Zealand dollar,dollar|dollars|NZ$|NZD,New Zealand dollar,105528
+control,,KZT,fin/i42,Tenge,1,4,lng/b47;lng/i63;trp/unl,1,Q173751,Kazakhstani tenge,,Kazakhstani tenge,70500
+control,,XBD,fin/i42,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),1,4,lng/b47;lng/i63;trp/unl,1,Q115124340,European Unit of Account 17,E.U.A.-17|EUA-17|XBD,European Unit of Account 17,226
+control,,XSU,fin/i42,Sucre,1,4,lng/b47;lng/i63;trp/unl,1,Q1148329,SUCRE,Sistema Unico de Compensacion Regional|Sistema Único de Compensación Regional|XSU,SUCRE,14548
+control,,IQD,fin/i42,Iraqi Dinar,1,1,,1,Q193094,Iraqi dinar,ID,Iraqi dinar,98508
+control,,NGN,fin/i42,Naira,1,4,lng/b47;lng/i63;trp/unl,1,Q203567,naira,NGN|₦|Nigerian naira,Nigerian naira,175272
+control,,CDF,fin/i42,Congolese Franc,1,4,lng/b47;lng/i63;trp/unl,1,Q4734,Congolese franc,CDF|Belgian Congolese franc|Franc Congolais,Congolese franc,32408
+control,,XDR,fin/i42,SDR (Special Drawing Right),1,2,trp/unl,1,Q363958,special drawing rights,SDR|special drawing right,Special drawing rights,72537
+control,,XAG,fin/i42,Silver,1,4,lng/b47;lng/i63;trp/unl,1,Q1584286,silver as an investment,silver|XAG|silver as currency,Silver as an investment,58764
+control,,XCG,fin/i42,Caribbean Guilder,1,4,lng/b47;lng/i63;trp/unl,1,Q737779,Caribbean guilder,,Caribbean guilder,81458
+control,,GTQ,fin/i42,Quetzal,1,2,trp/unl,1,Q207396,quetzal,GTQ|Guatemala quetzal|Quetzal (1925-date),Guatemalan quetzal,39672
+control,,XBA,fin/i42,Bond Markets Unit European Composite Unit (EURCO),1,5,cmp/ext;lng/b47;lng/i63;trp/unl,1,Q115123957,European Composite Unit,EURCO|XBA,European Composite Unit,282
+control,,JMD,fin/i42,Jamaican Dollar,1,4,lng/b47;lng/i63;trp/unl,1,Q209792,Jamaican dollar,Jay|$|JMD|J$,Jamaican dollar,47233
+control,,EUR,fin/i42,Euro,1,2,trp/unl,1,Q4916,,,Euro,967233
+control,,VUV,fin/i42,Vatu,1,2,trp/unl,1,Q207523,Vanuatu vatus,Vatu,Vanuatu vatu,16034
+control,,ZMW,fin/i42,Zambian Kwacha,1,4,lng/b47;lng/i63;trp/unl,1,Q73408,Zambian Kwacha,ZMW,Zambian kwacha,32448
+control,,XUA,fin/i42,ADB Unit of Account,1,4,lng/b47;lng/i63;trp/unl,1,Q112107910,ADB Unit of Account,XUA,ADB Unit of Account,36
+control,,UYW,fin/i42,Unidad Previsional,1,1,,1,Q107631325,Unidad Previsional,UP|UYW,Unidad Previsional,18
+control,,VED,fin/i42,Bolívar Soberano,1,4,lng/b47;lng/i63;trp/unl,1,Q123493742,digital bolívar,VED,Venezuelan digital bolívar,174
+control,,XTS,fin/i42,Codes specifically reserved for testing purposes,1,4,lng/b47;lng/i63;trp/unl,1,Q115189115,Code reserved for testing,XTS,,
+control,,ZWG,fin/i42,Zimbabwe Gold,1,2,trp/unl,1,Q125352135,Zimbabwe ZiG,ZiG|Zimbabwean gold,Zimbabwe Gold,57129
+control,,XPD,fin/i42,Palladium,1,4,lng/b47;lng/i63;trp/unl,1,Q1669450,palladium as an investment,palladium|XPD|palladium as currency,Palladium as an investment,4996
+control,,YEXT,fin/tck,"Yext, Inc.",1,1,,1,Q8053341,Yext,"Yext, Inc.|yext.com",Yext,17488
+control,,YAAS,fin/tck,Youxin Technology Ltd,1,1,,0,,,,,
+control,,NNVC,fin/tck,"NANOVIRICIDES, INC.",1,1,,0,,,,,
+control,,PWP,fin/tck,Perella Weinberg Partners,1,2,trp/unl,0,,,,,
+control,,MFIC,fin/tck,MidCap Financial Investment Corp,1,1,,0,,,,,
+control,,SBFM,fin/tck,Sunshine Biopharma Inc.,1,1,,0,,,,,
+control,,UK,fin/tck,Ucommune International Ltd,1,4,lng/b47;lng/i39;trp/tld,0,,,,,
+control,,FFBC,fin/tck,FIRST FINANCIAL BANCORP /OH/,1,1,,1,Q5453009,First Financial Bank,,First Financial Bank (Ohio),7854
+control,,VANI,fin/tck,"Vivani Medical, Inc.",1,1,,0,,,,,
+control,,DROR,fin/tck,"Dror Ortho-Design, Inc.",1,1,,0,,,,,
+control,,CBUS,fin/tck,"Cibus, Inc.",1,1,,0,,,,,
+control,,ILLR,fin/tck,Triller Group Inc.,1,1,,0,,,,,
+control,,GMAB,fin/tck,GENMAB A/S,1,1,,0,,,,,
+control,,LOOP,fin/tck,"Loop Industries, Inc.",1,2,cmp/asm,0,,,,,
+control,,OVTZ,fin/tck,OCULUS INC.,1,1,,0,,,,,
+control,,GURE,fin/tck,"GULF RESOURCES, INC.",1,1,,0,,,,,
+control,,INCY,fin/tck,INCYTE CORP,1,1,,1,Q6015591,Incyte,Incyte Corporation|Incyte Inc.,Incyte,21051
+control,,GORO,fin/tck,GOLD RESOURCE CORP,1,1,,0,,,,,
+control,,CARR,fin/tck,CARRIER GLOBAL Corp,1,2,com/tlg,1,Q731912,Carrier Corporation,"Carrier|Carrier Corp|CARRIER CORPORATION (Palm Beach Gardens, FL)",Carrier Global,134263
+control,,VIRT,fin/tck,"Virtu Financial, Inc.",1,1,,1,Q7934906,Virtu Financial,,Virtu Financial,49460
+control,,NCLH,fin/tck,Norwegian Cruise Line Holdings Ltd.,1,1,,1,Q60767471,Norwegian Cruise Line Holdings Ltd.,NCLH|Norwegian Cruise Line Holdings,Norwegian Cruise Line Holdings,42339
+control,,INIS,fin/tck,RADNOSTIX INC,1,1,,0,,,,,
+control,,UCL,fin/tck,uCloudlink Group Inc.,1,2,trp/unl,0,,,,,
+control,,AIFF,fin/tck,"FIREFLY NEUROSCIENCE, INC.",1,2,cmp/ext,0,,,,,
+control,,ABVE,fin/tck,Above Food Ingredients Inc.,1,1,,0,,,,,
+control,,XPOF,fin/tck,"Xponential Fitness, Inc.",1,1,,0,,,,,
+control,,TCOM,fin/tck,Trip.com Group Ltd,1,1,,0,,,,,
+control,,RYDE,fin/tck,Ryde Group Ltd,1,1,,0,,,,,
+control,,CMSC,fin/tck,CMS ENERGY CORP,1,1,,1,Q5013012,CMS Energy,,CMS Energy,13516
+control,,THH,fin/tck,TryHard Holdings Ltd,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,TG,fin/tck,TREDEGAR CORP,1,6,bio/gen;cls/loc;lng/b47;lng/i39;trp/tld,1,Q7837478,Tredegar corporation,,Tredegar Corporation,1725
+control,,TCBX,fin/tck,"Third Coast Bancshares, Inc.",1,1,,0,,,,,
+control,,MMYT,fin/tck,MakeMyTrip Ltd,1,1,,0,,,,,
+control,,EBMT,fin/tck,"Eagle Bancorp Montana, Inc.",1,1,,0,,,,,
+control,,BDPT,fin/tck,"BIOADAPTIVES, INC.",1,1,,0,,,,,
+control,,GBTG,fin/tck,"Global Business Travel Group, Inc.",1,1,,0,,,,,
+control,,STCB,fin/tck,"Starco Brands, Inc.",1,1,,0,,,,,
+control,,GDTC,fin/tck,CytoMed Therapeutics Ltd,1,1,,0,,,,,
+control,,QSJC,fin/tck,"TANCHENG GROUP CO., LTD.",1,1,,0,,,,,
+control,,LB,fin/tck,LandBridge Co LLC,1,5,cls/loc;lng/b47;lng/i39;trp/tld,0,,,,,
+control,,HPP,fin/tck,"Hudson Pacific Properties, Inc.",1,3,cmp/ext;trp/unl,1,Q55614037,Hudson Pacific Properties,,Hudson Pacific Properties,5507
+control,,ESOA,fin/tck,Energy Services of America CORP,1,1,,0,,,,,
+control,,COHN,fin/tck,Cohen & Co Inc.,1,1,,0,,,,,
+control,,NHTC,fin/tck,NATURAL HEALTH TRENDS CORP,1,1,,0,,,,,
+control,,YELP,fin/tck,YELP INC,1,1,,1,Q2299611,Yelp,"Yelp!|Yelp Inc|Yelp Inc.|Yelp Incorporated|Yelp, Inc.|Yelp.com",Yelp,134584
+control,,SUWA,fin/tck,Sharewow Ltd,1,1,,0,,,,,
+control,,NVVE,fin/tck,Nuvve Holding Corp.,1,1,,0,,,,,
+control,,IPST,fin/tck,"IP STRATEGY HOLDINGS, INC.",1,1,,0,,,,,
+control,,LMED,fin/tck,LataMed AI Corp.,1,1,,0,,,,,
+control,,ESLT,fin/tck,ELBIT SYSTEMS LTD,1,1,,0,,,,,
+control,,UNMA,fin/tck,Unum Group,1,1,,1,Q143435,Unum,,Unum,26129
+control,,MNTN,fin/tck,"MNTN, Inc.",1,1,,0,,,,,
+control,,PTIX,fin/tck,"Protagenic Therapeutics, Inc.new",1,1,,0,,,,,
+control,,SVXY,fin/tck,ProShares Trust II,1,1,,0,,,,,
+control,,SZZL,fin/tck,Sizzle Acquisition Corp. II,1,1,,0,,,,,
+control,,NFJ,fin/tck,"Virtus Dividend, Interest & Premium Strategy Fund",1,2,trp/unl,0,,,,,
+control,,YCBD,fin/tck,"cbdMD, Inc.",1,1,,0,,,,,
+control,,XAIR,fin/tck,"Beyond Air, Inc.",1,1,,0,,,,,
+control,,RPID,fin/tck,"RAPID MICRO BIOSYSTEMS, INC.",1,1,,0,,,,,
+control,,BMXI,fin/tck,BROOKMOUNT EXPLORATIONS INC,1,1,,0,,,,,
+control,,DGZ,fin/tck,DEUTSCHE BANK AKTIENGESELLSCHAFT,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,ATKR,fin/tck,Atkore Inc.,1,1,,0,,,,,
+control,,FSV,fin/tck,FirstService Corp,1,2,trp/unl,0,,,,,
+control,,PECO,fin/tck,"Phillips Edison & Company, Inc.",1,1,,0,,,,,
+control,,CGEM,fin/tck,"Cullinan Therapeutics, Inc.",1,1,,0,,,,,
+control,,HSTA,fin/tck,Hestia Insight Inc.,1,1,,0,,,,,
+control,,ATLN,fin/tck,ATLANTIC INTERNATIONAL CORP.,1,1,,0,,,,,
+control,,PLSH,fin/tck,"PANACEA LIFE SCIENCES HOLDINGS, INC.",1,1,,0,,,,,
+control,,HCAC,fin/tck,Hall Chadwick Acquisition Corp,1,1,,0,,,,,
+control,,GJP,fin/tck,"STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6",1,2,trp/unl,0,,,,,
+control,,LUCN,fin/tck,"Lucent, Inc.",1,1,,0,,,,,
+control,,VYX,fin/tck,NCR Voyix Corp,1,2,trp/unl,1,Q524989,NCR Corporation,"National Cash Register|National Cash Register Company|NCR Corporation (Atlanta, GA)|NCR Voyix Corporation",NCR Voyix,75873
+control,,ANEB,fin/tck,"Anebulo Pharmaceuticals, Inc.",1,1,,0,,,,,
+control,,NBP,fin/tck,NovaBridge Biosciences,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,CIEN,fin/tck,CIENA CORP,1,1,,0,,,,,
+control,,OTEX,fin/tck,OPEN TEXT CORP,1,1,,1,Q2025791,Open Text Corporation,OpenText|OpenText Corporation,OpenText,128882
+control,,STME,fin/tck,Stimcell Energetics Inc.,1,1,,0,,,,,
+control,,INDI,fin/tck,"indie Semiconductor, Inc.",1,1,,0,,,,,
+control,,ENTG,fin/tck,ENTEGRIS INC,1,1,,1,Q5380128,Entegris,"Entegris, Inc.",Entegris,24973
+control,,NSRX,fin/tck,Nasus Pharma Ltd,1,1,,0,,,,,
+control,,BNAI,fin/tck,Brand Engagement Network Inc.,1,1,,0,,,,,
+control,,SHEN,fin/tck,SHENANDOAH TELECOMMUNICATIONS CO/VA/,1,1,,0,,,,,
+control,,SMBC,fin/tck,"SOUTHERN MISSOURI BANCORP, INC.",1,1,,0,,,,,
+control,,ALTO,fin/tck,"Alto Ingredients, Inc.",1,1,,0,,,,,
+control,,XOM,fin/tck,EXXON MOBIL CORP,1,4,lng/b47;lng/i63;trp/unl,1,Q156238,ExxonMobil,Exxon Mobil Corp.,ExxonMobil,548259
+control,,SKAS,fin/tck,"Saker Aviation Services, Inc.",1,2,trp/icao,0,,,,,
+control,,PFSI,fin/tck,"PennyMac Financial Services, Inc.",1,1,,0,,,,,
+control,,TACT,fin/tck,TRANSACT TECHNOLOGIES INC,1,1,,0,,,,,
+control,,CTEV,fin/tck,Claritev Corp,1,1,,0,,,,,
+control,,LNTO,fin/tck,LELANTOS HOLDINGS INC.,1,1,,0,,,,,
+control,,CFBK,fin/tck,CF BANKSHARES INC.,1,1,,0,,,,,
+control,,SXTC,fin/tck,"China SXT Pharmaceuticals, Inc.",1,1,,0,,,,,
+control,,QUAD,fin/tck,"Quad/Graphics, Inc.",1,1,,1,Q7268255,Quad,,Quad (company),12863
+control,,FOCL,fin/tck,EDAP TMS SA,1,1,,0,,,,,
+control,,DXYN,fin/tck,DIXIE GROUP INC,1,1,,0,,,,,
+control,,DBE,fin/tck,Invesco DB Energy Fund,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,ELVA,fin/tck,Electrovaya Inc.,1,1,,0,,,,,
+control,,MITK,fin/tck,MITEK SYSTEMS INC,1,1,,0,,,,,
+control,,BOXL,fin/tck,Boxlight Corp,1,1,,0,,,,,
+control,,AREN,fin/tck,"Arena Group Holdings, Inc.",1,1,,0,,,,,
+control,,CRBP,fin/tck,"Corbus Pharmaceuticals Holdings, Inc.",1,1,,0,,,,,
+control,,RKDA,fin/tck,"Arcadia Biosciences, Inc.",1,1,,0,,,,,
+control,,CVLG,fin/tck,"COVENANT LOGISTICS GROUP, INC.",1,1,,1,Q5179012,Covenant Transport,,Covenant Logistics,5834
+control,,PRSO,fin/tck,Peraso Inc.,1,1,,0,,,,,
+control,,SIVR,fin/tck,abrdn Silver ETF Trust,1,1,,0,,,,,
+control,,FGDL,fin/tck,Franklin Templeton Holdings Trust,1,1,,0,,,,,
+control,,ACUT,fin/tck,Accustem Sciences Inc.,1,1,,0,,,,,
+control,,CMDB,fin/tck,Costamare Bulkers Holdings Ltd,1,1,,0,,,,,
+control,,ATII,fin/tck,Archimedes Tech SPAC Partners II Co.,1,1,,0,,,,,
+control,,INVE,fin/tck,"Identiv, Inc.",1,1,,0,,,,,
+control,,BF-A,fin/tck,BROWN FORMAN CORP,1,1,,1,Q392221,Brown-Forman,Brown-Forman Corporation,Brown-Forman,76326
+control,,BNZI,fin/tck,"Banzai International, Inc.",1,1,,0,,,,,
+control,,RYAM,fin/tck,RAYONIER ADVANCED MATERIALS INC.,1,1,,0,,,,,
+control,,EOLS,fin/tck,"Evolus, Inc.",1,1,,0,,,,,
+control,,SBRA,fin/tck,"Sabra Health Care REIT, Inc.",1,1,,0,,,,,
+control,,MTVA,fin/tck,MetaVia Inc.,1,1,,0,,,,,
+control,,CSAN,fin/tck,Cosan S.A.,1,1,,0,,,,,
+control,,CISS,fin/tck,C3is Inc.,1,1,,0,,,,,
+control,,NOVT,fin/tck,NOVANTA INC,1,1,,0,,,,,
+control,,STRT,fin/tck,STRATTEC SECURITY CORP,1,1,,0,,,,,
+control,,SPWH,fin/tck,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",1,1,,0,,,,,
+control,,HGV,fin/tck,Hilton Grand Vacations Inc.,1,2,trp/unl,0,,,,,
+control,,APHD,fin/tck,"VERDE BIO HOLDINGS, INC.",1,1,,0,,,,,
+control,,PXS,fin/tck,Pyxis Tankers Inc.,1,2,trp/unl,0,,,,,
+control,,NEM,fin/tck,NEWMONT Corp /DE/,1,4,lng/b47;lng/i63;trp/unl,1,Q1785405,Newmont Mining Corporation,Newmont Corporation,Newmont,62979
+control,,KZIA,fin/tck,KAZIA THERAPEUTICS LTD,1,1,,0,,,,,
+control,,XZO,fin/tck,"Exzeo Group, Inc.",1,2,trp/unl,0,,,,,
+control,,SCCF,fin/tck,Sachem Capital Corp.,1,2,trp/icao,0,,,,,
+control,,ZVRA,fin/tck,"ZEVRA THERAPEUTICS, INC.",1,1,,0,,,,,
+control,,CDTG,fin/tck,CDT Environmental Technology Investment Holdings Ltd,1,1,,0,,,,,
+control,,VRNO,fin/tck,Verano Holdings Corp.,1,1,,0,,,,,
+control,,HBNB,fin/tck,Hotel101 Global Holdings Corp.,1,1,,0,,,,,
+control,,BLNE,fin/tck,"Beeline Holdings, Inc.",1,1,,0,,,,,
+control,,FLNG,fin/tck,Flex LNG Ltd.,1,1,,0,,,,,
+control,,LILW,fin/tck,Little West Holdings Inc.,1,1,,0,,,,,
+control,,SWIM,fin/tck,"Latham Group, Inc.",1,1,,0,,,,,
+control,,WDFC,fin/tck,WD 40 CO,1,1,,0,,,,,
+control,,TGHL,fin/tck,GrowHub Ltd,1,1,,0,,,,,
+control,,GBTC,fin/tck,Grayscale Bitcoin Trust ETF,1,1,,0,,,,,
+control,,ZSTK,fin/tck,ZeroStack Corp.,1,1,,0,,,,,
+control,,ICFI,fin/tck,"ICF International, Inc.",1,1,,1,Q5969562,ICF International,Inner City Fund,ICF International,25370
+control,,XRPN,fin/tck,Armada Acquisition Corp. II,1,1,,0,,,,,
+control,,SIDU,fin/tck,Sidus Space Inc.,1,1,,0,,,,,
+control,,EDAP,fin/tck,EDAP TMS SA,1,2,trp/icao,0,,,,,
+control,,GIW,fin/tck,GigCapital8 Corp.,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,LGVN,fin/tck,Longeveron Inc.,1,1,,0,,,,,
+control,,ZEPP,fin/tck,Zepp Health Corp,1,1,,0,,,,,
+control,,NTES,fin/tck,"NetEase, Inc.",1,1,,1,Q196259,NetEase,"NTES|163.com|https://www.163.com|NetEase, Inc.",NetEase,352176
+control,,TUSK,fin/tck,"MAMMOTH ENERGY SERVICES, INC.",1,1,,0,,,,,
+control,,NEXA,fin/tck,Nexa Resources S.A.,1,1,,0,,,,,
+control,,GNQ,lng/i31,Equatorial Guinea,1,4,lng/b47;lng/i63;trp/unl,1,Q983,Equatorial Guinea,GEQ|gq|Republic of Equatorial Guinea,Equatorial Guinea,1154964
+control,,WLF,lng/i31,Wallis and Futuna,1,2,trp/unl,1,Q35555,Wallis and Futuna,Wallis & Futuna|Wallis and Futuna Islands,Wallis and Futuna,281609
+control,,ZWE,lng/i31,Zimbabwe,1,2,trp/unl,1,Q954,Zimbabwe,Rhodesia|Southern Rhodesia|Zimbabwe Rhodesia|Republic of Zimbabwe,Zimbabwe,1521337
+control,,PYF,lng/i31,French Polynesia,1,2,trp/unl,1,Q30971,French Polynesia,pf|French Oceania|French Establishments in Oceania|French Settlements in Oceania|Territory of French Polynesia,French Polynesia,627508
+control,,VGB,lng/i31,Virgin Islands (British),1,2,trp/unl,1,Q25305,British Virgin Islands,"B.V.I.|BVI|Virgin Islands of the United Kingdom|Virgin Islands, United Kingdom|IVB|vg",British Virgin Islands,506386
+control,,CUW,lng/i31,Curaçao,1,4,lng/b47;lng/i63;trp/unl,1,Q25279,Curaçao,Country of Curaçao|Curacau|Curaçoa|Curazao|Curaςao|Curocao|Island Territory of Curaçao|ISO 3166-1:CW,Curaçao,4740026
+control,,DEU,lng/i31,Germany,1,2,trp/unl,1,Q183,Germany,Federal Republic of Germany|FRG|BRD|DE|DEU,Germany,4215163
+control,,ZAF,lng/i31,South Africa,1,4,lng/b47;lng/i63;trp/unl,1,Q258,South Africa,SA|RSA|R.S.A.|Republic of South Africa|zaf,South Africa,2964447
+control,,NFK,lng/i31,Norfolk Island,1,2,trp/unl,1,Q31057,Norfolk Island,"Norfolk Island, Australia|Norfolk Island, Other Territories|Norfolk Island, Other Territories, Australia|Territory of Norfolk Island",Norfolk Island,419367
+control,,JEY,lng/i31,Jersey,1,2,trp/unl,1,Q785,Jersey,Isle of Jersey|Iersey|je|Jersey Island|Jerri|Bailliage de Jerri|Bailliage de Jèrri|Bailliage de Jersey|Balliwick of Jersey|I. Iersey|I. Jersey|Iersey I.|Jèrri|Jersey I.,Jersey,1030161
+control,,GGY,lng/i31,Guernsey,1,2,trp/unl,1,Q25230,Guernsey,gg|GBG|Lisia|Bailiwick of Guernsey|Bailliage de Guernesey|Bailliage dé Guernési|GB-GSY|Giernési|Great Britain Guernsey|XA-GG,Bailiwick of Guernsey,224323
+control,,VNM,lng/i31,Viet Nam,1,4,lng/b47;lng/i63;trp/unl,1,Q881,Vietnam,VNM|VN|Viet Nam|SRV|VIE|Socialist Republic of Viet Nam|Socialist Republic of Vietnam|Việt Nam,Vietnam,2626351
+control,,GIN,lng/i31,Guinea,1,4,lng/b47;lng/i63;trp/unl,1,Q1006,Guinea,gn|GUI|Guinea-Conakry|Republic of Guinea,Guinea,777356
+control,,VUT,lng/i31,Vanuatu,1,4,lng/b47;lng/i63;trp/unl,1,Q686,Vanuatu,van|VAN|vu|Republic of Vanuatu|vut,Vanuatu,974666
+control,,ZMB,lng/i31,Zambia,1,4,lng/b47;lng/i63;trp/unl,1,Q953,Zambia,Zed|Republic of Zambia,Zambia,834599
+control,,HRV,lng/i31,Croatia,1,2,trp/unl,1,Q224,Croatia,HR|CRO|RH|HRV|Republic of Croatia,Croatia,2399255
+control,,NEP,lng/ioc,Nepal,1,2,trp/unl,1,Q837,Nepal,Palpa|Balbo|Nekbal|Bal-bo|Bal-po'i yul|Bal-yul|Balpo|Balpo-yul|Federal Democratic Republic of Nepal|Naipál|Naipala|Naipála|Ne-pel|Necbal|Nehpal|Nei-pal|Nekpal|Népaal|Nepál|Népál|Nepall|Nepaul|Nercerri|Ni-po-lo|Ni-po-louo|Niepal|Nipal|Pa-eul-pou|Pa-le-pou|Pa-lo-pou|Pai-pou|Paï-pou|Palpou,Nepal,3209385
+control,,KUW,lng/ioc,Kuwait,1,4,lng/b47;lng/i63;trp/unl,1,Q817,Kuwait,kw|State of Kuwait,Kuwait,1527138
+control,,NED,lng/ioc,Netherlands,1,4,lng/b47;lng/i63;trp/unl,1,Q55,Netherlands,Holland|the Netherlands|Nederland|NL|de Nederlanden|NLD|Nederlanden,Netherlands,3288512
+control,,NCD,lng/ioc,New Caledonia,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,IVB,lng/ioc,British Virgin Islands,1,4,lng/b47;lng/i63;trp/unl,1,Q25305,British Virgin Islands,"IVB|vg|B.V.I.|BVI|Virgin Islands of the United Kingdom|Virgin Islands, United Kingdom",British Virgin Islands,506386
+control,,GEQ,lng/ioc,Equatorial Guinea,1,4,lng/b47;lng/i63;trp/unl,1,Q983,Equatorial Guinea,GEQ|gq|Republic of Equatorial Guinea,Equatorial Guinea,1154964
+control,,NFI,lng/ioc,Norfolk Island,1,2,trp/unl,0,,,,,
+control,,FIJ,lng/ioc,Fiji,1,1,,1,Q712,Fiji,Viti|fj|Fijī|Fijī Gaṇarājya|Matanitu Tugalala o Viti|Republic of Fiji|Republic of the Fiji Islands,Fiji,1356236
+control,,ONU,trp/iata,Ono-i-Lau Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q24570924,Ono-I-Lau Airport,,,
+control,,ITB,trp/iata,Itaituba Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2902444,Itaituba Airport,ITB|SBIH,Itaituba Airport,910
+control,,ZSE,trp/iata,Saint-Pierre Pierrefonds Airport,1,2,trp/unl,1,Q17431,Pierrefonds Airport,ZSE|FMEP|SAINT PIERRE PIERREFONDS airport|SAINT-PIERRE-PIERREFONDS,Saint-Pierre Pierrefonds Airport,3263
+control,,MWE,trp/iata,Merowe Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q652325,Merowe Airport,MWE|HSMR,Merowe Airport,2283
+control,,CMO,trp/iata,Hobyo Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q11824643,Obbia Airport,CMO|HCMO,Hobyo Airport,298
+control,,GMU,trp/iata,Greenville Downtown Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3914065,Greenville Downtown Airport,GMU|KGMU,Greenville Downtown Airport,4280
+control,,FUE,trp/iata,Fuerteventura Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1431349,Fuerteventura Airport,FUE|FUERTEVENTURA|GCFV,Fuerteventura Airport,28285
+control,,WUS,trp/iata,Nanping Wuyishan Airport,1,2,trp/unl,1,Q2668990,Wuyishan Airport,WUS|ZSWY|Chong'an Airport|Wuyishan Air Base|Nanping Wuyishan Airport,Wuyishan Airport,1943
+control,,DJG,trp/iata,Tiska Djanet Airport,1,2,trp/unl,1,Q2365220,Djanet Inedbirene Airport,DJG|DAAJ,Djanet Inedbirene Airport,2790
+control,,PGB,trp/iata,Pangoa Airport,1,2,trp/unl,1,Q3543830,Progar Airport,PGB|LYPB,Progar Airfield,0
+control,,OKO,trp/iata,Yokota Air Base,1,4,lng/b47;lng/i63;trp/unl,1,Q1806489,Yokota Air Base,OKO|RJTY|Tama Airfield,Yokota Air Base,60090
+control,,GYY,trp/iata,Gary/Chicago International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1431348,Gary/Chicago International Airport,GYY|KGYY,Gary/Chicago International Airport,32417
+control,,YQQ,trp/iata,Comox Valley International Airport / CFB Comox,1,1,,1,Q1836424,CFB Comox / Comox Valley Airport,"Comox, British Columbia|CFB Comox|CYQQ|YQQ|Canadian Forces Base Comox|19 Wg|19 Wing|19 Wing Comox",CFB Comox,20807
+control,,MYY,trp/iata,Miri Airport,1,4,lng/b47;lng/i63;trp/unl,2,,,,,
+control,,GGD,trp/iata,Gregory Downs Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q21924108,Gregory Downs Airport,YGDS,,
+control,,YWL,trp/iata,Williams Lake Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3912577,Williams Lake Airport,CYWL|YWL,Williams Lake Airport,2334
+control,,SIK,trp/iata,Sikeston Memorial Municipal Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q7513638,Sikeston Memorial Municipal Airport,SIK|KSIK,Sikeston Memorial Municipal Airport,851
+control,,CTU,trp/iata,Chengdu Shuangliu International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q387560,Chengdu Shuangliu International Airport,CTU|Shuangguisi Airport|Shuangliu Airport|ZUUU,Chengdu Shuangliu International Airport,57874
+control,,PDL,trp/iata,João Paulo II Airport,1,2,trp/unl,1,Q1432424,João Paulo II Airport,PDL|Joao Paulo II Airport|LPPD,John Paul II Ponta Delgada Airport,48448
+control,,PSM,trp/iata,Portsmouth International Airport at Pease,1,4,lng/b47;lng/i63;trp/unl,2,,,,,
+control,,HWA,trp/iata,Hawabango Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q35263328,Hawabango,HWA,,
+control,,BXN,trp/iata,Bodrum-Imsık Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3886424,Imsık Airport,BXN|LTBV|Bodrum-Imsık Airport,Imsık Airport,0
+control,,SDW,trp/iata,Sindhudurg Airport,1,2,trp/unl,1,Q16900194,Sindhudurg Airport,SDW|VOSD,Sindhudurg Airport,21599
+control,,YGK,trp/iata,Kingston Norman Rogers Airport,1,2,trp/unl,1,Q3274178,Kingston/Norman Rogers Airport,CYGK|YGK,Kingston Norman Rogers Airport,8699
+control,,IHO,trp/iata,Ihosy Airport,1,2,trp/unl,1,Q20451277,Ihosy Airport,IHO|FMSI,,
+control,,ZRJ,trp/iata,Round Lake (Weagamow Lake) Airport,1,2,trp/unl,1,Q3914722,Round Lake (Weagamow Lake) Airport,CZRJ|ZRJ,Round Lake (Weagamow Lake) Airport,999
+control,,KIC,trp/iata,Mesa Del Rey Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q651986,Mesa Del Rey Airport,KIC|KKIC,Mesa Del Rey Airport,862
+control,,BSQ,trp/iata,Bisbee Municipal Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q4917212,Bisbee Municipal Airport,BSQ,Bisbee Municipal Airport,989
+control,,ONO,trp/iata,Ontario Municipal Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q7094844,Ontario Municipal Airport,ONO|KONO,Ontario Municipal Airport,1276
+control,,ZJN,trp/iata,Swan River Airport,1,2,trp/unl,1,Q3914154,Swan River Airport,CZJN|ZJN,Swan River Airport,577
+control,,BHW,trp/iata,Bhagatanwala Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q20463680,Bhagatanwala Airport,OPBG,,
+control,,XSI,trp/iata,South Indian Lake Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3912558,South Indian Lake Airport,CZSN|XSI,South Indian Lake Airport,504
+control,,YPA,trp/iata,Prince Albert Glass Field,1,4,lng/b47;lng/i63;trp/unl,1,Q3912636,Prince Albert (Glass Field) Airport,CYPA|YPA,Prince Albert (Glass Field) Airport,3398
+control,,GOC,trp/iata,Gora Airstrip,1,4,lng/b47;lng/i63;trp/unl,1,Q35260557,Gora,GOC,,
+control,,CRU,trp/iata,Lauriston Airport,1,3,trp/unl;wrt/iau,1,Q5243346,Lauriston Airport,CRU|TGPZ,Lauriston Airport,1870
+control,,UGB,trp/iata,Ugashik Bay Airport,1,3,lng/b47;lng/i63,1,Q7877718,Ugashik Bay Airport,UGB,Ugashik Bay Airport,433
+control,,KPF,trp/iata,Kondobol Airport,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,CBJ,trp/iata,Cabo Rojo Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2875806,Cabo Rojo Airport,CBJ|MDCR,Cabo Rojo Airport,1723
+control,,RJL,trp/iata,Logroño-Agoncillo Airport,1,2,trp/unl,1,Q686526,Logroño-Agoncillo Airport,RJL|LELO|Agoncillo Airport|LERJ|LOGROÑO|Logrono Airport,Logroño–Agoncillo Airport,3651
+control,,CBQ,trp/iata,Margaret Ekpo International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1030578,Margaret Ekpo International Airport,CBQ,Margaret Ekpo International Airport,4374
+control,,POX,trp/iata,Pontoise-Cormeilles Aerodrome,1,4,lng/b47;lng/i63;trp/unl,1,Q2875890,Pontoise – Cormeilles Aerodrome,POX|Cormeilles-en-Vexin Airport|LFPT|PONTOISE-CORMEILLES,Pontoise–Cormeilles Aerodrome,1026
+control,,BUS,trp/iata,Alexander Kartveli Batumi International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1200570,Batumi International Airport,BUS|Alexander Kartveli Batumi International Airport|UGSB,Batumi International Airport,22649
+control,,GRW,trp/iata,Graciosa Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q176634,Graciosa Airport,GRW|LPGR,Graciosa Airport,2435
+control,,YGP,trp/iata,Michel-Pouliot Gaspé Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2875732,Michel-Pouliot Gaspé Airport,CYGP|Michel-Pouliot Gaspe Airport|YGP,Michel-Pouliot Gaspé Airport,3832
+control,,MPG,trp/iata,Makini Airport,1,6,bio/gen;cmp/ext;lng/b47;lng/i63;trp/unl,1,Q35277181,Makini,MPG,,
+control,,YXY,trp/iata,Whitehorse / Erik Nielsen International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1433251,Erik Nielsen Whitehorse International Airport,"CYXY|Whitehorse International, Yukon|YXY",Erik Nielsen Whitehorse International Airport,29024
+control,,ULQ,trp/iata,Heriberto Gíl Martínez Airport,1,2,trp/unl,1,Q3887249,Heriberto Gíl Martínez Airport,Farfan Airport|Heriberto Gil Martinez Airport|SKUL|ULQ,Heriberto Gíl Martínez Airport,439
+control,,OGL,trp/iata,Eugene F. Correia International Airport,1,2,trp/unl,1,Q7080093,Eugene F. Correia International Airport,OGL|SYGO,Eugene F. Correia International Airport,12043
+control,,LHE,trp/iata,Allama Iqbal International Airport,1,2,trp/unl,1,Q60879,Allama Iqbal International Airport,LHE|OPLA,Allama Iqbal International Airport,71066
+control,,UTD,trp/iata,Nutwood Downs Airport,1,2,trp/unl,0,,,,,
+control,,KBM,trp/iata,Kabwum,1,5,cls/loc;lng/b47;lng/i63;trp/unl,1,Q35269552,Kabwum Airport,KBM,,
+control,,CUY,trp/iata,Cue Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q5192555,Cue Airport,CUY|YCUE,Cue Airport,894
+control,,BXV,trp/iata,Breiðdalsvík Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q12692021,Breiðdalsvík Airport,BIBV|BXV,Breiðdalsvík Airport,522
+control,,IJK,trp/iata,Izhevsk Airport,1,2,trp/unl,1,Q2629079,Izhevsk Airport,IJK|USII,Izhevsk Airport,2963
+control,,KUZ,trp/iata,Kuummiut Heliport,1,4,lng/b47;lng/i63;trp/unl,1,Q4993126,Kuummiit Heliport,KUZ|BGKM|Kuummiut heliport,Kuummiit Heliport,415
+control,,OJU,trp/iata,Tanjung Api Airport,1,2,trp/unl,1,Q25468650,Tanjung Api Airport,Toja Una-Una Regency Tanjung Api Airport,Tanjung Api Airport,1500
+control,,KTO,trp/iata,Kato Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q11824476,Kato Airport,KTO|SYKT,Kato Airport,323
+control,,MIB,trp/iata,Minot Air Force Base,1,4,lng/b47;lng/i63;trp/unl,1,Q1114128,Minot Air Force Base,,Minot Air Force Base,48663
+control,,SZI,trp/iata,Zaysan Airport,1,2,trp/unl,1,Q4184341,Zaysan Airport,UASZ|SZI,Zaisan Airport,529
+control,,SLJ,trp/iata,Solomon Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q13525671,Solomon Airport,SLJ|Solomon Airport (Western Australia)|YSOL,Solomon Airport,1476
+control,,DGA,trp/iata,Dangriga Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1708475,Dangriga Airport,DGA,Dangriga Airport,1363
+control,,GBW,trp/iata,Ginbata Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q21960952,Ginbata Airport,YGIA,Ginbata Airport,1882
+control,,CZJ,trp/iata,Corazón de Jesús Airport,1,2,trp/unl,1,Q11824334,Corazón de Jesús Airport,Corazon de Jesus Airport|CZJ,Corazón de Jesús Airport,587
+control,,BQO,trp/iata,Bouna Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2877389,Tehini Airport,BQO|DIBN,Tehini Airport,330
+control,,OVL,trp/iata,El Tuqui Airport,1,2,trp/unl,1,Q16890955,El Tuqui Airport,OVL|SCOV,El Tuqui Airport,244
+control,,FBM,trp/iata,Lubumbashi International Airport,1,2,trp/unl,1,Q738866,Lubumbashi International Airport,FBM|Elisabethville Airport|FZQA|Luano Airport,Lubumbashi International Airport,13869
+control,,LBD,trp/iata,Khujand International Airport,1,2,trp/unl,1,Q2631952,Khujand Airport,LBD|Khudzhand Airport|UTDL,Khujand Airport,7068
+control,,RNT,trp/iata,Renton Municipal Airport,1,2,trp/unl,1,Q7313554,Renton Municipal Airport,RNT|KRNT,Renton Municipal Airport,7981
+control,,PZI,trp/iata,Panzhihua Bao'anying Airport,1,2,trp/unl,1,Q1014250,Panzhihua Bao'anying Airport,PZI|ZUZH|ZUZI,Panzhihua Baoanying Airport,1272
+control,,YVB,trp/iata,Bonaventure Airport,1,2,trp/unl,1,Q3544927,Bonaventure Airport,CYVB|YVB,Bonaventure Airport,2184
+control,,LEZ,trp/iata,La Esperanza Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q11824520,"La Esperanza Airport, Intibucá",LEZ|MHLE,La Esperanza Airport (Intibucá),291
+control,,HPV,trp/iata,Princeville Airport,1,2,trp/unl,1,Q7245039,Princeville Airport,HPV,Princeville Airport,2275
+control,,MMG,trp/iata,Mount Magnet Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q851170,Mount Magnet Airport,MMG|YMOG,Mount Magnet Airport,866
+control,,PDU,trp/iata,Tydeo Larre Borges Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1432332,Paysandú Airport,PDU|Paysandu Airport|SUPU|Tydeo Larre Borges Airport,Paysandú Airport,827
+control,,TOU,trp/iata,Touho Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q7828842,Touho Airport,TOU|NWWU|TOUHO,Touho Airport,685
+control,,NHX,trp/iata,Naval Outlying Field Barin,1,4,lng/b47;lng/i63;trp/unl,1,Q3017096,Naval Outlying Field Barin,KNBJ|NHX,Naval Outlying Landing Field Barin,2262
+control,,MXW,trp/iata,Mandalgobi Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1627007,Mandalgovi Airport,MXW|ZMMG,Mandalgovi Airport,242
+control,,YDT,trp/iata,Boundary Bay Airport,1,3,trp/unl;wrt/tz,1,Q829643,Boundary Bay Airport,"Boundary Bay, British Columbia|YDT|CZBB|Vancouver/Boundary Bay Airport",Boundary Bay Airport,6223
+control,,LUU,trp/iata,Laura Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q21924065,Laura Airport,LUU|YLRA,Laura Airport,355
+control,,BIK,trp/iata,Frans Kaisiepo Airport,1,5,bio/gen;lng/b47;lng/i63;trp/unl,1,Q2134812,Frans Kaisiepo International Airport,BIK|Frans Kaisiepo Airport|Mokmer Airfield (WW2)|Mokmer Airport|Mokmer Drome (WW2)|WABB,Frans Kaisiepo Airport,6519
+control,,CVH,trp/iata,Caviahue Airport,1,2,trp/unl,1,Q430611,Caviahue Airstrip,LAD2303,Caviahue Airport,350
+control,,MTU,trp/iata,Montepuez Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q35281550,Montepuez Airport,,,
+control,,JQA,trp/iata,Qaarsut Airport,1,2,trp/unl,1,Q3497799,Qaarsut Airport,JQA|BGUQ,Qaarsut Airport,2412
+control,,BJB,trp/iata,Bojnord Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1919474,Bojnord Airport,BJB|OIMN,Bojnord Airport,1209
+control,,NRY,trp/iata,Newry Airport,1,2,trp/unl,1,Q21957743,Newry,,,
+control,,DEZ,trp/iata,Deir ez-Zor Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1369165,Deir ez-Zor International Airport,DEZ|OSDZ,Deir ez-Zor Airport,5560
+control,,DRA,trp/iata,Desert Rock Airport,1,5,lng/b47;lng/i63;trp/unl;wrt/iau,1,Q1654771,Desert Rock Airport,DRA|KDRA,Desert Rock Airport,2177
+control,,YHG,trp/iata,Charlottetown Airport,1,2,trp/unl,1,Q1836384,Charlottetown Airport,CCH4|YHG,Charlottetown Airport (Labrador),339
+control,,YJA,trp/iata,Jasper Airport,1,2,trp/unl,1,Q2903486,Jasper Airport,CYJA|YJA,Jasper Airport,865
+control,,MUH,trp/iata,Mersa Matruh International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q651557,Marsa Matruh International Airport,MUH|Marsa Matrouh|HEMM|Mersa Matruh Airport,Marsa Matruh International Airport,7401
+control,,KUN,trp/iata,Kaunas International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q847695,Kaunas Airport,KUN|EYKA,Kaunas Airport,20618
+control,,YPG,trp/iata,Portage-la-Prairie / Southport Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3913587,Portage la Prairie Southport Airport,YPG|CYPG,Portage la Prairie/Southport Airport,2163
+control,,QDV,trp/iata,Comte. Rolim Adolfo Amaro–Jundiaí State Airport,1,2,trp/unl,1,Q5244633,Jundiaí Airport,SBJD|QDV|Jundiai Airport,Jundiaí Airport,1247
+control,,ILO,trp/iata,Iloilo International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3085934,Iloilo International Airport,ILO|Iloilo Airport|RPVI,Iloilo International Airport,44823
+control,,GMP,trp/iata,Gimpo International Airport,1,2,trp/unl,1,Q482493,Gimpo International Airport,Kimpo Airport|Kimpo International Airport|GMP|RKSS,Gimpo International Airport,88060
+control,,LIY,trp/iata,MidCoast Regional Airport at Wright Army Airfield,1,4,lng/b47;lng/i63;trp/unl,1,Q3566230,MidCoast Regional Airport at Wright Army Airfield,KLHW|LIY,MidCoast Regional Airport at Wright Army Airfield,1680
+control,,NWI,trp/iata,Norwich Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q349673,Norwich International Airport,Norwich|NWI|EGSH|Norwich Airport,Norwich Airport,33081
+control,,URO,trp/iata,Rouen Vallée de Seine Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1146471,Rouen Airport,LFOP|ROUEN-VALLÉE DE SEINE|Rouen/Vallee de Seine Airport|URO,Rouen Airport,3665
+control,,YUE,trp/iata,Yuendumu Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q12695642,Yuendumu Aerodrome,VUE|YUE|Yuendumu Airport|YYND,Yuendumu Airport,414
+control,,LBJ,trp/iata,Komodo Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1927261,Komodo International Airport,LBJ|Komodo Airport|WATO,Komodo International Airport,25468
+control,,KGF,trp/iata,Sary-Arka Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q117807,Sary-Arka Airport,Karaganda Airport|KGF|UAKK|Аэропорт Караганда,Sary-Arka Airport,6582
+control,,KRZ,trp/iata,Kiri Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2784942,Basango Mboliasa Airport,Basango Mboliasa airport|FZBT|KRZ|Mboliasa Airport,Basango Mboliasa Airport,388
+control,,KBU,trp/iata,Gusti Syamsir Alam Airport,1,5,cls/loc;lng/b47;lng/i63;trp/unl,1,Q4272543,Gusti Syamsir Alam Airport,KBU|WRBK,Gusti Sjamsir Alam Airport,6
+control,,SXQ,trp/iata,Soldotna Airport,1,2,trp/unl,1,Q14664640,Soldotna Airport,PASX|SXQ,Soldotna Airport,2264
+control,,HOF,trp/iata,Al-Ahsa International Airport,1,2,trp/unl,1,Q2875750,Al-Ahsa International Airport,HOF|Al-Ahsa|Al-Ahsa Domestic Airport|OEAH,Al-Ahsa International Airport,7129
+control,,BOZ,trp/iata,Bozoum Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3813693,Bozoum Airport,BOZ|FEGZ,Bozoum Airport,307
+control,,TIY,trp/iata,Tidjikja Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q6588191,Tidjikja Airport,TIY|GQND,Tidjikja Airport,558
+control,,PDE,trp/iata,Pandie Pandie Airport,1,2,trp/unl,0,,,,,
+control,,ZTH,trp/iata,Zakynthos International Airport Dionysios Solomos,1,2,trp/unl,1,Q733326,Zakynthos International Airport,ZTH|LGZA|Zakynthos Airport,Zakynthos International Airport,26580
+control,,IFP,trp/iata,Laughlin Bullhead International Airport,1,2,trp/unl,1,Q3545149,Laughlin/Bullhead International Airport,IFP|Bullhead International Airport|KIFP|Laughlin Bullhead International Airport|Laughlin International Airport,Laughlin/Bullhead International Airport,10032
+control,,GHE,trp/iata,Garachiné Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q11824392,Garachiné Airport,GHE,Garachiné Airport,380
+control,,DNS,trp/iata,Denison Municipal Airport,1,2,trp/unl,1,Q14688955,Denison Municipal Airport,DNS|KDNS,Denison Municipal Airport,615
+control,,FYM,trp/iata,Fayetteville Municipal Airport,1,2,trp/unl,1,Q5439057,Fayetteville Municipal Airport,FYM|KFYM,Fayetteville Municipal Airport (Tennessee),537
+control,,KYE,trp/iata,Rene Mouawad Air Base,1,4,lng/b47;lng/i63;trp/unl,1,Q1421837,René Mouawad Airport,OLKA|KYE|Rene Mouawad AB Airport|Rene Mouawad Air Base|Rene Mouawad Airport|El Qlayaat Air Base|Qoleiat airport|Qoleiat Airfield|Kleyate Airport,René Mouawad Airport,3727
+control,,TBJ,trp/iata,Tabarka-Aïn Draham International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q1432975,Tabarka-Ain Draham International Airport,07. Nov Airport|DTKA|Tabarka–7 November International Airport|TBJ,Tabarka–Aïn Draham International Airport,1553
+control,,PUN,trp/iata,Punia Airport,1,2,trp/unl,1,Q12694565,Punia Airport,Punia|PUN,Punia Airport,405
+control,,GCW,trp/iata,Grand Canyon West Airport,1,2,trp/unl,1,Q3913677,Grand Canyon West Airport,GCW,Grand Canyon West Airport,3063
+control,,YHZ,trp/iata,Halifax / Stanfield International Airport,1,2,trp/unl,1,Q1345785,Halifax Stanfield International Airport,CYHZ|Halifax International Airport|Halifax-Stanfield|Halifax/Robert L. Stanfield International Airport|YHZ,Halifax Stanfield International Airport,104349
+control,,GVL,trp/iata,Lee Gilmer Memorial Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q6513675,Lee Gilmer Memorial Airport,GVL|KGVL,Lee Gilmer Memorial Airport,2532
+control,,KJB,trp/iata,Kurnool Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q29017871,Kurnool Airport,KJB|Orvakal Airport|Uyyalawada Narasimha Reddy Airport|VOKU,Kurnool Airport,17568
+control,,KXO,trp/iata,Kisoro Airport,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,ZIC,trp/iata,Victoria Airport,1,2,trp/unl,1,Q7926549,Victoria Airport,ZIC|SCTO,Victoria Airport (Chile),268
+control,,YPL,trp/iata,Pickle Lake Airport,1,2,trp/unl,1,Q3913892,Pickle Lake Airport,YPL|CYPL,Pickle Lake Airport,1864
+control,,ZJG,trp/iata,Jenpeg Airport,1,2,trp/unl,1,Q2902176,Jenpeg Airport,CZJG|ZJG,Jenpeg Airport,231
+control,,GDT,trp/iata,JAGS McCartney International Airport,1,5,lng/b47;lng/i63;trp/unl;wrt/tz,1,Q2902808,JAGS McCartney International Airport,GDT|GRAND TURK International|MBGT,JAGS McCartney International Airport,7604
+control,,GID,trp/iata,Gitega Airport,1,5,cmp/dns;lng/b47;lng/i63;trp/unl,1,Q2030362,Gitega Airport,Gitega|GID,Gitega Airport,2373
+control,,TOE,trp/iata,Tozeur Nefta International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q656500,Tozeur–Nefta International Airport,TOE|DTTZ|Nefta Airport,Tozeur–Nefta International Airport,3781
+control,,CJB,trp/iata,Coimbatore International Airport,1,2,trp/unl,1,Q505572,Coimbatore Airport,Chitra Airport|CJB|COIMBATORE|Coimbatore International Airport|Peelamedu Airport|VOCB,Coimbatore International Airport,65594
+control,,AHB,trp/iata,Abha International Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q2743319,Abha International Airport,Abha|AHB|OEAB,Abha International Airport,23646
+control,,KFG,trp/iata,Kalkgurung Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q17613,Kalkgurung Aerodrome,KFG|Kalkgurung Airport|YKKG,Kalkgurung Airport,515
+control,,KWP,trp/iata,West Point Village Seaplane Base,1,4,lng/b47;lng/i63;trp/unl,1,Q4479820,West Point Village Seaplane Base,KWP,West Point Village Seaplane Base,276
+control,,UMT,trp/iata,Umiat Airport,1,2,trp/unl,1,Q17183502,Umiat Airport,UMT|PAUM,Umiat Airport,648
+control,,BWE,trp/iata,Braunschweig-Wolfsburg Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q545641,Braunschweig-Wolfsburg Airport,BWE|EDVE,Braunschweig Wolfsburg Airport,4839
+control,,CDQ,trp/iata,Croydon Airport,1,3,cmp/asm;trp/unl,1,Q21924150,Croydon Airport,,,
+control,,RVY,trp/iata,Pres. Gral. Óscar D. Gestido Binational Airport,1,2,trp/unl,1,Q1432606,Rivera International Airport,SURV|Óscar D. Gestido International Airport|RVY,Rivera International Airport,2836
+control,,CXF,trp/iata,Coldfoot Airport,1,2,trp/unl,1,Q1656124,Coldfoot Airport,CXF|PACX,Coldfoot Airport,1314
+control,,DVT,trp/iata,Phoenix Deer Valley Airport,1,2,trp/unl,1,Q2088517,Phoenix Deer Valley Airport,DVT|KDVT,Phoenix Deer Valley Airport,5595
+control,,FUT,trp/iata,Pointe Vele Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q182132,Pointe Vele Airport,FUT|NLWF,Pointe Vele Airport,2849
+control,,HGZ,trp/iata,Hog River Airport,1,2,trp/unl,1,Q49746864,Hog River Aerodrome,2AK6,,
+control,,WUZ,trp/iata,Wuzhou Xijiang Airport,1,2,trp/unl,1,Q18208361,Wuzhou Xijiang Airport,WUZ|ZGWZ,Wuzhou Xijiang Airport,1036
+control,,UNE,trp/iata,Qacha's Nek Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q11824700,Qacha's Nek Airport,UNE|FXQN,Qacha's Nek Airport,345
+control,,SXN,trp/iata,Sua Pan Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q7630421,Sua Pan Airport,SXN|FBSN,Sua Pan Airport,393
+control,,YNA,trp/iata,Natashquan Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3565706,Natashquan Airport,CYNA|YNA,Natashquan Airport,824
+control,,HYG,trp/iata,Hydaburg Seaplane Base,1,2,trp/unl,1,Q3084565,Hydaburg Seaplane Base,HYG|PAHY,Hydaburg Seaplane Base,491
+control,,TZM,trp/iata,Aeródromo de Cupul,1,4,lng/b47;lng/i63;trp/unl,1,Q5659056,Cupul aerodrome,Cupul National Airport,Cupul National Airport,459
+control,,HFF,trp/iata,Mackall Army Air Field,1,2,trp/unl,1,Q1029871,Camp Mackall,HFF|KHFF,Camp Mackall,22951
+control,,XGR,trp/iata,Kangiqsualujjuaq (Georges River) Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q3912780,Kangiqsualujjuaq (Georges River) Airport,XGR|angiqsualujjuaq Airport|CYLU|Georges River Airport,Kangiqsualujjuaq (Georges River) Airport,1077
+control,,UZM,trp/iata,Hope Bay Aerodrome,1,2,trp/unl,1,Q3207625,Hope Bay Aerodrome,UZM,Hope Bay Aerodrome,768
+control,,YDV,trp/iata,Bloodvein River Airport,1,2,trp/unl,1,Q598602,Bloodvein River Airport,YDV|CZTA,Bloodvein River Airport,510
+control,,TSF,trp/iata,Treviso Airport,1,4,lng/b47;lng/i63;trp/unl,1,Q513474,Treviso Airport,Treviso|LIPH|TSF|S.Angelo Mil Airport,Treviso Airport,24074
+control,,EMB,trp/ica2,Empresa Brasileira De Aeronautica,1,5,bio/gen;lng/b47;lng/i63;trp/unl,0,,,,,
+control,,NWO,trp/ica2,Northwood Headquarters (RAF,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,OVC,trp/ica2,Aerovic,1,2,trp/unl,0,,,,,
+control,,HDC,trp/ica2,Helcopteros De Cataluna,1,3,bio/gen;trp/unl,0,,,,,
+control,,CSP,trp/ica2,Casper Air Service,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,EWA,trp/ica2,East-West Airlines,1,2,trp/unl,1,Q5327564,East-West Airlines,,East-West Airlines (Australia),5713
+control,,AXI,trp/ica2,Aeron International Airlines,1,2,trp/unl,0,,,,,
+control,,IIN,trp/ica2,Inter Islands Airlines,1,4,lng/b47;lng/i63;trp/unl,1,Q4272095,Inter Islands Airlines,,Inter Islands Airlines,315
+control,,VNG,trp/ica2,Aero Servicios Vanguardia,1,2,trp/unl,0,,,,,
+control,,RMV,trp/ica2,Romavia,1,4,lng/b47;lng/i63;trp/unl,1,Q2164227,Romavia,,Romavia,2422
+control,,RZO,trp/ica2,SATA International,1,2,trp/unl,1,Q2205178,Azores Airlines,Azores Air|SATA Internacional|SATA International,Azores Airlines,51658
+control,,XAB,trp/ica2,Xabre Aerolineas,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,CWE,trp/ica2,Celtic West,1,4,lng/b47;lng/i63;trp/unl,1,Q138634512,,,,
+control,,FQR,trp/ica2,CheapFlyingInternational,1,2,trp/unl,0,,,,,
+control,,ZTF,trp/ica2,Mongolian International Air Lines,1,2,trp/unl,0,,,,,
+control,,WIZ,trp/ica2,Micromatter Technology Solutions,1,3,bio/gen;trp/unl,0,,,,,
+control,,FNO,trp/ica2,Aeroflota Del Noroeste,1,2,trp/unl,0,,,,,
+control,,99F,trp/ica2,All Africa,1,1,,0,,,,,
+control,,CWU,trp/ica2,Wuhan Airlines,1,2,trp/unl,1,Q1622119,Wuhan Airlines,,Wuhan Airlines,1904
+control,,AA1,trp/ica2,Aerolineas Africanas,1,1,,0,,,,,
+control,,XCT,trp/ica2,Aero Costa Taxi Aereo,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,VMP,trp/ica2,Execujet Scandinavia,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,IIR,trp/ica2,INAVIA Internacional,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,TXS,trp/ica2,Texas Airlines,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,T9P,trp/ica2,Tomp Airlines,1,1,,0,,,,,
+control,,PDY,trp/ica2,Pen-Avia,1,2,trp/unl,0,,,,,
+control,,LFC,trp/ica2,Aero Control Air,1,2,trp/unl,0,,,,,
+control,,HKI,trp/ica2,Hawkaire,1,2,trp/unl,1,Q29641304,Flight Hauraki,,Air Auckland,788
+control,,HTP,trp/ica2,Heli Trip,1,2,trp/unl,0,,,,,
+control,,6CC,trp/ica2,Vuela Cuba,1,2,trp/unl,0,,,,,
+control,,RBN,trp/ica2,Red Baron Aviation,1,2,trp/unl,0,,,,,
+control,,VOA,trp/ica2,Viaggio Air,1,2,trp/unl,1,Q960869,Viaggio Air,,Viaggio Air,722
+control,,VSB,trp/ica2,Vickers Limited,1,2,trp/unl,0,,,,,
+control,,FGY,trp/ica2,Froggy Corporate Aviation,1,2,trp/unl,0,,,,,
+control,,SWM,trp/ica2,Sky Angkor Airlines (ZA),1,4,lng/b47;lng/i63;trp/unl,1,Q1052688,Sky Angkor Airlines,Skywings Asia Airlines,Sky Angkor Airlines,23793
+control,,AWL,trp/ica2,Australian Wetleasing,1,2,trp/unl,0,,,,,
+control,,RCP,trp/ica2,Aerocorp,1,2,trp/unl,0,,,,,
+control,,VLK,trp/ica2,Vladivostok Air,1,2,trp/unl,1,Q1068446,Vladivostok Air,,Vladivostok Air,4563
+control,,HJA,trp/ica2,Air Haiti,1,2,trp/unl,1,Q4698012,Air Haïti,,Air Haïti,2747
+control,,YCP,trp/ica2,Canadian National Airways,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,AWS,trp/ica2,Arab Wings,1,5,lng/b47;lng/i63;trp/tld;trp/unl,1,Q623661,Arab Wings,Air Arabia Jordan,Arab Wings,3570
+control,,NOL,trp/ica2,National Overseas Airlines Company,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,GMH,trp/ica2,Hughes Aircraft Company,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,TXI,trp/ica2,Aereotaxis,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,VSR,trp/ica2,Aviostart AS,1,2,trp/unl,1,Q2447356,Aviostart,,,
+control,,XIA,trp/ica2,Irving Oil,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,TVR,trp/ica2,Tavrey Airlines,1,2,trp/unl,2,,,,,
+control,,RPS,trp/ica2,Global Air Charter,1,2,trp/unl,0,,,,,
+control,,RXX,trp/ica2,Express Air Charter,1,2,trp/unl,0,,,,,
+control,,NLW,trp/ica2,Nile Wings Aviation Services,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,NCP,trp/ica2,Capital Airlines Limited,1,4,lng/b47;lng/i63;trp/unl,1,Q5035449,Capital Airlines,NCP|CAPITAL SHUTTLE,Capital Airlines (Nigeria),635
+control,,JXT,trp/ica2,Jetstream Executive Travel,1,2,trp/unl,1,Q9011716,Jetstream Express,,Jetstream Express,377
+control,,PSV,trp/ica2,Servicios Aereos Profesionales,1,2,trp/unl,1,Q7455871,Servicios Aéreos Profesionales,SA Profesionales|SAP Group|Servicios Aereos Profesionales,Servicios Aéreos Profesionales,1250
+control,,ESJ,trp/ica2,Eastern Sky Jets,1,2,trp/unl,1,Q5330469,Eastern SkyJets,,Eastern SkyJets,792
+control,,HZX,trp/ica2,Citic General Aviation,1,2,trp/unl,0,,,,,
+control,,GHP,trp/ica2,Colvin Aviation,1,2,trp/unl,0,,,,,
+control,,OML,trp/ica2,Organizacoes Mambra,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,ARJ,trp/ica2,Aerojet de Costa Rica,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,XSL,trp/ica2,Embry-Riddle Aeronautical University,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,XWW,trp/ica2,World Weatherwatch,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,RWC,trp/ica2,Arrow Ecuador Arrowec,1,2,trp/unl,0,,,,,
+control,,JNR,trp/ica2,Jet Norte,1,2,trp/unl,0,,,,,
+control,,RHC,trp/ica2,Redhill Aviation,1,2,trp/unl,0,,,,,
+control,,AYB,trp/ica2,Belgian Army,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,WDL,trp/ica2,WDL Aviation,1,2,trp/unl,1,Q326858,WDL Aviation,Westdeutsche Luftwerbung,German Regional Airlines,14038
+control,,TFK,trp/ica2,Transafrik International,1,2,trp/unl,1,Q2724044,Transafrik International,,Transafrik International,3113
+control,,RLV,trp/ica2,Real Aviation,1,2,trp/unl,0,,,,,
+control,,DWN,trp/ica2,Dawn Air,1,2,trp/unl,0,,,,,
+control,,FMR,trp/ica2,Flamingo Air,1,2,trp/unl,0,,,,,
+control,,WRF,trp/ica2,Wright Air Service,1,2,trp/unl,1,Q4053256,Wright Air Service,WRF|8V|WRIGHT FLYER,Wright Air Service,8491
+control,,FES,trp/ica2,Aero Taxis Y Servicios Alfe,1,3,bio/gen;trp/unl,0,,,,,
+control,,LVN,trp/ica2,Aliven,1,2,trp/unl,0,,,,,
+control,,NKZ,trp/ica2,Aerokuzbass,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,NPC,trp/ica2,Western Air Couriers,1,2,trp/unl,0,,,,,
+control,,TP6,trp/ica2,Trans Pas Air,1,2,trp/unl,0,,,,,
+control,,UEA,trp/ica2,United Eagle Airlines,1,2,trp/unl,1,Q1587837,Chengdu Airlines,,Chengdu Airlines,21347
+control,,NWD,trp/ica2,New World Jet Corporation,1,2,trp/unl,0,,,,,
+control,,HKH,trp/ica2,Air-Invest,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,FCK,trp/ica2,Flight Calibration Service,1,2,trp/unl,1,Q77077853,Flight Calibration Services (Germany),FCS Flight Calibration Services GmbH,,
+control,,FGA,trp/ica2,Georgian Aviation Federation,1,3,bio/gen;trp/unl,0,,,,,
+control,,RUC,trp/ica2,Rutas Aereas,1,4,lng/b47;lng/i63;trp/unl,1,Q1409875,RUTACA Airlines,Rutas Aéreas Compañía Anónima,RUTACA Airlines,15005
+control,,QCL,trp/ica2,Air Class Lineas Aereas,1,2,trp/unl,1,Q3296639,,Air Class Lineas Aereas,Air Class Líneas Aéreas,8771
+control,,TFH,trp/ica2,Thai Flying Helicopter Service,1,2,trp/unl,0,,,,,
+control,,FVG,trp/ica2,VG Airlines (IV),1,2,trp/unl,1,Q2179637,VG Airlines,,VG Airlines,1243
+control,,RWW,trp/ica2,Fly Europa,1,2,trp/unl,0,,,,,
+control,,XXV,trp/ica2,AASANA,1,2,trp/unl,0,,,,,
+control,,SSU,trp/ica2,SASCA,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,RLL,trp/ica2,Air Leone,1,2,trp/unl,1,Q4201925,Air Leone,,Air Leone,408
+control,,LZT,trp/ica2,Lanzarote Aerocargo,1,2,trp/unl,0,,,,,
+control,,AZX,trp/ica2,Air Max Africa,1,2,trp/unl,2,,,,,
+control,,ICD,trp/ica2,Icaro,1,2,trp/unl,1,Q848845,Icaro Air,,Icaro Air,1621
+control,,EIR,trp/ica2,Eirjet,1,2,trp/unl,1,Q288611,Eirjet,EIR,Eirjet,1484
+control,,VVG,trp/ica2,Aerovilla,1,2,trp/unl,0,,,,,
+control,,IKY,trp/ica2,Intersky,1,2,trp/unl,0,,,,,
+control,,HYH,trp/ica2,Heli Hungary,1,2,trp/unl,0,,,,,
+control,,THF,trp/ica2,Touraine Helicoptere,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,RSP,trp/ica2,Jet Suite,1,3,cmp/reg;trp/unl,1,Q14628859,JetSuite,,Superior Air Charter,2262
+control,,UKL,trp/ica2,Ukraine Air Alliance,1,4,lng/b47;lng/i63;trp/unl,2,,,,,
+control,,NSW,trp/ica2,Country Connection Airlines,1,4,lng/b47;lng/i63;trp/unl,1,Q60456802,Norwegian Air Sweden,NSW|D8|NSZ,Norwegian Air Sweden,25760
+control,,RGG,trp/ica2,TransRussiaAirlines,1,2,trp/unl,0,,,,,
+control,,USF,trp/ica2,USAfrica Airways,1,3,cmp/frc;trp/unl,0,,,,,
+control,,DSH,trp/ica2,Dash Air Charter,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,ZAW,trp/ica2,Zoom Airways,1,4,lng/b47;lng/i63;trp/unl,1,Q4346996,Zoom Airways,,Zoom Airways,690
+control,,WAR,trp/ica2,NZ Warbirds Association,1,5,cmp/ext;lng/b47;lng/i63;trp/unl,0,,,,,
+control,,FOI,trp/ica2,Flight Ops International,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,HXA,trp/ica2,China Express Airlines,1,2,trp/unl,1,Q1073273,China Express Airlines,,China Express Airlines,14323
+control,,PQW,trp/ica2,PanAm World Airways,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,AEJ,trp/ica2,Air Express,1,2,trp/unl,0,,,,,
+control,,DCL,trp/ica2,Transportes Aereos Don Carlos,1,2,trp/unl,0,,,,,
+control,,JEC,trp/ica2,Jett8 Airlines Cargo,1,2,trp/unl,1,Q870818,Jett8 Airlines,,Jett8 Airlines,1766
+control,,EIA,trp/ica2,Evergreen International Airlines,1,2,trp/unl,1,Q1188127,Evergreen International Airlines,,Evergreen International Airlines,30833
+control,,VIB,trp/ica2,Vibroair Flugservice,1,3,cmp/vim;trp/unl,1,Q1617202,Vibroair,Vibro-Air,,
+control,,IRH,trp/ica2,Atlas Aviation Group,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,XWS,trp/ica2,WSI Corporation,1,2,trp/unl,0,,,,,
+control,,AHP,trp/ica2,Aerochiapas,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,UFS,trp/ica2,UFS,1,2,trp/unl,0,,,,,
+control,,PST,trp/ica2,Parsa,1,5,lng/b47;lng/i63;trp/unl;wrt/tz,1,Q407708,,,Air Panama,14235
+control,,XDA,trp/ica2,Bureau Veritas,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,WVA,trp/ica2,Hand D Aviation,1,2,trp/unl,0,,,,,
+control,,JTE,trp/ica2,National Jet Express,1,2,trp/unl,1,Q1536655,National Jet Express,Cobham Aviation Services Australia,National Jet Express,16739
+control,,ECM,trp/ica2,Aerolineas Comerciales,1,2,trp/unl,0,,,,,
+control,,WFO,trp/ica2,Wilbur's Flight Operations,1,2,trp/unl,0,,,,,
+control,,WLB,trp/ica2,Wings of Lebanon Aviation,1,2,trp/unl,1,Q3559186,Wings of Lebanon,,Wings of Lebanon,2092
+control,,FSB,trp/ica2,FSB Flugservice & Development,1,2,trp/unl,0,,,,,
+control,,KIA,trp/ica2,Kiwi International Air Lines,1,5,lng/b47;lng/i63;trp/tld;trp/unl,1,Q6418891,Kiwi International Air Lines,,Kiwi International Air Lines,6948
+control,,IHE,trp/ica2,Interjet Helicopters,1,2,trp/unl,0,,,,,
+control,,VMR,trp/ica2,Aero Vilamoura,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,VUR,trp/ica2,Vuelos Internos Privados VIP,1,2,trp/unl,1,Q15733388,VIP Ecuador,,Vuelos Internos Privados,569
+control,,TQF,trp/ica2,United Kingdom Royal VIP Flights,1,2,trp/unl,0,,,,,
+control,,FIC,trp/ica2,Aerosafin,1,2,trp/unl,0,,,,,
+control,,770,trp/ica2,Samurai Airlines,1,1,,0,,,,,
+control,,UJT,trp/ica2,Universal Jet Aviation,1,2,trp/unl,0,,,,,
+control,,KJC,trp/ica2,Krasnojarsky Airlines,1,4,lng/b47;lng/i63;trp/unl,1,Q142227,KrasAir,,KrasAir,6565
+control,,SCS,trp/ica2,South African Non Scheduled Airways,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,RXP,trp/ica2,Royal Aviation Express,1,2,trp/unl,1,Q3445865,Royal Air Maroc Express,,Royal Air Maroc Express,8256
+control,,BYE,trp/ica2,Bayu Indonesia Air,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,HZT,trp/ica2,Air Horizon,1,2,trp/unl,1,Q4698020,Air Horizon,,Air Horizon,599
+control,,EJS,trp/ica2,Eurojet Servis,1,2,trp/unl,0,,,,,
+control,,QAJ,trp/ica2,Quick Air Jet Charter,1,2,trp/unl,0,,,,,
+control,,VTA,trp/ica2,Air Tahiti,1,2,trp/unl,1,Q179118,Air Tahiti,,Air Tahiti,31311
+control,,WWS,trp/ica2,Worldwide Aviation Services,1,2,trp/unl,0,,,,,
+control,,RTV,trp/ica2,Nortavia,1,2,trp/unl,0,,,,,
+control,,IRY,trp/ica2,Eram Air,1,4,lng/b47;lng/i63;trp/unl,1,Q776457,Eram Air,,Eram Air,607
+control,,NTA,trp/ica2,Northern Thunderbird Air,1,2,trp/unl,1,Q2001099,Northern Thunderbird Air,,Northern Thunderbird Air,3120
+control,,AWV,trp/ica2,Airwave Transport,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,XAX,trp/ica2,AirAsia X,1,2,trp/unl,1,Q406632,AirAsia X,AirAsia X Berhad|AIRASIA X BERHAD|AirAsia X Bhd.,AirAsia X,107341
+control,,QFA,trp/ica2,Qantas,1,2,trp/unl,2,,,,,
+control,,KVS,trp/ica2,Kevis,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
+control,,IBS,trp/ica2,Iberia Express,1,2,trp/unl,1,Q1655820,Iberia Express,,Iberia Express,25165
+control,,XAM,trp/ica2,AMR Services Corporation,1,4,lng/b47;lng/i63;trp/unl,0,,,,,
