@@ -20,7 +20,7 @@ uv run --with requests python -I src/run.py runs/calls.jsonl <model:provider> ru
 uv run python -I src/score.py data/gold.csv runs/calls.jsonl results runs/*.jsonl
 ```
 
-## Layout
+## Layout -
 - src: one script per step.
 - data: candidates, pre-sample with popularity, gold file.
 - runs: every model call with its raw response, in JSONL.
